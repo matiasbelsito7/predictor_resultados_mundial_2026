@@ -280,3 +280,41 @@ Tras miles de repeticiones se estiman probabilidades de:
 * Ganar la Copa del Mundo.
 
 De esta manera el sistema no produce únicamente una predicción puntual, sino una distribución completa de probabilidades que refleja la incertidumbre inherente al fútbol.
+
+# 6. Resultados y Discusión
+
+Se realizaron **10.000 simulaciones Monte Carlo** del Mundial 2026 para estimar las probabilidades de avance de cada selección y sus chances de consagrarse campeona.
+
+Los principales candidatos según el modelo fueron:
+
+| Selección  | Probabilidad de ser campeón |
+| ---------- | --------------------------- |
+| España     | 11.3%                       |
+| Francia    | 11.1%                       |
+| Inglaterra | 11.0%                       |
+| Brasil     | 8.1%                        |
+| Croacia    | 7.9%                        |
+| Bélgica    | 7.8%                        |
+
+A pesar de que varias potencias tradicionales aparecen entre los primeros puestos, los resultados presentan algunas inconsistencias que sugieren que el modelo todavía requiere ajustes.
+
+## Problemas detectados
+
+* **Argentina y Portugal no aparecen dentro del Top 20**, a pesar de que ambas selecciones obtienen índices de fuerza elevados y se encuentran entre las mejores del mundo según rankings y resultados recientes.
+* Selecciones como **República Democrática del Congo, Argelia, Egipto o Suiza** aparecen con probabilidades superiores a las esperadas.
+* Algunas selecciones parecen estar sobrevaloradas por el peso otorgado al rendimiento reciente o por la forma en que se construye el índice de fuerza.
+
+## Posibles causas
+
+Las discrepancias observadas pueden deberse a:
+
+* La calibración del índice de fuerza.
+* Los pesos asignados a las variables de ingeniería de features.
+* La conversión del índice de fuerza en probabilidades de partido.
+* La implementación del cuadro eliminatorio del Mundial 2026.
+* La influencia excesiva de muestras pequeñas o rachas recientes.
+
+## Conclusiones
+
+Los resultados obtenidos deben interpretarse como una primera aproximación y no como una predicción definitiva del torneo. El proyecto logra generar una simulación completa y coherente del Mundial, pero las anomalías observadas indican que todavía existen oportunidades de mejora en la calibración y validación del modelo.
+
