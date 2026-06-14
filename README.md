@@ -287,14 +287,28 @@ Se realizaron **10.000 simulaciones Monte Carlo** del Mundial 2026 para estimar 
 
 Los principales candidatos según el modelo fueron:
 
-| Selección  | Probabilidad de ser campeón |
-| ---------- | --------------------------- |
-| España     | 11.3%                       |
-| Francia    | 11.1%                       |
-| Inglaterra | 11.0%                       |
-| Brasil     | 8.1%                        |
-| Croacia    | 7.9%                        |
-| Bélgica    | 7.8%                        |
+| Selección       | Probabilidad de ser campeón |
+| --------------- | --------------------------- |
+| España          | 11.3%                       |
+| Francia         | 11.1%                       |
+| Inglaterra      | 11.0%                       |
+| Brasil          | 8.1%                        |
+| Croacia         | 7.9%                        |
+| Bélgica         | 7.8%                        |
+| Marruecos       | 6.9%                        |
+| Suiza           | 6.7%                        |
+| Alemania        | 5.6%                        |
+| Estados Unidos  | 5.3%                        |
+| Turquía         | 3.6%                        |
+| Japón           | 3.1%                        |
+| Argelia         | 2.6%                        |
+| Corea del Sur   | 2.4%                        |
+| Egipto          | 1.8%                        |
+| Noruega         | 1.2%                        |
+| Costa de Marfil | 0.9%                        |
+| República Checa | 0.5%                        |
+| Suecia          | 0.5%                        |
+| RD Congo        | 0.5%                        |
 
 A pesar de que varias potencias tradicionales aparecen entre los primeros puestos, los resultados presentan algunas inconsistencias que sugieren que el modelo todavía requiere ajustes.
 
