@@ -1,0 +1,289 @@
+match_id,seleccion,equipo,accurate_passesaccurate_passes,all,duelsduels,expected_goals_xgexpected_goals_xg,ratingrating,successful_dribblessuccessful_dribbles,total_shotstotal_shots,touches_in_opposition_boxtouches_in_opposition_box,touchestouches
+dOR51pNF,alemania,local,50/62 (81%),Schlotterbeck N.Centre back,12,-,8.6,1/1 (100%),-,-,78
+dOR51pNF,alemania,local,19/24 (79%),Havertz K.Striker,11,0.52,8.4,1/3 (33%),1,5,35
+dOR51pNF,alemania,local,17/21 (81%),Sane L.Winger,10,0.19,7.7,3/4 (75%),4,4,43
+dOR51pNF,alemania,local,31/37 (84%),Kimmich J.Fullback,7,-,7.5,-,-,-,58
+dOR51pNF,alemania,local,26/35 (74%),Robinson A.Fullback,7,0.04,7.5,1/3 (33%),1,2,54
+dOR51pNF,alemania,local,25/30 (83%),Tillman M.Midfielder,7,-,7.1,1/2 (50%),-,-,46
+dOR51pNF,alemania,local,35/40 (88%),Adams T.Midfielder,13,-,6.9,-,-,-,55
+dOR51pNF,alemania,local,47/52 (90%),Pavlovic A.Midfielder,12,0.09,6.9,-,2,1,68
+dOR51pNF,alemania,local,16/20 (80%),Brown N.Fullback,9,-,6.8,0/1 (0%),-,1,43
+dOR51pNF,alemania,local,19/23 (83%),McKennie W.Attacking midfielder,8,0.10,6.8,-,1,1,40
+dOR51pNF,alemania,local,6/11 (55%),Raum D.Defender,4,-,6.7,-,-,2,23
+dOR51pNF,alemania,local,7/9 (78%),Balogun F.Striker,7,0.29,6.6,1/2 (50%),3,4,21
+dOR51pNF,alemania,local,16/28 (57%),Baumann O.Goalkeeper,-,-,6.6,-,-,-,34
+dOR51pNF,alemania,local,7/10 (70%),Leweling J.Forward,1,-,6.6,1/1 (100%),-,2,13
+dOR51pNF,alemania,local,36/39 (92%),Tah J.Centre back,4,-,6.6,-,-,-,46
+dOR51pNF,alemania,local,8/8 (100%),Aaronson B.Midfielder,2,0.03,6.5,0/1 (0%),1,-,16
+dOR51pNF,alemania,local,9/11 (82%),Anton W.Defender,2,-,6.5,-,-,-,17
+dOR51pNF,alemania,local,18/20 (90%),Arfsten M.Forward,-,-,6.5,-,-,1,26
+dOR51pNF,alemania,local,19/22 (86%),Reyna G.Midfielder,5,0.09,6.5,0/3 (0%),2,5,31
+dOR51pNF,alemania,local,11/12 (92%),Roldan C.Midfielder,2,-,6.5,-,-,1,13
+dOR51pNF,alemania,local,5/9 (56%),Undav D.Forward,1,0.35,6.5,-,1,1,11
+dOR51pNF,alemania,local,38/44 (86%),Wirtz F.Winger,8,0.02,6.5,1/2 (50%),1,3,55
+dOR51pNF,alemania,local,23/32 (72%),Freese M.Goalkeeper,1,-,6.4,-,-,-,42
+dOR51pNF,alemania,local,31/34 (91%),McKenzie M.Defender,1,-,6.4,-,-,-,41
+dOR51pNF,alemania,local,10/16 (63%),Pulisic C.Winger,19,0.21,6.4,4/14 (29%),3,3,45
+dOR51pNF,alemania,local,11/14 (79%),Scally J.Defender,5,0.04,6.4,1/3 (33%),1,-,24
+dOR51pNF,alemania,local,18/24 (75%),Berhalter S.Midfielder,2,-,6.3,1/2 (50%),-,-,29
+dOR51pNF,alemania,local,30/34 (88%),Freeman A.Fullback,10,0.05,6.3,0/2 (0%),1,2,57
+dOR51pNF,alemania,local,24/27 (89%),Nmecha F.Midfielder,8,0.07,6.3,0/1 (0%),1,1,38
+dOR51pNF,alemania,local,2/3 (67%),Pepi R.Forward,1,-,6.3,-,-,-,6
+dOR51pNF,alemania,local,28/33 (85%),Trusty A.Defender,1,-,6.3,-,-,-,37
+dOR51pNF,alemania,local,7/8 (88%),Weah T.Midfielder,3,0.04,6.2,-,1,-,13
+dOR51pNF,alemania,local,21/24 (88%),Musiala J.Attacking midfielder,15,0.21,6.1,1/4 (25%),1,3,46
+dOR51pNF,alemania,local,43/45 (96%),Ream T.Centre back,5,-,6.1,-,-,-,53
+dOR51pNF,alemania,local,33/33 (100%),Robinson M.Centre back,2,-,6.0,-,-,-,39
+dOR51pNF,alemania,local,16/21 (76%),Dest S.Winger,11,0.10,5.3,1/4 (25%),2,1,33
+dOR51pNF,alemania,local,6/6 (100%),Amiri N.Midfielder,2,0.09,-,1/1 (100%),1,1,9
+dOR51pNF,alemania,local,3/5 (60%),Beier M.Forward,2,-,-,-,-,-,8
+dOR51pNF,alemania,local,2/2 (100%),Goretzka L.Midfielder,1,-,-,-,-,-,3
+dOR51pNF,alemania,local,5/6 (83%),Stiller A.Midfielder,3,-,-,-,-,-,11
+6avr2Jf5,alemania,local,7/10 (70%),Undav D.Striker,4,1.37,9.3,-,4,7,22
+6avr2Jf5,alemania,local,90/98 (92%),Kimmich J.Fullback,3,-,9.3,-,-,1,119
+6avr2Jf5,alemania,local,104/109 (95%),Pavlovic A.Midfielder,9,-,9.1,-,-,-,117
+6avr2Jf5,alemania,local,42/48 (88%),Karl L.Winger,5,0.11,8.6,1/3 (33%),3,10,68
+6avr2Jf5,alemania,local,90/93 (97%),Tah J.Centre back,4,-,8.6,-,-,-,100
+6avr2Jf5,alemania,local,38/41 (93%),Wirtz F.Winger,4,0.80,8.4,1/2 (50%),6,8,56
+6avr2Jf5,alemania,local,77/84 (92%),Schlotterbeck N.Centre back,6,-,8.1,1/1 (100%),-,1,97
+6avr2Jf5,alemania,local,36/39 (92%),Brown N.Fullback,9,0.16,7.8,0/1 (0%),1,5,60
+6avr2Jf5,alemania,local,21/27 (78%),Hradecky L.Goalkeeper,-,-,7.8,-,-,-,39
+6avr2Jf5,alemania,local,13/13 (100%),Tenho M.Defender,1,-,7.6,-,-,-,18
+6avr2Jf5,alemania,local,39/43 (91%),Musiala J.Attacking midfielder,8,0.44,7.5,0/2 (0%),3,12,60
+6avr2Jf5,alemania,local,42/46 (91%),Nmecha F.Midfielder,7,0.43,7.1,1/2 (50%),2,2,57
+6avr2Jf5,alemania,local,24/28 (86%),Baumann O.Goalkeeper,-,-,6.8,-,-,-,31
+6avr2Jf5,alemania,local,11/14 (79%),Sane L.Forward,3,-,6.8,3/3 (100%),-,5,20
+6avr2Jf5,alemania,local,53/54 (98%),Koski V.Centre back,4,-,6.7,-,-,-,65
+6avr2Jf5,alemania,local,13/13 (100%),Beier M.Forward,1,0.41,6.6,-,2,2,17
+6avr2Jf5,alemania,local,12/14 (86%),Miettinen S.Defender,2,-,6.4,-,-,-,20
+6avr2Jf5,alemania,local,37/41 (90%),Suhonen A.Midfielder,10,0.04,6.4,0/1 (0%),2,-,63
+6avr2Jf5,alemania,local,7/8 (88%),Woltemade N.Forward,-,-,6.4,-,-,-,8
+6avr2Jf5,alemania,local,7/13 (54%),Kallman B.Striker,6,-,6.3,-,1,5,23
+6avr2Jf5,alemania,local,2/2 (100%),Skytta N.Midfielder,-,-,6.3,-,-,-,2
+6avr2Jf5,alemania,local,5/5 (100%),Antman O.Forward,-,-,6.2,0/1 (0%),-,-,10
+6avr2Jf5,alemania,local,8/10 (80%),Keskinen T.Winger,10,-,6.2,1/3 (33%),-,1,26
+6avr2Jf5,alemania,local,28/34 (82%),Mahuta R.Fullback,7,-,6.2,1/2 (50%),-,2,50
+6avr2Jf5,alemania,local,4/5 (80%),Hakans D.Forward,2,-,6.1,1/1 (100%),-,1,8
+6avr2Jf5,alemania,local,4/4 (100%),Pohjanpalo J.Forward,1,-,6.1,-,-,-,4
+6avr2Jf5,alemania,local,14/17 (82%),Lod R.Winger,2,0.09,6.0,-,1,1,26
+6avr2Jf5,alemania,local,21/26 (81%),Walta L.Midfielder,7,0.27,5.9,1/3 (33%),4,2,41
+6avr2Jf5,alemania,local,42/48 (88%),Miettinen T.Centre back,1,-,5.4,-,-,-,57
+6avr2Jf5,alemania,local,32/37 (86%),Markhiev A.Midfielder,7,-,5.3,-,-,-,49
+6avr2Jf5,alemania,local,14/22 (64%),Alho N.Fullback,3,-,5.1,1/1 (100%),-,-,38
+6avr2Jf5,alemania,local,10/10 (100%),Amiri N.Midfielder,-,0.04,-,-,1,-,12
+x21OTMSp,alemania,local,59/68 (87%),Sane L.Winger,5,1.20,9.5,-,5,10,84
+x21OTMSp,alemania,local,72/77 (94%),Wirtz F.Winger,6,0.16,9.3,1/3 (33%),2,7,99
+x21OTMSp,alemania,local,110/113 (97%),Tah J.Centre back,4,-,8.4,-,-,-,119
+x21OTMSp,alemania,local,35/40 (88%),Woltemade N.Striker,6,0.65,8.4,2/3 (67%),2,5,54
+x21OTMSp,alemania,local,55/59 (93%),Gnabry S.Attacking midfielder,5,1.26,8.3,0/2 (0%),6,11,76
+x21OTMSp,alemania,local,61/69 (88%),Kimmich J.Fullback,6,-,7.8,1/1 (100%),-,3,79
+x21OTMSp,alemania,local,50/54 (93%),Raum D.Fullback,2,-,7.8,-,-,5,80
+x21OTMSp,alemania,local,15/16 (94%),Baumann O.Goalkeeper,-,-,7.7,-,-,-,20
+x21OTMSp,alemania,local,35/39 (90%),Goretzka L.Midfielder,5,0.13,7.7,-,2,2,48
+x21OTMSp,alemania,local,9/10 (90%),Ouedraogo A.Midfielder,-,0.04,7.6,-,1,2,12
+x21OTMSp,alemania,local,21/23 (91%),Baku R.Midfielder,3,0.23,7.5,-,1,2,27
+x21OTMSp,alemania,local,83/89 (93%),Schlotterbeck N.Centre back,3,0.22,7.5,-,1,3,94
+x21OTMSp,alemania,local,40/42 (95%),Pavlovic A.Midfielder,5,-,7.4,-,-,-,49
+x21OTMSp,alemania,local,42/42 (100%),Thiaw M.Defender,2,-,7.1,-,-,-,43
+x21OTMSp,alemania,local,48/52 (92%),Nmecha F.Midfielder,1,0.13,6.8,-,2,-,57
+x21OTMSp,alemania,local,9/16 (56%),Schranz I.Forward,1,-,6.8,-,-,-,26
+x21OTMSp,alemania,local,22/22 (100%),Brown N.Defender,2,-,6.5,-,-,1,26
+x21OTMSp,alemania,local,1/3 (33%),Bero M.Midfielder,2,-,6.4,-,-,-,7
+x21OTMSp,alemania,local,10/15 (67%),Duda O.Midfielder,1,-,6.4,0/1 (0%),-,-,25
+x21OTMSp,alemania,local,21/25 (84%),Hancko D.Fullback,8,0.23,6.2,3/3 (100%),3,3,49
+x21OTMSp,alemania,local,4/6 (67%),Bobcek T.Forward,3,-,6.1,-,-,-,11
+x21OTMSp,alemania,local,15/15 (100%),Satka L.Defender,-,-,6.1,-,-,-,21
+x21OTMSp,alemania,local,28/35 (80%),Dubravka M.Goalkeeper,-,-,6.0,-,-,-,42
+x21OTMSp,alemania,local,7/11 (64%),Duris D.Winger,5,0.15,5.9,1/2 (50%),3,1,25
+x21OTMSp,alemania,local,41/45 (91%),Lobotka S.Midfielder,6,-,5.9,2/2 (100%),-,-,54
+x21OTMSp,alemania,local,49/54 (91%),Obert A.Centre back,5,-,5.9,-,-,-,68
+x21OTMSp,alemania,local,15/19 (79%),Rigo T.Midfielder,2,-,5.8,0/1 (0%),-,-,27
+x21OTMSp,alemania,local,5/13 (38%),Gyomber N.Fullback,1,-,5.7,-,-,-,20
+x21OTMSp,alemania,local,8/12 (67%),Strelec D.Striker,3,-,5.5,0/2 (0%),-,1,20
+x21OTMSp,alemania,local,8/11 (73%),Sauer L.Winger,11,-,5.4,3/4 (75%),-,1,28
+x21OTMSp,alemania,local,36/41 (88%),Skriniar M.Centre back,7,-,5.4,-,-,-,59
+x21OTMSp,alemania,local,3/3 (100%),Pekarik P.Defender,-,-,-,-,-,-,3
+6FvinVrC,alemania,local,15/19 (79%),Woltemade N.Striker,10,0.56,8.4,1/5 (20%),2,7,33
+6FvinVrC,alemania,local,46/56 (82%),Wirtz F.Winger,12,0.42,8.1,5/6 (83%),4,6,80
+6FvinVrC,alemania,local,76/79 (96%),Pavlovic A.Midfielder,6,0.02,8.0,1/1 (100%),1,-,88
+6FvinVrC,alemania,local,27/42 (64%),Moris A.Goalkeeper,-,-,7.7,-,-,-,52
+6FvinVrC,alemania,local,49/55 (89%),Raum D.Fullback,7,-,7.7,1/2 (50%),-,-,83
+6FvinVrC,alemania,local,30/35 (86%),Sane L.Winger,8,0.16,7.7,1/3 (33%),1,4,46
+6FvinVrC,alemania,local,42/49 (86%),Baku R.Fullback,8,0.12,7.6,1/1 (100%),1,2,70
+6FvinVrC,alemania,local,16/18 (89%),Thill O.Winger,10,-,7.6,-,-,-,40
+6FvinVrC,alemania,local,39/42 (93%),Carlson D.Centre back,5,-,7.2,-,-,-,59
+6FvinVrC,alemania,local,36/44 (82%),Korac S.Centre back,12,-,7.2,-,-,-,64
+6FvinVrC,alemania,local,69/76 (91%),Anton W.Centre back,11,0.13,7.1,-,1,2,97
+6FvinVrC,alemania,local,20/23 (87%),Goretzka L.Midfielder,5,-,7.1,-,-,-,30
+6FvinVrC,alemania,local,40/51 (78%),Baumann O.Goalkeeper,-,-,7.0,-,-,-,61
+6FvinVrC,alemania,local,3/3 (100%),Schade K.Midfielder,6,-,6.7,1/2 (50%),-,-,12
+6FvinVrC,alemania,local,23/25 (92%),Nmecha F.Midfielder,2,0.03,6.6,-,1,-,31
+6FvinVrC,alemania,local,68/73 (93%),Tah J.Centre back,2,-,6.6,-,-,1,85
+6FvinVrC,alemania,local,23/28 (82%),Barreiro L.Midfielder,9,-,6.5,0/1 (0%),-,2,43
+6FvinVrC,alemania,local,22/26 (85%),Gnabry S.Midfielder,5,0.20,6.5,-,2,3,34
+6FvinVrC,alemania,local,6/7 (86%),Leweling J.Forward,2,0.01,6.5,-,1,-,10
+6FvinVrC,alemania,local,9/11 (82%),Martins M.Defender,4,-,6.5,-,-,-,24
+6FvinVrC,alemania,local,2/2 (100%),Curci A.Forward,2,-,6.4,-,-,-,5
+6FvinVrC,alemania,local,13/14 (93%),Thiaw M.Defender,2,-,6.4,-,-,-,15
+6FvinVrC,alemania,local,2/3 (67%),de Sousa T.Midfielder,-,-,6.3,-,-,-,4
+6FvinVrC,alemania,local,14/18 (78%),Bohnert F.Fullback,3,-,6.0,-,-,-,26
+6FvinVrC,alemania,local,15/18 (83%),Dardari A.Winger,9,0.07,6.0,2/3 (67%),2,3,29
+6FvinVrC,alemania,local,2/3 (67%),Embalo A.Forward,7,-,6.0,-,-,-,7
+6FvinVrC,alemania,local,10/13 (77%),Martins C.Midfielder,7,0.46,5.9,1/2 (50%),2,5,28
+6FvinVrC,alemania,local,16/21 (76%),Jans L.Fullback,5,-,5.7,2/3 (67%),-,-,39
+6FvinVrC,alemania,local,11/21 (52%),Sinani D.Striker,9,0.26,5.6,-,3,3,31
+6FvinVrC,alemania,local,17/21 (81%),Olesen M.Midfielder,4,-,5.0,0/1 (0%),-,1,31
+6FvinVrC,alemania,local,2/2 (100%),Thill S.Midfielder,-,-,-,-,-,-,2
+AmorliEa,alemania,local,77/87 (89%),Schlotterbeck N.Centre back,11,0.03,8.9,1/2 (50%),1,1,107
+AmorliEa,alemania,local,24/36 (67%),Raum D.Fullback,10,0.04,7.8,0/2 (0%),1,1,70
+AmorliEa,alemania,local,76/83 (92%),Tah J.Centre back,5,-,7.7,-,-,1,95
+AmorliEa,alemania,local,36/39 (92%),Wirtz F.Winger,13,0.10,7.6,3/6 (50%),1,5,61
+AmorliEa,alemania,local,19/26 (73%),Ballard D.Centre back,20,-,7.5,4/4 (100%),-,1,48
+AmorliEa,alemania,local,57/60 (95%),Pavlovic A.Midfielder,6,0.05,7.3,0/1 (0%),1,1,71
+AmorliEa,alemania,local,39/54 (72%),Baumann O.Goalkeeper,1,-,7.1,-,-,-,59
+AmorliEa,alemania,local,16/26 (62%),Devenny J.Wingback,10,0.02,7.0,1/2 (50%),1,1,48
+AmorliEa,alemania,local,17/24 (71%),Hume T.Centre back,7,0.02,7.0,1/1 (100%),1,-,41
+AmorliEa,alemania,local,8/11 (73%),Woltemade N.Striker,19,0.25,6.9,1/3 (33%),2,3,29
+AmorliEa,alemania,local,34/37 (92%),Gnabry S.Attacking midfielder,7,0.05,6.6,-,1,2,51
+AmorliEa,alemania,local,21/31 (68%),Goretzka L.Midfielder,15,0.06,6.6,0/1 (0%),1,2,41
+AmorliEa,alemania,local,65/74 (88%),Kimmich J.Fullback,9,-,6.6,-,-,1,94
+AmorliEa,alemania,local,16/24 (67%),Price I.Midfielder,10,0.05,6.6,2/2 (100%),2,2,39
+AmorliEa,alemania,local,5/7 (71%),Beier M.Forward,2,0.04,6.5,-,1,2,9
+AmorliEa,alemania,local,16/27 (59%),Charles S.Midfielder,13,0.10,6.5,-,1,1,45
+AmorliEa,alemania,local,15/30 (50%),Peacock-Farrell B.Goalkeeper,-,-,6.4,-,-,-,34
+AmorliEa,alemania,local,1/3 (33%),Smyth P.Forward,-,-,6.4,-,-,-,5
+AmorliEa,alemania,local,1/5 (20%),Marshall C.Forward,5,0.11,6.2,-,1,3,8
+AmorliEa,alemania,local,16/24 (67%),Spencer B.Wingback,11,0.02,6.2,-,1,-,51
+AmorliEa,alemania,local,13/17 (76%),Adeyemi K.Winger,6,0.52,6.1,0/6 (0%),2,3,27
+AmorliEa,alemania,local,10/14 (71%),McNair P.Centre back,3,-,5.9,0/1 (0%),-,-,20
+AmorliEa,alemania,local,2/4 (50%),Reid J.Striker,6,0.11,5.9,-,1,1,13
+AmorliEa,alemania,local,2/8 (25%),Magennis J.Forward,10,0.07,5.6,0/1 (0%),1,3,13
+AmorliEa,alemania,local,17/25 (68%),Galbraith E.Midfielder,7,0.09,5.5,1/1 (100%),2,1,38
+AmorliEa,alemania,local,10/13 (77%),McCann A.Midfielder,8,0.02,4.8,-,1,-,23
+AmorliEa,alemania,local,0/1 (0%),Andrich R.Midfielder,2,-,-,-,-,-,3
+AmorliEa,alemania,local,-,Anton W.Defender,4,-,-,-,-,-,2
+AmorliEa,alemania,local,-,Baku R.Midfielder,-,-,-,-,-,-,1
+AmorliEa,alemania,local,-,Burkardt J.Forward,-,-,-,-,-,-,-
+Ik63eZLP,alemania,local,96/99 (97%),Kimmich J.Midfielder,4,-,8.1,-,-,-,104
+Ik63eZLP,alemania,local,44/54 (81%),Raum D.Wingback,17,0.07,8.1,1/4 (25%),1,2,91
+Ik63eZLP,alemania,local,33/38 (87%),Wirtz F.Attacking midfielder,15,0.71,7.8,2/4 (50%),2,3,58
+Ik63eZLP,alemania,local,18/20 (90%),Gnabry S.Attacking midfielder,3,0.71,7.7,1/1 (100%),2,5,29
+Ik63eZLP,alemania,local,22/25 (88%),Amiri N.Midfielder,5,0.89,7.6,-,1,1,31
+Ik63eZLP,alemania,local,128/135 (95%),Anton W.Centre back,7,0.13,7.1,-,1,1,147
+Ik63eZLP,alemania,local,48/56 (86%),Leweling J.Wingback,11,0.05,7.1,5/8 (63%),2,3,89
+Ik63eZLP,alemania,local,10/14 (71%),Goretzka L.Midfielder,3,-,6.9,-,-,1,18
+Ik63eZLP,alemania,local,4/6 (67%),Woltemade N.Striker,8,-,6.9,0/1 (0%),-,3,16
+Ik63eZLP,alemania,local,9/15 (60%),Devenny J.Wingback,14,-,6.8,-,-,1,46
+Ik63eZLP,alemania,local,68/74 (92%),Rudiger A.Centre back,5,-,6.8,0/1 (0%),-,-,80
+Ik63eZLP,alemania,local,9/19 (47%),Bradley C.Wingback,20,-,6.7,-,-,-,48
+Ik63eZLP,alemania,local,9/18 (50%),Charles S.Midfielder,9,-,6.7,0/2 (0%),-,1,35
+Ik63eZLP,alemania,local,96/105 (91%),Koch R.Centre back,5,0.03,6.7,-,1,-,116
+Ik63eZLP,alemania,local,11/12 (92%),Beier M.Forward,1,-,6.6,1/2 (50%),-,2,15
+Ik63eZLP,alemania,local,56/62 (90%),Gross P.Midfielder,12,0.03,6.6,-,1,2,71
+Ik63eZLP,alemania,local,14/16 (88%),Price I.Attacking midfielder,6,0.14,6.6,-,1,1,29
+Ik63eZLP,alemania,local,4/4 (100%),Saville G.Midfielder,1,-,6.4,-,-,-,5
+Ik63eZLP,alemania,local,26/31 (84%),Baumann O.Goalkeeper,1,-,6.3,-,-,-,35
+Ik63eZLP,alemania,local,1/2 (50%),Charles D.Forward,4,-,6.3,1/1 (100%),-,-,6
+Ik63eZLP,alemania,local,0/1 (0%),Marshall C.Forward,1,-,6.2,-,-,-,2
+Ik63eZLP,alemania,local,12/16 (75%),McNair P.Centre back,5,0.08,6.1,-,1,1,27
+Ik63eZLP,alemania,local,17/19 (89%),Hume T.Centre back,5,-,5.8,-,-,-,31
+Ik63eZLP,alemania,local,8/13 (62%),McCann A.Midfielder,4,-,5.7,-,-,-,21
+Ik63eZLP,alemania,local,11/30 (37%),Peacock-Farrell B.Goalkeeper,1,-,5.6,-,-,-,37
+Ik63eZLP,alemania,local,0/7 (0%),Reid J.Striker,13,-,5.4,-,-,1,16
+Ik63eZLP,alemania,local,7/9 (78%),Galbraith E.Attacking midfielder,8,-,5.1,-,-,-,14
+Ik63eZLP,alemania,local,11/11 (100%),Toal E.Centre back,5,0.06,4.8,-,1,1,20
+Ik63eZLP,alemania,local,2/2 (100%),McConville R.Defender,1,-,-,1/1 (100%),-,-,6
+Ik63eZLP,alemania,local,1/1 (100%),McDonnell J.Midfielder,-,-,-,-,-,-,3
+Ik63eZLP,alemania,local,19/20 (95%),Tah J.Defender,-,-,-,-,-,-,21
+61aIXVTI,alemania,local,11/14 (79%),Strelec D.Striker,6,0.44,9.0,-,3,5,27
+61aIXVTI,alemania,local,21/23 (91%),Hancko D.Fullback,6,0.26,8.3,0/2 (0%),1,3,43
+61aIXVTI,alemania,local,16/30 (53%),Dubravka M.Goalkeeper,1,-,8.0,-,-,-,39
+61aIXVTI,alemania,local,30/33 (91%),Skriniar M.Centre back,10,-,7.5,-,-,-,49
+61aIXVTI,alemania,local,18/26 (69%),Duda O.Midfielder,11,-,7.2,2/3 (67%),-,-,52
+61aIXVTI,alemania,local,57/70 (81%),Mittelstadt M.Fullback,7,0.05,7.1,1/1 (100%),1,7,93
+61aIXVTI,alemania,local,6/10 (60%),Sauer L.Winger,12,0.51,7.1,3/5 (60%),3,5,25
+61aIXVTI,alemania,local,84/87 (97%),Kimmich J.Midfielder,7,0.13,6.9,-,2,1,99
+61aIXVTI,alemania,local,94/99 (95%),Rudiger A.Centre back,6,0.19,6.9,-,1,1,108
+61aIXVTI,alemania,local,34/43 (79%),Wirtz F.Winger,11,0.28,6.9,1/6 (17%),2,5,69
+61aIXVTI,alemania,local,19/23 (83%),Gyomber N.Fullback,9,-,6.8,-,-,1,44
+61aIXVTI,alemania,local,15/19 (79%),Bero M.Midfielder,8,-,6.7,-,-,-,40
+61aIXVTI,alemania,local,22/25 (88%),Lobotka S.Midfielder,1,-,6.6,-,-,-,32
+61aIXVTI,alemania,local,91/100 (91%),Tah J.Centre back,6,-,6.5,-,-,-,111
+61aIXVTI,alemania,local,10/16 (63%),Woltemade N.Striker,13,0.31,6.5,0/1 (0%),3,7,26
+61aIXVTI,alemania,local,8/10 (80%),Amiri N.Midfielder,2,0.21,6.4,-,3,2,18
+61aIXVTI,alemania,local,39/45 (87%),Baumann O.Goalkeeper,-,-,6.4,-,-,-,54
+61aIXVTI,alemania,local,16/18 (89%),Goretzka L.Attacking midfielder,6,0.56,6.4,1/2 (50%),2,4,28
+61aIXVTI,alemania,local,4/4 (100%),Rigo T.Midfielder,6,-,6.4,0/2 (0%),-,-,11
+61aIXVTI,alemania,local,23/29 (79%),Raum D.Defender,5,-,6.3,1/2 (50%),-,-,46
+61aIXVTI,alemania,local,48/52 (92%),Stiller A.Midfielder,6,-,6.3,-,-,-,58
+61aIXVTI,alemania,local,10/11 (91%),Duris D.Winger,2,0.07,6.2,-,1,3,18
+61aIXVTI,alemania,local,5/7 (71%),Adeyemi K.Forward,7,-,6.0,1/3 (33%),-,3,15
+61aIXVTI,alemania,local,10/10 (100%),Collins N.Fullback,5,-,6.0,0/1 (0%),-,2,17
+61aIXVTI,alemania,local,28/30 (93%),Gnabry S.Winger,7,-,6.0,1/3 (33%),-,1,39
+61aIXVTI,alemania,local,35/37 (95%),Satka L.Centre back,6,-,5.8,-,-,-,52
+61aIXVTI,alemania,local,1/2 (50%),Benes L.Midfielder,2,-,-,-,-,-,4
+61aIXVTI,alemania,local,1/1 (100%),Bozenik R.Forward,2,-,-,-,-,1,3
+61aIXVTI,alemania,local,4/5 (80%),Tupta L.Forward,6,-,-,0/1 (0%),-,-,13
+21tqxx3e,alemania,local,23/34 (68%),Maignan M.Goalkeeper,-,-,8.1,-,-,-,49
+21tqxx3e,alemania,local,17/24 (71%),Mbappe K.Striker,4,0.75,8.1,1/2 (50%),6,11,37
+21tqxx3e,alemania,local,34/34 (100%),Tchouameni A.Midfielder,5,-,8.0,0/1 (0%),-,-,44
+21tqxx3e,alemania,local,15/16 (94%),Olise M.Midfielder,1,0.89,7.7,0/1 (0%),1,1,21
+21tqxx3e,alemania,local,11/12 (92%),ter Stegen M.Goalkeeper,2,-,7.3,-,-,-,25
+21tqxx3e,alemania,local,30/32 (94%),Bade L.Centre back,9,0.04,7.2,-,1,1,46
+21tqxx3e,alemania,local,26/29 (90%),Hernandez L.Centre back,5,-,7.2,-,-,-,42
+21tqxx3e,alemania,local,29/34 (85%),Rabiot A.Midfielder,13,0.02,7.2,4/4 (100%),1,1,55
+21tqxx3e,alemania,local,24/31 (77%),Raum D.Fullback,7,-,7.2,-,-,-,50
+21tqxx3e,alemania,local,28/36 (78%),Thuram M.Winger,12,0.36,7.2,1/2 (50%),3,5,49
+21tqxx3e,alemania,local,33/39 (85%),Cherki R.Attacking midfielder,5,0.18,7.0,1/1 (100%),2,3,51
+21tqxx3e,alemania,local,38/41 (93%),Gusto M.Fullback,8,-,7.0,2/2 (100%),-,1,67
+21tqxx3e,alemania,local,12/15 (80%),Kolo Muani R.Winger,10,-,7.0,2/5 (40%),-,7,26
+21tqxx3e,alemania,local,32/38 (84%),Digne L.Fullback,7,-,6.9,0/1 (0%),-,-,58
+21tqxx3e,alemania,local,6/6 (100%),Gnabry S.Forward,2,0.04,6.9,-,1,2,9
+21tqxx3e,alemania,local,61/65 (94%),Gross P.Midfielder,4,0.07,6.9,-,2,2,76
+21tqxx3e,alemania,local,6/8 (75%),Doue D.Forward,3,0.11,6.8,-,2,1,15
+21tqxx3e,alemania,local,45/52 (87%),Wirtz F.Winger,9,0.28,6.8,0/5 (0%),2,6,76
+21tqxx3e,alemania,local,10/12 (83%),Woltemade N.Striker,6,0.75,6.8,-,2,7,22
+21tqxx3e,alemania,local,10/13 (77%),Fullkrug N.Striker,9,0.91,6.6,-,4,8,22
+21tqxx3e,alemania,local,60/64 (94%),Kimmich J.Fullback,6,0.11,6.6,-,2,1,81
+21tqxx3e,alemania,local,9/9 (100%),Kone M.Midfielder,2,-,6.6,-,-,2,14
+21tqxx3e,alemania,local,8/12 (67%),Adeyemi K.Winger,14,0.23,6.5,3/6 (50%),4,9,37
+21tqxx3e,alemania,local,20/23 (87%),Bischof T.Midfielder,3,-,6.4,1/1 (100%),-,-,29
+21tqxx3e,alemania,local,20/20 (100%),Mittelstadt M.Defender,2,-,6.4,-,-,-,30
+21tqxx3e,alemania,local,13/15 (87%),Undav D.Forward,4,0.05,6.3,-,2,2,21
+21tqxx3e,alemania,local,26/29 (90%),Goretzka L.Attacking midfielder,4,0.05,6.2,1/1 (100%),1,1,35
+21tqxx3e,alemania,local,9/12 (75%),Kehrer T.Defender,1,-,6.1,-,-,-,15
+21tqxx3e,alemania,local,67/69 (97%),Tah J.Centre back,6,-,6.1,-,-,-,79
+21tqxx3e,alemania,local,48/50 (96%),Koch R.Centre back,5,-,6.0,-,-,-,62
+21tqxx3e,alemania,local,1/1 (100%),Guendouzi M.Midfielder,-,-,-,-,-,-,3
+CEdzFKIF,alemania,local,22/24 (92%),Conceicao F.Forward,4,0.60,7.8,2/3 (67%),3,5,35
+CEdzFKIF,alemania,local,37/44 (84%),Mendes N.Fullback,10,-,7.5,1/5 (20%),-,1,69
+CEdzFKIF,alemania,local,13/15 (87%),Ronaldo C.Striker,4,1.71,7.5,-,7,9,28
+CEdzFKIF,alemania,local,49/55 (89%),Kimmich J.Wingback,8,-,7.4,1/1 (100%),-,1,78
+CEdzFKIF,alemania,local,31/36 (86%),Neves J.Fullback,4,-,7.4,2/2 (100%),-,-,43
+CEdzFKIF,alemania,local,31/41 (76%),Fernandes B.Midfielder,9,0.04,7.3,1/2 (50%),1,2,58
+CEdzFKIF,alemania,local,41/46 (89%),Inacio G.Centre back,7,-,7.3,1/1 (100%),-,-,59
+CEdzFKIF,alemania,local,52/59 (88%),Dias R.Centre back,8,-,7.2,-,-,2,65
+CEdzFKIF,alemania,local,16/23 (70%),Costa D.Goalkeeper,-,-,7.1,-,-,-,32
+CEdzFKIF,alemania,local,32/42 (76%),Wirtz F.Attacking midfielder,16,0.44,7.1,3/5 (60%),2,5,61
+CEdzFKIF,alemania,local,29/33 (88%),Mittelstadt M.Wingback,4,-,6.9,-,-,-,47
+CEdzFKIF,alemania,local,35/36 (97%),Silva B.Midfielder,8,-,6.9,1/1 (100%),-,-,44
+CEdzFKIF,alemania,local,28/32 (88%),Neves R.Midfielder,4,0.01,6.8,-,1,-,41
+CEdzFKIF,alemania,local,14/16 (88%),Nmecha F.Midfielder,2,-,6.8,1/1 (100%),-,-,19
+CEdzFKIF,alemania,local,27/30 (90%),VitinhaMidfielder,4,0.05,6.8,1/1 (100%),1,2,35
+CEdzFKIF,alemania,local,11/12 (92%),Gosens R.Midfielder,6,-,6.7,-,-,-,18
+CEdzFKIF,alemania,local,14/17 (82%),Sane L.Attacking midfielder,8,-,6.7,1/3 (33%),-,3,29
+CEdzFKIF,alemania,local,15/17 (88%),TrincaoWinger,4,-,6.7,0/1 (0%),-,-,23
+CEdzFKIF,alemania,local,31/34 (91%),Goretzka L.Midfielder,1,0.42,6.6,-,2,2,41
+CEdzFKIF,alemania,local,18/21 (86%),Neto P.Winger,8,0.05,6.6,2/5 (40%),1,5,37
+CEdzFKIF,alemania,local,56/60 (93%),Pavlovic A.Midfielder,5,0.03,6.6,0/1 (0%),1,1,71
+CEdzFKIF,alemania,local,9/10 (90%),Semedo N.Defender,4,-,6.6,0/1 (0%),-,2,16
+CEdzFKIF,alemania,local,41/49 (84%),ter Stegen M.Goalkeeper,-,-,6.6,-,-,-,64
+CEdzFKIF,alemania,local,4/4 (100%),Woltemade N.Striker,8,0.13,6.6,-,2,2,16
+CEdzFKIF,alemania,local,52/54 (96%),Anton W.Centre back,3,0.04,6.3,0/1 (0%),1,1,61
+CEdzFKIF,alemania,local,75/79 (95%),Koch R.Centre back,4,-,6.3,-,-,-,88
+CEdzFKIF,alemania,local,6/8 (75%),Gnabry S.Forward,5,-,6.2,0/1 (0%),-,-,17
+CEdzFKIF,alemania,local,55/61 (90%),Tah J.Centre back,5,-,6.2,-,-,-,75
+CEdzFKIF,alemania,local,7/9 (78%),Fullkrug N.Forward,5,-,6.1,-,-,-,10
+CEdzFKIF,alemania,local,1/2 (50%),Adeyemi K.Forward,1,0.06,6.0,-,1,1,4
+CEdzFKIF,alemania,local,1/1 (100%),Diogo JotaForward,2,0.63,-,1/1 (100%),2,3,5
+CEdzFKIF,alemania,local,1/1 (100%),Palhinha J.Midfielder,1,0.03,-,-,1,-,2

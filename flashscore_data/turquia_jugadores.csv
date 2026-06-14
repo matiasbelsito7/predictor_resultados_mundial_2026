@@ -1,0 +1,331 @@
+match_id,seleccion,equipo,accurate_passesaccurate_passes,all,duelsduels,expected_goals_xgexpected_goals_xg,ratingrating,successful_dribblessuccessful_dribbles,total_shotstotal_shots,touches_in_opposition_boxtouches_in_opposition_box,touchestouches
+pzMyVhup,turquia,local,28/30 (93%),Guler A.Attacking midfielder,11,0.07,7.7,3/6 (50%),2,-,51
+pzMyVhup,turquia,local,15/18 (83%),Akgun Y.Forward,4,0.07,7.6,1/1 (100%),2,4,26
+pzMyVhup,turquia,local,12/16 (75%),Yilmaz B.Winger,10,0.48,7.6,0/2 (0%),4,3,32
+pzMyVhup,turquia,local,34/40 (85%),Contreras J.Goalkeeper,1,-,7.2,-,-,-,52
+pzMyVhup,turquia,local,35/37 (95%),Bardakci A.Centre back,1,0.14,6.9,-,1,1,40
+pzMyVhup,turquia,local,24/29 (83%),Celik Z.Fullback,8,0.11,6.9,0/1 (0%),2,5,41
+pzMyVhup,turquia,local,40/43 (93%),Elmali E.Fullback,4,-,6.9,0/1 (0%),-,2,60
+pzMyVhup,turquia,local,16/18 (89%),Mendoza G.Winger,14,0.32,6.9,0/3 (0%),4,1,40
+pzMyVhup,turquia,local,13/15 (87%),Calhanoglu H.Midfielder,-,-,6.8,-,-,-,23
+pzMyVhup,turquia,local,47/54 (87%),Casseres C.Midfielder,11,-,6.8,1/1 (100%),-,-,70
+pzMyVhup,turquia,local,11/12 (92%),Ramirez J.Striker,10,0.08,6.8,1/1 (100%),2,1,26
+pzMyVhup,turquia,local,53/55 (96%),Kabak O.Centre back,6,-,6.7,1/2 (50%),-,-,60
+pzMyVhup,turquia,local,9/10 (90%),Muldur M.Defender,5,0.05,6.7,0/1 (0%),1,1,18
+pzMyVhup,turquia,local,20/28 (71%),Cakir U.Goalkeeper,-,-,6.6,-,-,-,36
+pzMyVhup,turquia,local,14/16 (88%),Ozcan S.Midfielder,3,-,6.6,1/1 (100%),-,-,19
+pzMyVhup,turquia,local,28/34 (82%),Segovia T.Attacking midfielder,4,-,6.6,1/1 (100%),-,1,40
+pzMyVhup,turquia,local,9/10 (90%),Uzun C.Midfielder,8,-,6.6,1/2 (50%),-,2,19
+pzMyVhup,turquia,local,-,Akturkoglu K.Forward,-,0.39,6.5,-,1,1,3
+pzMyVhup,turquia,local,17/18 (94%),Demiral M.Defender,7,0.14,6.5,-,1,1,27
+pzMyVhup,turquia,local,25/32 (78%),Herrera Y.Midfielder,11,0.01,6.5,2/2 (100%),1,-,50
+pzMyVhup,turquia,local,28/34 (82%),Kokcu O.Midfielder,3,0.03,6.5,-,1,1,49
+pzMyVhup,turquia,local,12/14 (86%),Quintero T.Fullback,7,-,6.4,-,-,1,28
+pzMyVhup,turquia,local,7/10 (70%),Balbo L.Defender,4,-,6.3,1/1 (100%),-,1,14
+pzMyVhup,turquia,local,44/48 (92%),Ferraresi N.Centre back,5,-,6.3,0/1 (0%),-,-,62
+pzMyVhup,turquia,local,3/5 (60%),Gul D.Striker,5,0.07,6.3,-,1,4,10
+pzMyVhup,turquia,local,13/16 (81%),Kahveci I.Winger,6,-,6.2,0/1 (0%),-,1,24
+pzMyVhup,turquia,local,15/17 (88%),Pereira D.Midfielder,1,-,6.2,1/1 (100%),-,-,18
+pzMyVhup,turquia,local,21/27 (78%),Martinez D.Winger,5,0.07,6.1,2/2 (100%),2,3,38
+pzMyVhup,turquia,local,27/30 (90%),Yuksek I.Midfielder,8,-,6.1,0/2 (0%),-,-,37
+pzMyVhup,turquia,local,29/34 (85%),Aramburu J.Fullback,13,-,5.9,-,-,-,50
+pzMyVhup,turquia,local,35/38 (92%),Makoun C.Centre back,3,-,5.9,-,-,-,50
+pzMyVhup,turquia,local,7/7 (100%),Aydin O.Midfielder,1,-,-,1/1 (100%),-,1,11
+pzMyVhup,turquia,local,0/1 (0%),Echenique E.Forward,-,-,-,-,-,1,3
+pzMyVhup,turquia,local,3/4 (75%),Graterol J.Goalkeeper,-,-,-,-,-,-,5
+pzMyVhup,turquia,local,0/3 (0%),Kelsy K.Forward,-,-,-,-,-,1,3
+pzMyVhup,turquia,local,-,Libra M.Midfielder,1,-,-,-,-,-,1
+pzMyVhup,turquia,local,-,Tortolero E.Midfielder,-,-,-,-,-,-,2
+pzMyVhup,turquia,local,3/3 (100%),Vivas C.Defender,-,-,-,-,-,-,5
+EiV5zFHM,turquia,local,36/42 (86%),Uzun C.Winger,7,0.21,8.7,-,2,2,56
+EiV5zFHM,turquia,local,40/41 (98%),Celik Z.Defender,9,-,7.8,0/2 (0%),-,3,59
+EiV5zFHM,turquia,local,10/16 (63%),Aydin O.Winger,2,0.22,7.7,-,3,5,26
+EiV5zFHM,turquia,local,26/32 (81%),Kahveci I.Forward,4,0.18,7.7,-,1,3,40
+EiV5zFHM,turquia,local,28/33 (85%),Kokcu O.Midfielder,5,0.18,7.6,-,2,1,43
+EiV5zFHM,turquia,local,6/6 (100%),Yilmaz B.Forward,1,0.69,7.5,0/1 (0%),1,3,10
+EiV5zFHM,turquia,local,6/9 (67%),Gul D.Striker,6,0.44,7.4,-,2,3,13
+EiV5zFHM,turquia,local,11/11 (100%),Elmali E.Fullback,2,-,7.3,-,-,1,20
+EiV5zFHM,turquia,local,20/21 (95%),Guler A.Midfielder,3,0.05,7.1,0/1 (0%),2,3,37
+EiV5zFHM,turquia,local,31/34 (91%),Muldur M.Fullback,8,0.09,7.0,-,1,3,48
+EiV5zFHM,turquia,local,12/13 (92%),Simsir A.Forward,8,0.03,7.0,3/5 (60%),1,1,21
+EiV5zFHM,turquia,local,38/41 (93%),Soyuncu C.Centre back,4,-,7.0,-,-,-,46
+EiV5zFHM,turquia,local,35/40 (88%),Ayhan K.Defender,-,-,6.9,-,-,1,43
+EiV5zFHM,turquia,local,27/32 (84%),Bayindir A.Goalkeeper,-,-,6.8,-,-,-,34
+EiV5zFHM,turquia,local,43/52 (83%),Ozcan S.Midfielder,3,-,6.8,-,-,-,59
+EiV5zFHM,turquia,local,9/11 (82%),Churlinov D.Forward,7,-,6.7,1/2 (50%),-,1,25
+EiV5zFHM,turquia,local,32/33 (97%),Akaydin S.Defender,1,0.04,6.6,-,1,1,37
+EiV5zFHM,turquia,local,26/28 (93%),Alioski E.Wingback,9,0.77,6.6,3/4 (75%),1,2,50
+EiV5zFHM,turquia,local,15/16 (94%),Tiknaz D. E.Midfielder,2,-,6.6,-,-,-,17
+EiV5zFHM,turquia,local,15/17 (88%),Akgun Y.Attacking midfielder,8,0.07,6.5,1/2 (50%),1,2,25
+EiV5zFHM,turquia,local,35/40 (88%),Atanasov J.Midfielder,3,0.03,6.5,1/1 (100%),1,-,49
+EiV5zFHM,turquia,local,33/35 (94%),Fetai I.Centre back,5,-,6.5,1/2 (50%),-,-,45
+EiV5zFHM,turquia,local,10/11 (91%),Miovski B.Striker,5,-,6.5,0/1 (0%),-,-,15
+EiV5zFHM,turquia,local,15/16 (94%),Serafimov N.Defender,-,-,6.5,-,-,-,24
+EiV5zFHM,turquia,local,15/18 (83%),Emini S.Midfielder,3,-,6.4,-,-,1,27
+EiV5zFHM,turquia,local,6/6 (100%),Sengezer M.Goalkeeper,-,-,6.4,-,-,-,8
+EiV5zFHM,turquia,local,3/4 (75%),Alomerovic D.Defender,4,-,6.3,-,-,-,12
+EiV5zFHM,turquia,local,15/17 (88%),Demiral M.Defender,1,0.45,6.3,-,1,1,20
+EiV5zFHM,turquia,local,13/15 (87%),Kabak O.Centre back,5,-,6.3,-,-,-,21
+EiV5zFHM,turquia,local,1/2 (50%),Rastoder E.Forward,-,-,6.3,-,-,-,4
+EiV5zFHM,turquia,local,18/19 (95%),Zajkov G.Centre back,3,-,6.3,-,-,1,23
+EiV5zFHM,turquia,local,-,Dodev D.Forward,3,-,6.2,0/1 (0%),-,-,4
+EiV5zFHM,turquia,local,27/28 (96%),Elmas E.Attacking midfielder,8,-,6.2,1/3 (33%),-,-,40
+EiV5zFHM,turquia,local,11/14 (79%),Manev J.Defender,2,0.01,6.2,-,1,1,17
+EiV5zFHM,turquia,local,3/5 (60%),Nikolov B.Midfielder,1,-,6.2,-,-,-,6
+EiV5zFHM,turquia,local,5/8 (63%),Taleski D.Goalkeeper,-,-,6.2,-,-,-,14
+EiV5zFHM,turquia,local,26/30 (87%),Velkovski D.Centre back,4,-,6.2,-,-,-,40
+EiV5zFHM,turquia,local,14/16 (88%),Despotovski S.Wingback,4,-,6.1,0/1 (0%),-,-,25
+EiV5zFHM,turquia,local,24/26 (92%),Elezi A.Midfielder,6,0.02,6.1,-,1,2,38
+EiV5zFHM,turquia,local,20/25 (80%),Musliu V.Defender,4,-,6.0,-,-,-,28
+EiV5zFHM,turquia,local,4/8 (50%),Ristovski M.Forward,5,0.03,5.8,-,1,1,15
+EiV5zFHM,turquia,local,2/3 (67%),Omeragic A.Striker,3,-,5.6,-,-,-,7
+EiV5zFHM,turquia,local,13/23 (57%),Dimitrievski S.Goalkeeper,-,-,4.9,-,-,-,36
+EiV5zFHM,turquia,local,6/6 (100%),Calhanoglu H.Midfielder,-,0.02,-,-,1,-,7
+xlsPC2Il,turquia,local,39/49 (80%),Kokcu O.Midfielder,6,0.22,8.4,0/1 (0%),3,1,70
+xlsPC2Il,turquia,local,6/7 (86%),Akturkoglu K.Striker,3,1.18,7.7,0/2 (0%),2,5,17
+xlsPC2Il,turquia,local,46/47 (98%),Kabak O.Centre back,6,-,7.6,-,-,-,56
+xlsPC2Il,turquia,local,27/38 (71%),Cakir U.Goalkeeper,-,-,7.5,-,-,-,49
+xlsPC2Il,turquia,local,44/51 (86%),Yuksek I.Centre back,13,-,7.5,1/1 (100%),-,-,66
+xlsPC2Il,turquia,local,35/39 (90%),Yildiz K.Attacking midfielder,10,0.11,7.3,4/6 (67%),3,11,58
+xlsPC2Il,turquia,local,30/40 (75%),Celik Z.Wingback,12,-,7.2,0/3 (0%),-,4,68
+xlsPC2Il,turquia,local,43/54 (80%),Calhanoglu H.Midfielder,7,0.22,7.0,1/1 (100%),3,1,68
+xlsPC2Il,turquia,local,33/49 (67%),Dellova L.Centre back,10,0.03,7.0,-,1,1,68
+xlsPC2Il,turquia,local,55/60 (92%),Bardakci A.Centre back,8,-,6.9,-,-,-,74
+xlsPC2Il,turquia,local,41/52 (79%),Hajrizi K.Centre back,9,0.02,6.9,-,1,2,70
+xlsPC2Il,turquia,local,46/49 (94%),Guler A.Attacking midfielder,8,0.03,6.7,1/3 (33%),1,1,73
+xlsPC2Il,turquia,local,47/58 (81%),Kadioglu F.Wingback,1,-,6.6,-,-,-,71
+xlsPC2Il,turquia,local,21/35 (60%),Muric A.Goalkeeper,-,-,6.5,-,-,-,40
+xlsPC2Il,turquia,local,34/41 (83%),Muslija F.Attacking midfielder,13,0.03,6.5,3/5 (60%),1,1,67
+xlsPC2Il,turquia,local,5/6 (83%),Zhegrova E.Forward,4,0.02,6.5,2/3 (67%),1,-,15
+xlsPC2Il,turquia,local,17/26 (65%),Asllani F.Attacking midfielder,10,0.17,6.4,2/2 (100%),3,6,45
+xlsPC2Il,turquia,local,12/18 (67%),Vojvoda M.Wingback,4,0.03,6.2,1/1 (100%),1,2,34
+xlsPC2Il,turquia,local,29/38 (76%),Gallapeni D.Wingback,14,-,6.0,0/3 (0%),-,1,67
+xlsPC2Il,turquia,local,19/25 (76%),Hajdari A.Centre back,1,-,6.0,-,-,-,35
+xlsPC2Il,turquia,local,20/21 (95%),Hodza V.Midfielder,2,0.03,6.0,-,1,1,33
+xlsPC2Il,turquia,local,2/4 (50%),Yilmaz B.Forward,6,-,6.0,1/1 (100%),-,-,11
+xlsPC2Il,turquia,local,6/16 (38%),Muriqi V.Striker,14,0.55,5.9,1/2 (50%),1,5,30
+xlsPC2Il,turquia,local,18/23 (78%),Rexhbecaj E.Midfielder,7,-,5.4,-,-,-,33
+xlsPC2Il,turquia,local,12/16 (75%),Aliti F.Defender,3,-,-,-,-,1,19
+xlsPC2Il,turquia,local,0/1 (0%),Elmali E.Defender,5,-,-,-,-,-,5
+xlsPC2Il,turquia,local,0/2 (0%),Gul D.Forward,5,-,-,0/1 (0%),-,-,6
+xlsPC2Il,turquia,local,-,Muldur M.Defender,1,-,-,-,-,-,3
+xlsPC2Il,turquia,local,3/4 (75%),Ozcan S.Midfielder,1,-,-,-,-,-,5
+xlsPC2Il,turquia,local,2/3 (67%),Rashica M.Midfielder,1,0.02,-,-,1,-,7
+xlsPC2Il,turquia,local,-,Rrahmani A.Forward,-,-,-,-,-,-,2
+2qgnUDXp,turquia,local,39/48 (81%),Kadioglu F.Fullback,5,0.83,8.7,2/3 (67%),2,4,72
+2qgnUDXp,turquia,local,56/60 (93%),Guler A.Attacking midfielder,7,0.29,8.5,1/6 (17%),4,4,83
+2qgnUDXp,turquia,local,74/85 (87%),Calhanoglu H.Midfielder,9,0.18,8.0,1/1 (100%),6,1,111
+2qgnUDXp,turquia,local,79/86 (92%),Bardakci A.Centre back,9,0.02,7.8,-,1,1,96
+2qgnUDXp,turquia,local,57/63 (90%),Yuksek I.Midfielder,15,0.04,7.8,2/2 (100%),2,1,81
+2qgnUDXp,turquia,local,52/59 (88%),Akaydin S.Centre back,8,-,7.3,1/1 (100%),-,-,67
+2qgnUDXp,turquia,local,47/51 (92%),Yildiz K.Winger,5,0.04,7.3,2/3 (67%),1,6,70
+2qgnUDXp,turquia,local,16/22 (73%),Muldur M.Fullback,12,-,7.1,1/2 (50%),-,1,52
+2qgnUDXp,turquia,local,18/26 (69%),Bancu N.Fullback,6,-,6.9,1/2 (50%),-,-,53
+2qgnUDXp,turquia,local,25/33 (76%),Cakir U.Goalkeeper,-,-,6.8,-,-,-,33
+2qgnUDXp,turquia,local,3/4 (75%),Stanciu N.Midfielder,2,0.02,6.6,-,1,3,12
+2qgnUDXp,turquia,local,6/7 (86%),Kokcu O.Midfielder,-,-,6.4,-,-,-,10
+2qgnUDXp,turquia,local,22/39 (56%),Radu I.Goalkeeper,2,-,6.1,-,-,-,49
+2qgnUDXp,turquia,local,15/19 (79%),Yilmaz B.Winger,13,-,6.1,2/4 (50%),-,1,43
+2qgnUDXp,turquia,local,5/9 (56%),Birligea D.Striker,15,0.04,5.9,1/2 (50%),1,3,26
+2qgnUDXp,turquia,local,12/17 (71%),Dragusin R.Centre back,5,-,5.9,-,-,-,25
+2qgnUDXp,turquia,local,5/6 (83%),Tanase F.Midfielder,7,-,5.9,0/1 (0%),-,-,14
+2qgnUDXp,turquia,local,8/10 (80%),Akturkoglu K.Striker,5,-,5.8,-,-,5,22
+2qgnUDXp,turquia,local,25/37 (68%),Burca A.Centre back,5,-,5.8,-,-,1,45
+2qgnUDXp,turquia,local,12/18 (67%),Hagi I.Attacking midfielder,8,0.37,5.7,0/2 (0%),2,2,36
+2qgnUDXp,turquia,local,18/22 (82%),Man D.Winger,3,-,5.7,0/1 (0%),-,1,29
+2qgnUDXp,turquia,local,7/13 (54%),Marin R.Midfielder,4,-,5.7,0/2 (0%),-,1,22
+2qgnUDXp,turquia,local,17/25 (68%),Dragomir V.Midfielder,6,0.02,5.4,1/1 (100%),1,-,32
+2qgnUDXp,turquia,local,14/24 (58%),Ratiu A.Fullback,9,0.03,5.4,0/3 (0%),1,-,52
+2qgnUDXp,turquia,local,10/16 (63%),Mihaila V.Winger,14,-,4.6,1/3 (33%),-,2,34
+2qgnUDXp,turquia,local,-,Baiaram S.Forward,1,-,-,0/1 (0%),-,-,1
+2qgnUDXp,turquia,local,-,Kabak O.Defender,-,-,-,-,-,-,-
+2qgnUDXp,turquia,local,1/2 (50%),Kahveci I.Forward,2,-,-,0/1 (0%),-,-,3
+2qgnUDXp,turquia,local,1/1 (100%),Miculescu D.Forward,3,-,-,-,-,-,1
+Eu6koqaB,turquia,local,112/116 (97%),Laporte A.Centre back,6,0.05,8.4,-,2,1,129
+Eu6koqaB,turquia,local,44/50 (88%),Olmo D.Winger,4,0.20,8.1,1/2 (50%),3,4,60
+Eu6koqaB,turquia,local,14/16 (88%),Oyarzabal M.Striker,1,1.15,7.8,-,3,6,22
+Eu6koqaB,turquia,local,99/107 (93%),Garcia A.Midfielder,6,0.02,7.7,-,1,-,118
+Eu6koqaB,turquia,local,69/74 (93%),Cucurella M.Fullback,2,-,7.5,-,-,1,85
+Eu6koqaB,turquia,local,30/37 (81%),Kokcu O.Midfielder,2,0.02,7.5,-,1,1,52
+Eu6koqaB,turquia,local,72/74 (97%),Llorente M.Fullback,4,-,7.5,-,-,1,88
+Eu6koqaB,turquia,local,38/48 (79%),Pino Y.Winger,5,0.72,7.1,0/1 (0%),2,9,60
+Eu6koqaB,turquia,local,29/32 (91%),Akaydin S.Centre back,5,-,6.9,-,-,-,50
+Eu6koqaB,turquia,local,17/19 (89%),Baena A.Forward,1,0.21,6.9,0/1 (0%),2,4,28
+Eu6koqaB,turquia,local,17/25 (68%),Bayindir A.Goalkeeper,-,-,6.9,-,-,-,35
+Eu6koqaB,turquia,local,100/103 (97%),Cubarsi P.Centre back,7,0.04,6.9,-,1,1,109
+Eu6koqaB,turquia,local,68/74 (92%),Ruiz F.Midfielder,2,0.25,6.9,0/1 (0%),3,6,87
+Eu6koqaB,turquia,local,10/11 (91%),Gul D.Striker,7,0.60,6.8,0/2 (0%),2,2,21
+Eu6koqaB,turquia,local,22/25 (88%),Ozcan S.Midfielder,6,0.09,6.8,0/1 (0%),2,-,34
+Eu6koqaB,turquia,local,23/29 (79%),Demiral M.Centre back,1,-,6.7,-,-,-,50
+Eu6koqaB,turquia,local,20/21 (95%),Simon U.Goalkeeper,-,-,6.7,-,-,-,36
+Eu6koqaB,turquia,local,8/8 (100%),Muldur M.Defender,4,0.02,6.5,-,1,1,14
+Eu6koqaB,turquia,local,14/17 (82%),Torres F.Forward,2,0.14,6.5,1/2 (50%),2,3,25
+Eu6koqaB,turquia,local,18/24 (75%),Celik Z.Wingback,4,0.05,6.4,2/3 (67%),1,2,46
+Eu6koqaB,turquia,local,7/9 (78%),FermínMidfielder,5,-,6.4,0/3 (0%),-,-,16
+Eu6koqaB,turquia,local,3/3 (100%),Karazor A.Midfielder,-,0.05,6.4,-,1,-,4
+Eu6koqaB,turquia,local,2/4 (50%),Sari Y.Forward,-,-,6.4,-,-,1,5
+Eu6koqaB,turquia,local,15/19 (79%),Kahveci I.Midfielder,3,0.06,6.3,1/2 (50%),1,2,27
+Eu6koqaB,turquia,local,24/27 (89%),Soyuncu C.Centre back,3,-,6.3,-,-,-,42
+Eu6koqaB,turquia,local,6/13 (46%),Yilmaz B.Midfielder,12,0.24,6.3,1/3 (33%),4,6,28
+Eu6koqaB,turquia,local,3/4 (75%),SamuForward,2,0.09,6.2,-,1,2,6
+Eu6koqaB,turquia,local,4/4 (100%),Eskihellac M.Midfielder,3,-,6.1,-,-,-,7
+Eu6koqaB,turquia,local,19/23 (83%),Kadioglu F.Wingback,2,-,6.1,-,-,1,34
+Eu6koqaB,turquia,local,22/27 (81%),Merino M.Midfielder,6,0.08,6.1,-,1,2,34
+Eu6koqaB,turquia,local,-,Akcicek Y.Defender,1,-,-,-,-,-,1
+Eu6koqaB,turquia,local,6/7 (86%),Fornals P.Midfielder,-,-,-,-,-,1,9
+4vlhABM5,turquia,local,80/83 (96%),Calhanoglu H.Midfielder,11,0.89,9.3,0/1 (0%),3,3,105
+4vlhABM5,turquia,local,26/33 (79%),Yildiz K.Winger,13,0.34,9.0,6/7 (86%),2,8,56
+4vlhABM5,turquia,local,37/45 (82%),Aydin O.Winger,5,0.04,7.6,0/1 (0%),1,4,64
+4vlhABM5,turquia,local,42/48 (88%),Kadioglu F.Fullback,7,-,7.6,1/1 (100%),-,-,64
+4vlhABM5,turquia,local,14/31 (45%),Mitov D.Goalkeeper,-,-,7.3,-,-,-,39
+4vlhABM5,turquia,local,33/37 (89%),Guler A.Attacking midfielder,10,0.02,7.2,2/3 (67%),1,3,55
+4vlhABM5,turquia,local,22/25 (88%),Akaydin S.Defender,5,-,7.0,-,-,1,34
+4vlhABM5,turquia,local,8/11 (73%),Akturkoglu K.Striker,5,0.78,7.0,-,7,6,27
+4vlhABM5,turquia,local,21/27 (78%),Cakir U.Goalkeeper,-,-,7.0,-,-,-,35
+4vlhABM5,turquia,local,8/13 (62%),Muldur M.Defender,6,0.05,7.0,2/2 (100%),1,1,21
+4vlhABM5,turquia,local,28/33 (85%),Celik Z.Fullback,7,-,6.9,2/3 (67%),-,2,53
+4vlhABM5,turquia,local,56/66 (85%),Yuksek I.Midfielder,16,0.11,6.8,0/2 (0%),2,2,87
+4vlhABM5,turquia,local,26/34 (76%),Kraev A.Midfielder,14,0.01,6.7,1/1 (100%),1,1,44
+4vlhABM5,turquia,local,20/26 (77%),Krastev F.Midfielder,10,0.01,6.7,2/2 (100%),1,2,49
+4vlhABM5,turquia,local,6/8 (75%),Ayhan K.Defender,1,-,6.6,-,-,1,11
+4vlhABM5,turquia,local,35/38 (92%),Demiral M.Centre back,2,-,6.5,-,-,-,40
+4vlhABM5,turquia,local,7/7 (100%),Petkov M.Forward,4,0.07,6.4,-,1,1,11
+4vlhABM5,turquia,local,73/82 (89%),Bardakci A.Centre back,4,0.06,6.3,-,1,1,91
+4vlhABM5,turquia,local,9/12 (75%),Despodov K.Striker,8,0.04,6.1,0/1 (0%),1,-,25
+4vlhABM5,turquia,local,14/23 (61%),Georgiev M.Fullback,10,0.07,6.0,1/4 (25%),1,5,58
+4vlhABM5,turquia,local,12/17 (71%),Rusev G.Winger,16,0.06,6.0,1/4 (25%),2,1,41
+4vlhABM5,turquia,local,2/2 (100%),Minchev M.Forward,4,-,5.9,-,-,-,4
+4vlhABM5,turquia,local,4/5 (80%),Chochev I.Midfielder,3,-,5.8,-,-,-,8
+4vlhABM5,turquia,local,35/43 (81%),Gruev I.Midfielder,5,-,5.7,-,-,2,52
+4vlhABM5,turquia,local,28/35 (80%),Petrov H.Fullback,3,-,5.5,1/1 (100%),-,1,55
+4vlhABM5,turquia,local,13/16 (81%),Dimitrov Z.Winger,10,0.02,5.3,1/6 (17%),1,2,35
+4vlhABM5,turquia,local,9/15 (60%),Dimitrov K.Centre back,5,-,5.2,-,-,2,22
+4vlhABM5,turquia,local,12/16 (75%),Chernev A.Centre back,3,0.10,4.9,1/1 (100%),1,1,29
+4vlhABM5,turquia,local,3/4 (75%),Karazor A.Midfielder,3,-,-,-,-,-,7
+4vlhABM5,turquia,local,1/1 (100%),Nikolov V.Forward,-,-,-,-,-,-,1
+4vlhABM5,turquia,local,2/2 (100%),Sari Y.Forward,-,0.27,-,-,1,1,3
+WQkpCXig,turquia,local,41/53 (77%),Demiral M.Centre back,9,0.29,8.6,-,2,2,64
+WQkpCXig,turquia,local,42/47 (89%),Calhanoglu H.Midfielder,6,0.02,8.5,-,1,-,64
+WQkpCXig,turquia,local,31/41 (76%),Muldur M.Fullback,9,0.15,8.0,-,1,2,63
+WQkpCXig,turquia,local,13/18 (72%),Yildiz K.Winger,3,0.29,7.9,1/2 (50%),2,6,27
+WQkpCXig,turquia,local,51/63 (81%),Bardakci A.Centre back,10,-,7.7,1/1 (100%),-,-,79
+WQkpCXig,turquia,local,41/52 (79%),Yuksek I.Midfielder,19,0.21,7.2,-,1,1,73
+WQkpCXig,turquia,local,10/16 (63%),Akgun Y.Winger,8,0.92,7.1,0/2 (0%),1,2,30
+WQkpCXig,turquia,local,33/42 (79%),Gocholeishvili G.Fullback,6,-,7.0,0/1 (0%),-,1,70
+WQkpCXig,turquia,local,26/30 (87%),Davitashvili Z.Winger,10,0.27,6.9,2/3 (67%),3,3,52
+WQkpCXig,turquia,local,24/27 (89%),Elmali E.Fullback,5,-,6.9,-,-,-,47
+WQkpCXig,turquia,local,25/32 (78%),Guler A.Attacking midfielder,12,0.15,6.9,1/2 (50%),1,4,48
+WQkpCXig,turquia,local,50/55 (91%),Kochorashvili G.Midfielder,13,0.48,6.9,1/1 (100%),1,2,75
+WQkpCXig,turquia,local,42/53 (79%),Kakabadze O.Fullback,2,-,6.8,-,-,2,76
+WQkpCXig,turquia,local,6/9 (67%),Kokcu O.Midfielder,4,-,6.8,-,-,-,15
+WQkpCXig,turquia,local,3/4 (75%),Yilmaz B.Forward,7,-,6.6,1/1 (100%),-,1,11
+WQkpCXig,turquia,local,29/44 (66%),Cakir U.Goalkeeper,-,-,6.5,-,-,-,47
+WQkpCXig,turquia,local,48/58 (83%),Kiteishvili O.Midfielder,10,-,6.5,-,-,-,65
+WQkpCXig,turquia,local,8/9 (89%),Lobjanidze S.Forward,1,0.04,6.5,-,1,3,11
+WQkpCXig,turquia,local,4/4 (100%),Ozcan S.Midfielder,1,-,6.5,-,-,-,7
+WQkpCXig,turquia,local,14/17 (82%),Zivzivadze B.Forward,5,0.05,6.5,0/1 (0%),1,2,26
+WQkpCXig,turquia,local,12/13 (92%),Akturkoglu K.Striker,5,0.12,6.4,-,1,3,24
+WQkpCXig,turquia,local,8/8 (100%),Aydin O.Midfielder,-,-,6.4,-,-,-,10
+WQkpCXig,turquia,local,13/15 (87%),Gagnidze N.Midfielder,2,0.05,6.3,0/1 (0%),1,-,20
+WQkpCXig,turquia,local,32/39 (82%),Kvaratskhelia K.Winger,21,0.10,6.3,5/11 (45%),4,3,70
+WQkpCXig,turquia,local,52/59 (88%),Mekvabishvili A.Midfielder,9,-,6.2,-,-,-,67
+WQkpCXig,turquia,local,9/10 (90%),Mikautadze G.Striker,8,-,6.0,0/1 (0%),-,-,20
+WQkpCXig,turquia,local,49/54 (91%),Lochoshvili L.Centre back,5,-,5.9,-,-,1,70
+WQkpCXig,turquia,local,42/53 (79%),Goglichidze S.Centre back,6,0.09,5.8,-,1,2,69
+WQkpCXig,turquia,local,25/33 (76%),Mamardashvili G.Goalkeeper,-,-,4.8,-,-,-,35
+WQkpCXig,turquia,local,3/3 (100%),Kadioglu F.Defender,-,-,-,-,-,-,3
+CpcHAuYo,turquia,local,36/40 (90%),Guler A.Attacking midfielder,9,0.18,9.0,1/3 (33%),2,3,60
+CpcHAuYo,turquia,local,15/17 (88%),Yildiz K.Winger,13,0.31,8.8,4/7 (57%),2,4,39
+CpcHAuYo,turquia,local,70/77 (91%),Calhanoglu H.Midfielder,9,0.03,8.4,1/1 (100%),1,1,87
+CpcHAuYo,turquia,local,46/54 (85%),Aydin O.Winger,5,0.07,8.1,2/3 (67%),2,2,65
+CpcHAuYo,turquia,local,41/46 (89%),Celik Z.Fullback,5,0.15,8.0,-,2,6,69
+CpcHAuYo,turquia,local,9/12 (75%),Kahveci I.Forward,7,0.77,7.8,3/4 (75%),2,3,23
+CpcHAuYo,turquia,local,84/96 (88%),Demiral M.Centre back,12,-,7.6,-,-,-,108
+CpcHAuYo,turquia,local,108/117 (92%),Bardakci A.Centre back,7,0.02,7.3,-,1,-,125
+CpcHAuYo,turquia,local,70/86 (81%),Kokcu O.Midfielder,5,0.06,7.2,0/1 (0%),2,1,99
+CpcHAuYo,turquia,local,51/58 (88%),Kadioglu F.Fullback,5,0.04,7.1,2/4 (50%),1,1,78
+CpcHAuYo,turquia,local,31/35 (89%),Cakir U.Goalkeeper,1,-,6.8,-,-,-,46
+CpcHAuYo,turquia,local,15/18 (83%),Uzun C.Midfielder,5,0.05,6.8,3/3 (100%),2,-,25
+CpcHAuYo,turquia,local,6/7 (86%),Kirilov R.Winger,5,0.18,6.6,0/2 (0%),2,2,26
+CpcHAuYo,turquia,local,27/29 (93%),Ozcan S.Midfielder,1,-,6.6,-,-,-,33
+CpcHAuYo,turquia,local,2/5 (40%),Petkov L.Forward,4,-,6.4,-,-,1,8
+CpcHAuYo,turquia,local,14/25 (56%),Kraev A.Midfielder,11,-,6.3,0/1 (0%),-,-,42
+CpcHAuYo,turquia,local,5/6 (83%),Turitsov I.Defender,2,-,6.3,-,-,-,19
+CpcHAuYo,turquia,local,8/8 (100%),Despodov K.Striker,3,-,6.2,-,-,1,14
+CpcHAuYo,turquia,local,14/20 (70%),Akturkoglu K.Striker,3,0.09,6.1,0/1 (0%),1,4,27
+CpcHAuYo,turquia,local,8/18 (44%),Chochev I.Attacking midfielder,11,0.01,6.1,-,1,1,31
+CpcHAuYo,turquia,local,2/4 (50%),Dimitrov Z.Forward,6,-,6.1,-,-,-,12
+CpcHAuYo,turquia,local,2/2 (100%),Krastev F.Midfielder,3,-,6.1,-,-,-,6
+CpcHAuYo,turquia,local,13/19 (68%),Stoyanov K.Midfielder,11,-,6.1,3/3 (100%),-,1,30
+CpcHAuYo,turquia,local,12/14 (86%),Petkov M.Winger,7,-,6.0,0/1 (0%),-,-,24
+CpcHAuYo,turquia,local,2/3 (67%),Minchev M.Forward,6,0.21,5.9,-,1,1,5
+CpcHAuYo,turquia,local,10/19 (53%),Bozhinov R.Centre back,6,-,5.6,-,-,-,29
+CpcHAuYo,turquia,local,9/18 (50%),Popov V.Fullback,11,-,5.4,-,-,-,40
+CpcHAuYo,turquia,local,10/15 (67%),Petrov H.Fullback,3,-,5.1,-,-,2,28
+CpcHAuYo,turquia,local,12/25 (48%),Mitov D.Goalkeeper,-,-,4.7,-,-,-,33
+CpcHAuYo,turquia,local,6/10 (60%),Hristov P.Centre back,1,-,4.4,-,-,-,19
+CpcHAuYo,turquia,local,7/8 (88%),Akaydin S.Defender,1,-,-,1/1 (100%),-,1,9
+CpcHAuYo,turquia,local,4/4 (100%),Gul D.Forward,2,-,-,1/1 (100%),-,1,5
+zkoGWqpI,turquia,local,22/27 (81%),Lamine YamalWinger,17,0.79,9.6,8/11 (73%),6,11,54
+zkoGWqpI,turquia,local,49/54 (91%),PedriMidfielder,7,0.57,9.3,1/2 (50%),3,5,67
+zkoGWqpI,turquia,local,38/44 (86%),Merino M.Midfielder,7,0.55,9.2,-,4,4,58
+zkoGWqpI,turquia,local,16/19 (84%),Oyarzabal M.Striker,8,-,8.7,2/2 (100%),-,5,31
+zkoGWqpI,turquia,local,65/74 (88%),Huijsen D.Centre back,3,-,8.4,-,-,1,94
+zkoGWqpI,turquia,local,38/42 (90%),Cucurella M.Fullback,9,-,7.4,-,-,-,73
+zkoGWqpI,turquia,local,53/54 (98%),Le Normand R.Centre back,6,0.05,7.4,0/1 (0%),1,2,68
+zkoGWqpI,turquia,local,30/34 (88%),Simon U.Goalkeeper,-,-,7.2,-,-,-,40
+zkoGWqpI,turquia,local,38/47 (81%),Porro P.Fullback,9,-,7.1,-,-,-,67
+zkoGWqpI,turquia,local,48/51 (94%),Zubimendi M.Midfielder,4,0.05,7.1,-,1,1,59
+zkoGWqpI,turquia,local,49/56 (88%),Guler A.Attacking midfielder,6,0.12,7.0,-,4,2,79
+zkoGWqpI,turquia,local,17/19 (89%),Torres F.Forward,7,0.51,7.0,-,2,4,29
+zkoGWqpI,turquia,local,36/37 (97%),Yildiz K.Winger,18,0.23,7.0,4/9 (44%),3,6,70
+zkoGWqpI,turquia,local,13/15 (87%),Williams N.Winger,1,0.21,6.9,0/1 (0%),3,5,24
+zkoGWqpI,turquia,local,8/8 (100%),de Frutos J.Forward,-,-,6.6,-,-,1,10
+zkoGWqpI,turquia,local,52/60 (87%),Demiral M.Centre back,8,-,6.6,-,-,1,70
+zkoGWqpI,turquia,local,12/13 (92%),FermínMidfielder,2,0.03,6.6,-,1,1,16
+zkoGWqpI,turquia,local,23/27 (85%),Aydin O.Midfielder,2,-,6.4,-,-,3,36
+zkoGWqpI,turquia,local,10/12 (83%),Celik Z.Defender,5,-,6.4,0/1 (0%),-,1,22
+zkoGWqpI,turquia,local,11/14 (79%),Kokcu O.Midfielder,3,0.04,6.4,-,1,-,20
+zkoGWqpI,turquia,local,18/20 (90%),RodriMidfielder,3,-,6.4,-,-,-,25
+zkoGWqpI,turquia,local,20/20 (100%),Kadioglu F.Defender,-,-,6.3,-,-,-,22
+zkoGWqpI,turquia,local,3/4 (75%),Morata A.Forward,2,-,6.3,0/1 (0%),-,-,6
+zkoGWqpI,turquia,local,9/9 (100%),Akgun Y.Winger,5,-,6.2,1/2 (50%),-,3,17
+zkoGWqpI,turquia,local,42/47 (89%),Calhanoglu H.Midfielder,4,0.09,6.1,1/1 (100%),2,1,58
+zkoGWqpI,turquia,local,63/68 (93%),Bardakci A.Centre back,5,-,5.8,-,-,-,76
+zkoGWqpI,turquia,local,12/15 (80%),Akturkoglu K.Striker,7,0.06,5.7,0/1 (0%),1,3,25
+zkoGWqpI,turquia,local,30/32 (94%),Muldur M.Fullback,2,-,5.7,1/2 (50%),-,1,46
+zkoGWqpI,turquia,local,37/40 (93%),Yuksek I.Midfielder,12,-,5.6,1/1 (100%),-,2,57
+zkoGWqpI,turquia,local,17/22 (77%),Elmali E.Fullback,7,-,5.3,-,-,2,36
+zkoGWqpI,turquia,local,26/40 (65%),Cakir U.Goalkeeper,-,-,4.7,-,-,-,53
+zkoGWqpI,turquia,local,8/10 (80%),Ozcan S.Midfielder,1,-,-,-,-,-,10
+63p96TLU,turquia,local,32/37 (86%),Davitashvili Z.Winger,17,0.27,8.6,5/9 (56%),2,5,64
+63p96TLU,turquia,local,10/13 (77%),Akturkoglu K.Striker,7,0.49,8.3,0/1 (0%),2,3,24
+63p96TLU,turquia,local,55/63 (87%),Kochorashvili G.Midfielder,15,0.05,8.0,0/1 (0%),2,1,88
+63p96TLU,turquia,local,18/20 (90%),Muldur M.Fullback,13,0.06,7.9,1/1 (100%),1,3,44
+63p96TLU,turquia,local,26/31 (84%),Kvaratskhelia K.Striker,17,0.15,7.8,3/10 (30%),4,5,62
+63p96TLU,turquia,local,17/20 (85%),Akgun Y.Winger,4,-,7.5,1/1 (100%),-,1,26
+63p96TLU,turquia,local,29/33 (88%),Guler A.Attacking midfielder,5,0.16,7.4,1/3 (33%),2,1,48
+63p96TLU,turquia,local,37/41 (90%),Demiral M.Centre back,5,-,7.2,-,-,-,59
+63p96TLU,turquia,local,22/24 (92%),Azarovi I.Defender,-,0.02,6.7,-,1,2,33
+63p96TLU,turquia,local,39/48 (81%),Calhanoglu H.Midfielder,11,-,6.7,1/2 (50%),-,-,59
+63p96TLU,turquia,local,3/6 (50%),Aydin O.Midfielder,4,-,6.6,0/1 (0%),-,-,17
+63p96TLU,turquia,local,20/22 (91%),Yuksek I.Midfielder,4,-,6.6,0/1 (0%),-,-,30
+63p96TLU,turquia,local,41/49 (84%),Bardakci A.Centre back,5,-,6.4,0/1 (0%),-,-,64
+63p96TLU,turquia,local,3/5 (60%),Kadioglu F.Defender,-,-,6.4,-,-,-,7
+63p96TLU,turquia,local,9/12 (75%),Kokcu O.Midfielder,4,-,6.4,-,-,-,19
+63p96TLU,turquia,local,16/17 (94%),Gagnidze N.Midfielder,4,0.03,6.3,-,1,3,25
+63p96TLU,turquia,local,31/45 (69%),Cakir U.Goalkeeper,1,-,6.2,-,-,-,53
+63p96TLU,turquia,local,5/6 (83%),Tsitaishvili G.Winger,4,-,6.1,0/1 (0%),-,3,19
+63p96TLU,turquia,local,23/27 (85%),Elmali E.Fullback,9,-,6.0,0/1 (0%),-,-,55
+63p96TLU,turquia,local,9/10 (90%),Yildiz K.Winger,13,0.03,5.9,2/4 (50%),1,1,30
+63p96TLU,turquia,local,33/42 (79%),Kakabadze O.Fullback,8,-,5.8,0/1 (0%),-,-,60
+63p96TLU,turquia,local,28/30 (93%),Mekvabishvili A.Midfielder,5,0.23,5.6,-,2,2,41
+63p96TLU,turquia,local,18/21 (86%),Lochoshvili L.Fullback,1,0.40,5.5,-,1,1,28
+63p96TLU,turquia,local,15/18 (83%),Mamardashvili G.Goalkeeper,-,-,5.4,-,-,-,27
+63p96TLU,turquia,local,34/43 (79%),Goglichidze S.Centre back,6,-,5.3,-,-,1,54
+63p96TLU,turquia,local,48/52 (92%),Kashia G.Centre back,5,0.01,5.3,-,1,3,66
+63p96TLU,turquia,local,6/10 (60%),Mikautadze G.Striker,6,-,5.3,-,-,3,16
+63p96TLU,turquia,local,10/10 (100%),Gocholeishvili G.Defender,1,-,-,-,-,2,16
+63p96TLU,turquia,local,3/3 (100%),Guliashvili G.Forward,2,0.01,-,0/1 (0%),1,4,8
+63p96TLU,turquia,local,9/9 (100%),Kahveci I.Forward,4,-,-,0/1 (0%),-,-,14
+63p96TLU,turquia,local,-,Yilmaz B.Forward,2,-,-,-,-,-,3

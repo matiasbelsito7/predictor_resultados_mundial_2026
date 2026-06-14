@@ -1,0 +1,325 @@
+match_id,seleccion,equipo,accurate_passesaccurate_passes,all,duelsduels,expected_goals_xgexpected_goals_xg,ratingrating,successful_dribblessuccessful_dribbles,total_shotstotal_shots,touches_in_opposition_boxtouches_in_opposition_box,touchestouches
+MwkAgvmI,croacia,local,15/20 (75%),Perisic I.Winger,6,0.10,7.8,1/4 (25%),2,5,39
+MwkAgvmI,croacia,local,53/59 (90%),Stanisic J.Fullback,4,0.02,7.7,-,1,1,85
+MwkAgvmI,croacia,local,57/63 (90%),Gvardiol J.Fullback,7,-,7.6,1/1 (100%),-,1,80
+MwkAgvmI,croacia,local,21/27 (78%),Pasalic M.Winger,6,0.03,7.6,2/2 (100%),1,1,40
+MwkAgvmI,croacia,local,65/69 (94%),Erlic M.Centre back,4,-,7.5,-,-,-,79
+MwkAgvmI,croacia,local,31/33 (94%),Pasalic M.Midfielder,-,0.17,7.5,-,2,2,37
+MwkAgvmI,croacia,local,17/20 (85%),Livakovic D.Goalkeeper,-,-,7.4,-,-,-,26
+MwkAgvmI,croacia,local,63/68 (93%),Pongracic M.Centre back,9,-,7.3,-,-,-,79
+MwkAgvmI,croacia,local,4/7 (57%),Budimir A.Striker,6,0.55,7.1,0/1 (0%),3,9,17
+MwkAgvmI,croacia,local,10/15 (67%),Matanovic I.Forward,3,0.42,7.1,-,5,5,23
+MwkAgvmI,croacia,local,44/50 (88%),Modric L.Midfielder,3,0.12,7.1,-,1,-,61
+MwkAgvmI,croacia,local,5/7 (71%),Sporar A.Forward,5,0.58,7.1,-,1,1,14
+MwkAgvmI,croacia,local,28/35 (80%),Drkusic V.Centre back,4,-,6.9,-,-,-,51
+MwkAgvmI,croacia,local,34/40 (85%),Sucic P.Midfielder,2,0.04,6.9,1/1 (100%),1,-,47
+MwkAgvmI,croacia,local,22/26 (85%),Baturina M.Midfielder,6,-,6.8,1/4 (25%),-,-,38
+MwkAgvmI,croacia,local,21/22 (95%),Kramaric A.Attacking midfielder,-,0.09,6.8,-,1,4,27
+MwkAgvmI,croacia,local,32/33 (97%),Sucic L.Midfielder,1,0.03,6.8,0/1 (0%),2,-,40
+MwkAgvmI,croacia,local,38/44 (86%),Kovacic M.Midfielder,3,0.09,6.6,-,2,-,51
+MwkAgvmI,croacia,local,12/15 (80%),Begic T.Midfielder,9,0.19,6.5,0/2 (0%),1,3,31
+MwkAgvmI,croacia,local,10/13 (77%),Vipotnik Z.Striker,3,0.63,6.5,1/1 (100%),3,4,20
+MwkAgvmI,croacia,local,14/15 (93%),Vlasic N.Midfielder,6,0.03,6.5,-,1,-,19
+MwkAgvmI,croacia,local,23/29 (79%),Bijol J.Centre back,3,-,6.4,-,-,1,37
+MwkAgvmI,croacia,local,22/26 (85%),Gnezda Cerin A.Midfielder,13,0.05,6.4,-,2,-,38
+MwkAgvmI,croacia,local,37/41 (90%),Lovric S.Midfielder,7,0.23,6.3,1/1 (100%),1,2,54
+MwkAgvmI,croacia,local,20/34 (59%),Oblak J.Goalkeeper,-,-,6.3,-,-,-,47
+MwkAgvmI,croacia,local,4/4 (100%),Brekalo D.Defender,-,-,6.2,-,-,-,7
+MwkAgvmI,croacia,local,1/2 (50%),Karnicnik Z.Wingback,1,-,6.2,-,-,-,4
+MwkAgvmI,croacia,local,-,Matko A.Forward,1,-,6.2,-,-,-,3
+MwkAgvmI,croacia,local,14/20 (70%),Sturm D.Midfielder,8,0.22,6.1,1/7 (14%),4,6,41
+MwkAgvmI,croacia,local,26/34 (76%),Ratnik M.Centre back,5,-,6.0,-,-,1,47
+MwkAgvmI,croacia,local,23/27 (85%),Janza E.Wingback,2,0.04,5.9,0/1 (0%),1,1,47
+MwkAgvmI,croacia,local,13/18 (72%),Kuzmic S.Defender,6,-,5.8,0/1 (0%),-,1,31
+MwkAgvmI,croacia,local,12/12 (100%),Sutalo J.Defender,1,-,-,-,-,-,14
+MwkAgvmI,croacia,local,1/1 (100%),Zec D.Defender,-,-,-,-,-,-,1
+EDo2e0I5,croacia,local,48/49 (98%),Onana A.Centre back,10,-,7.9,1/1 (100%),-,-,65
+EDo2e0I5,croacia,local,25/31 (81%),Tielemans Y.Midfielder,9,0.16,7.8,-,2,2,54
+EDo2e0I5,croacia,local,54/56 (96%),Theate A.Centre back,5,-,7.6,-,-,-,69
+EDo2e0I5,croacia,local,10/12 (83%),Vanaken H.Midfielder,1,0.27,7.3,-,1,2,18
+EDo2e0I5,croacia,local,23/39 (59%),Courtois T.Goalkeeper,-,-,7.1,-,-,-,45
+EDo2e0I5,croacia,local,18/25 (72%),De Cuyper M.Wingback,-,0.13,7.0,-,1,1,33
+EDo2e0I5,croacia,local,16/18 (89%),Doku J.Attacking midfielder,11,0.05,6.9,4/7 (57%),2,3,35
+EDo2e0I5,croacia,local,3/4 (75%),Lukaku R.Forward,4,0.27,6.9,-,1,3,8
+EDo2e0I5,croacia,local,73/74 (99%),Vuskovic L.Centre back,11,-,6.9,-,-,1,90
+EDo2e0I5,croacia,local,37/44 (84%),Gvardiol J.Centre back,3,-,6.7,-,-,-,57
+EDo2e0I5,croacia,local,26/27 (96%),Ngoy N.Centre back,4,-,6.7,0/1 (0%),-,-,41
+EDo2e0I5,croacia,local,18/21 (86%),Perisic I.Wingback,6,-,6.7,-,-,2,45
+EDo2e0I5,croacia,local,42/47 (89%),Kovacic M.Midfielder,5,-,6.6,-,-,1,54
+EDo2e0I5,croacia,local,11/13 (85%),Meunier T.Defender,2,-,6.6,1/1 (100%),-,1,18
+EDo2e0I5,croacia,local,6/12 (50%),Seys J.Defender,-,-,6.6,-,-,1,17
+EDo2e0I5,croacia,local,11/12 (92%),Sucic L.Midfielder,4,-,6.6,-,-,-,21
+EDo2e0I5,croacia,local,16/17 (94%),De Winter K.Defender,4,-,6.5,-,-,-,21
+EDo2e0I5,croacia,local,16/17 (94%),Jakic K.Midfielder,2,-,6.5,-,-,-,21
+EDo2e0I5,croacia,local,9/9 (100%),Mechele B.Defender,2,-,6.5,-,-,-,10
+EDo2e0I5,croacia,local,28/35 (80%),De Bruyne K.Attacking midfielder,5,0.04,6.4,-,1,1,50
+EDo2e0I5,croacia,local,7/8 (88%),Fernandez-Pardo M.Forward,3,-,6.4,-,-,-,11
+EDo2e0I5,croacia,local,34/42 (81%),Modric L.Midfielder,4,0.10,6.4,0/1 (0%),1,1,52
+EDo2e0I5,croacia,local,8/9 (89%),Vlasic N.Midfielder,1,-,6.4,-,-,-,11
+EDo2e0I5,croacia,local,3/4 (75%),Witsel A.Midfielder,1,-,6.4,-,-,2,7
+EDo2e0I5,croacia,local,10/10 (100%),Kramaric A.Forward,1,-,6.3,-,-,-,12
+EDo2e0I5,croacia,local,15/20 (75%),Pasalic M.Forward,2,0.05,6.3,-,1,-,27
+EDo2e0I5,croacia,local,31/33 (94%),Pongracic M.Defender,3,-,6.3,-,-,-,36
+EDo2e0I5,croacia,local,13/15 (87%),Pasalic M.Midfielder,2,-,6.2,-,-,-,17
+EDo2e0I5,croacia,local,25/29 (86%),Baturina M.Attacking midfielder,11,-,6.1,3/4 (75%),-,1,44
+EDo2e0I5,croacia,local,27/31 (87%),Raskin N.Midfielder,5,-,6.1,-,-,-,34
+EDo2e0I5,croacia,local,7/9 (78%),Kotarski D.Goalkeeper,-,-,6.0,-,-,-,11
+EDo2e0I5,croacia,local,17/21 (81%),Livakovic D.Goalkeeper,-,-,6.0,-,-,-,27
+EDo2e0I5,croacia,local,7/12 (58%),Musa P.Striker,8,0.03,6.0,0/1 (0%),1,1,19
+EDo2e0I5,croacia,local,21/25 (84%),Moro N.Midfielder,2,-,5.9,-,-,-,32
+EDo2e0I5,croacia,local,14/19 (74%),Saelemaekers A.Wingback,9,-,5.9,1/1 (100%),-,3,28
+EDo2e0I5,croacia,local,23/27 (85%),Stanisic J.Wingback,3,-,5.9,-,-,1,32
+EDo2e0I5,croacia,local,0/2 (0%),Budimir A.Forward,7,1.00,5.8,-,2,4,11
+EDo2e0I5,croacia,local,3/8 (38%),De Ketelaere C.Striker,7,-,5.8,-,-,-,15
+EDo2e0I5,croacia,local,19/25 (76%),Sucic P.Attacking midfielder,6,-,5.6,-,-,1,32
+EDo2e0I5,croacia,local,42/45 (93%),Sutalo J.Centre back,1,-,5.6,-,-,-,54
+OU5qCXKO,croacia,local,33/39 (85%),Jakic K.Fullback,12,0.50,8.7,1/2 (50%),1,6,71
+OU5qCXKO,croacia,local,59/62 (95%),Pasalic M.Midfielder,8,0.31,8.3,1/1 (100%),3,4,73
+OU5qCXKO,croacia,local,73/79 (92%),Moro N.Midfielder,8,0.03,7.9,1/1 (100%),1,1,91
+OU5qCXKO,croacia,local,30/36 (83%),Vlasic N.Attacking midfielder,16,0.16,7.8,3/6 (50%),2,5,57
+OU5qCXKO,croacia,local,27/29 (93%),Perisic I.Winger,5,0.83,7.6,2/2 (100%),2,3,49
+OU5qCXKO,croacia,local,17/17 (100%),Pongracic M.Defender,6,-,7.2,-,-,-,28
+OU5qCXKO,croacia,local,32/35 (91%),Stanisic J.Defender,3,-,7.1,-,-,1,45
+OU5qCXKO,croacia,local,9/19 (47%),Krstovic N.Striker,15,0.17,7.0,1/5 (20%),4,3,36
+OU5qCXKO,croacia,local,25/35 (71%),Jankovic M.Midfielder,10,0.08,6.9,-,1,-,50
+OU5qCXKO,croacia,local,11/19 (58%),Ivanovic F.Winger,6,0.13,6.8,2/5 (40%),1,6,30
+OU5qCXKO,croacia,local,17/22 (77%),Livakovic D.Goalkeeper,1,-,6.8,-,-,-,29
+OU5qCXKO,croacia,local,15/18 (83%),Jovetic S.Attacking midfielder,5,0.23,6.7,1/1 (100%),2,1,33
+OU5qCXKO,croacia,local,12/15 (80%),Kramaric A.Forward,2,0.14,6.7,-,2,4,19
+OU5qCXKO,croacia,local,19/19 (100%),Modric L.Midfielder,1,-,6.6,0/1 (0%),-,-,22
+OU5qCXKO,croacia,local,13/14 (93%),Adzic V.Midfielder,3,-,6.5,1/1 (100%),-,-,18
+OU5qCXKO,croacia,local,50/53 (94%),Sutalo J.Centre back,5,-,6.5,-,-,-,63
+OU5qCXKO,croacia,local,9/11 (82%),Matanovic I.Striker,8,0.31,6.4,-,2,3,22
+OU5qCXKO,croacia,local,5/6 (83%),Musa P.Forward,4,0.43,6.4,1/1 (100%),2,5,10
+OU5qCXKO,croacia,local,3/4 (75%),Brnovic M.Midfielder,-,-,6.3,-,-,-,4
+OU5qCXKO,croacia,local,15/18 (83%),Perovic M.Forward,6,-,6.3,2/2 (100%),-,2,34
+OU5qCXKO,croacia,local,10/10 (100%),Sipcic N.Defender,2,-,6.3,-,-,1,12
+OU5qCXKO,croacia,local,15/19 (79%),Bulatovic A.Midfielder,15,0.01,6.2,0/1 (0%),1,-,34
+OU5qCXKO,croacia,local,24/35 (69%),Nikic I.Goalkeeper,-,-,6.2,-,-,-,43
+OU5qCXKO,croacia,local,8/8 (100%),Osmajic M.Striker,11,0.09,6.2,0/1 (0%),1,1,21
+OU5qCXKO,croacia,local,4/7 (57%),Vukotic M.Midfielder,1,0.40,6.2,-,3,2,13
+OU5qCXKO,croacia,local,20/23 (87%),Gvardiol J.Fullback,6,0.06,6.1,0/2 (0%),1,1,31
+OU5qCXKO,croacia,local,24/26 (92%),Caleta-Car D.Centre back,4,-,5.9,-,-,2,31
+OU5qCXKO,croacia,local,10/17 (59%),Loncar S.Midfielder,2,-,5.6,-,-,-,22
+OU5qCXKO,croacia,local,25/30 (83%),Tuci M.Centre back,4,-,5.6,-,-,1,36
+OU5qCXKO,croacia,local,9/13 (69%),Rubezic S.Centre back,10,-,5.5,-,-,-,24
+OU5qCXKO,croacia,local,17/17 (100%),Vesovic M.Fullback,7,-,5.5,-,-,-,31
+OU5qCXKO,croacia,local,19/21 (90%),Marusic A.Fullback,4,-,5.2,0/1 (0%),-,-,36
+jH7yEgjC,croacia,local,72/76 (95%),Gvardiol J.Centre back,10,0.14,9.1,1/2 (50%),2,5,103
+jH7yEgjC,croacia,local,77/83 (93%),Stanisic J.Centre back,3,0.01,8.9,-,1,3,97
+jH7yEgjC,croacia,local,26/36 (72%),Perisic I.Wingback,4,0.04,8.3,2/2 (100%),1,6,51
+jH7yEgjC,croacia,local,74/82 (90%),Vuskovic L.Centre back,18,0.07,8.2,-,1,1,98
+jH7yEgjC,croacia,local,77/85 (91%),Sucic P.Attacking midfielder,11,0.20,7.9,1/3 (33%),2,1,101
+jH7yEgjC,croacia,local,63/74 (85%),Modric L.Midfielder,-,0.29,7.8,-,4,1,83
+jH7yEgjC,croacia,local,16/18 (89%),Vlasic N.Midfielder,2,0.51,7.6,0/2 (0%),2,3,25
+jH7yEgjC,croacia,local,18/21 (86%),Livakovic D.Goalkeeper,1,-,7.5,-,-,-,30
+jH7yEgjC,croacia,local,30/35 (86%),Pasalic M.Wingback,6,0.05,7.3,3/4 (75%),1,6,57
+jH7yEgjC,croacia,local,11/16 (69%),Musa P.Striker,7,0.30,7.2,-,1,2,19
+jH7yEgjC,croacia,local,33/39 (85%),Kramaric A.Attacking midfielder,-,0.56,6.9,-,3,11,46
+jH7yEgjC,croacia,local,7/13 (54%),Turi G. D.Midfielder,2,0.07,6.9,-,1,-,17
+jH7yEgjC,croacia,local,5/5 (100%),Bjartalid J.Forward,1,-,6.7,-,-,-,7
+jH7yEgjC,croacia,local,11/15 (73%),Fruk T.Midfielder,2,0.04,6.7,1/1 (100%),1,2,19
+jH7yEgjC,croacia,local,5/10 (50%),Joensen R.Wingback,3,-,6.7,-,-,-,36
+jH7yEgjC,croacia,local,30/31 (97%),Sutalo J.Defender,1,-,6.7,-,-,-,32
+jH7yEgjC,croacia,local,1/3 (33%),Justinussen A.Forward,2,-,6.4,-,-,-,5
+jH7yEgjC,croacia,local,2/2 (100%),Agnarsson M.Defender,-,-,6.3,-,-,-,3
+jH7yEgjC,croacia,local,7/17 (41%),Frederiksberg A.Midfielder,5,-,6.3,-,-,-,27
+jH7yEgjC,croacia,local,3/5 (60%),Matanovic I.Forward,5,-,6.3,0/1 (0%),-,3,7
+jH7yEgjC,croacia,local,11/13 (85%),Pasalic M.Midfielder,1,-,6.3,-,-,2,16
+jH7yEgjC,croacia,local,6/14 (43%),Andreasen J.Midfielder,15,0.03,6.1,-,1,2,26
+jH7yEgjC,croacia,local,4/10 (40%),Edmundsson A.Centre back,5,-,6.1,-,-,2,26
+jH7yEgjC,croacia,local,13/15 (87%),Orsic M.Forward,1,0.55,6.1,0/1 (0%),1,1,19
+jH7yEgjC,croacia,local,1/1 (100%),Knudsen P.Forward,3,0.16,6.0,-,1,1,3
+jH7yEgjC,croacia,local,7/13 (54%),Olsen M.Striker,9,-,5.6,0/2 (0%),-,-,21
+jH7yEgjC,croacia,local,12/25 (48%),Lamhauge M.Goalkeeper,1,-,5.5,-,-,-,37
+jH7yEgjC,croacia,local,7/10 (70%),Vatnhamar G.Centre back,11,-,5.5,-,-,2,29
+jH7yEgjC,croacia,local,4/6 (67%),Davidsen V.Wingback,5,-,5.3,0/1 (0%),-,-,15
+jH7yEgjC,croacia,local,7/12 (58%),Sorensen H.Midfielder,4,0.19,5.2,-,1,2,25
+jH7yEgjC,croacia,local,4/11 (36%),Faero O.Centre back,6,-,5.0,-,-,-,20
+jH7yEgjC,croacia,local,0/1 (0%),Klettskard P.Forward,-,-,-,-,-,-,2
+dIESFFLa,croacia,local,52/56 (93%),Pasalic M.Fullback,10,0.25,9.1,4/5 (80%),5,14,90
+dIESFFLa,croacia,local,27/32 (84%),Fruk T.Winger,13,0.40,8.7,-,3,11,45
+dIESFFLa,croacia,local,60/67 (90%),Bradaric D.Fullback,6,-,8.3,-,-,7,94
+dIESFFLa,croacia,local,46/52 (88%),Majer L.Winger,10,1.55,8.2,4/4 (100%),5,7,82
+dIESFFLa,croacia,local,19/39 (49%),Hankins J.Goalkeeper,-,-,7.9,-,-,-,48
+dIESFFLa,croacia,local,44/49 (90%),Erlic M.Centre back,8,0.09,7.8,-,1,2,57
+dIESFFLa,croacia,local,15/19 (79%),Sucic L.Midfielder,4,0.42,7.8,1/1 (100%),2,3,23
+dIESFFLa,croacia,local,79/89 (89%),Kovacic M.Midfielder,8,-,7.7,0/1 (0%),-,1,96
+dIESFFLa,croacia,local,22/26 (85%),Ivanovic F.Striker,9,0.61,7.5,1/3 (33%),7,17,44
+dIESFFLa,croacia,local,30/36 (83%),Modric L.Midfielder,-,0.11,7.0,-,1,1,42
+dIESFFLa,croacia,local,35/38 (92%),Baturina M.Attacking midfielder,7,0.15,6.9,1/2 (50%),2,7,56
+dIESFFLa,croacia,local,46/51 (90%),Moro N.Midfielder,-,-,6.9,-,-,2,53
+dIESFFLa,croacia,local,14/15 (93%),Perisic I.Forward,1,0.03,6.9,0/1 (0%),1,2,22
+dIESFFLa,croacia,local,28/32 (88%),Pongracic M.Centre back,5,-,6.9,-,-,-,37
+dIESFFLa,croacia,local,6/9 (67%),Annesley L.Centre back,2,0.05,6.7,-,1,-,20
+dIESFFLa,croacia,local,13/13 (100%),Kotarski D.Goalkeeper,-,-,6.7,-,-,-,18
+dIESFFLa,croacia,local,28/32 (88%),Gvardiol J.Defender,2,-,6.6,-,-,2,36
+dIESFFLa,croacia,local,6/6 (100%),Kramaric A.Forward,-,0.17,6.6,-,1,1,8
+dIESFFLa,croacia,local,9/12 (75%),Lopes B.Centre back,6,-,6.3,-,-,-,22
+dIESFFLa,croacia,local,10/18 (56%),De Barr T.Striker,15,-,6.0,0/2 (0%),-,-,40
+dIESFFLa,croacia,local,2/6 (33%),Perera J.Midfielder,3,-,6.0,-,-,-,16
+dIESFFLa,croacia,local,1/1 (100%),Clinton K.Midfielder,5,-,5.9,0/1 (0%),-,-,6
+dIESFFLa,croacia,local,6/10 (60%),Jolley E.Wingback,6,-,5.8,-,-,-,36
+dIESFFLa,croacia,local,4/19 (21%),Bent D.Midfielder,15,-,5.5,1/3 (33%),-,-,39
+dIESFFLa,croacia,local,6/11 (55%),Scanlon J.Midfielder,4,-,5.5,-,-,-,24
+dIESFFLa,croacia,local,9/11 (82%),Valarino J.Wingback,14,-,5.2,1/1 (100%),-,-,26
+dIESFFLa,croacia,local,6/10 (60%),Ronan K.Centre back,6,-,4.9,-,-,-,27
+dIESFFLa,croacia,local,11/14 (79%),Richards C.Midfielder,5,-,4.8,0/1 (0%),-,-,25
+dIESFFLa,croacia,local,-,Del Rio J.Forward,1,-,-,-,-,-,-
+dIESFFLa,croacia,local,-,Jessop L.Forward,1,-,-,-,-,-,-
+dIESFFLa,croacia,local,2/2 (100%),Mouelhi A.Defender,-,-,-,-,-,-,2
+lhBKHyim,croacia,local,29/41 (71%),Coufal V.Fullback,13,-,8.4,-,-,-,75
+lhBKHyim,croacia,local,35/44 (80%),Krejci L.Centre back,11,-,7.7,-,-,1,58
+lhBKHyim,croacia,local,30/41 (73%),Gvardiol J.Fullback,15,-,7.5,2/4 (50%),-,1,72
+lhBKHyim,croacia,local,46/50 (92%),Sutalo J.Centre back,14,-,7.5,1/2 (50%),-,-,75
+lhBKHyim,croacia,local,43/45 (96%),Sucic P.Midfielder,16,0.05,7.4,0/1 (0%),1,1,62
+lhBKHyim,croacia,local,17/21 (81%),Vitik M.Centre back,11,0.05,7.3,-,1,4,36
+lhBKHyim,croacia,local,53/66 (80%),Modric L.Midfielder,10,0.07,7.2,1/2 (50%),1,-,84
+lhBKHyim,croacia,local,23/34 (68%),Kovar M.Goalkeeper,-,-,7.1,-,-,-,43
+lhBKHyim,croacia,local,29/35 (83%),Livakovic D.Goalkeeper,1,-,7.1,-,-,-,44
+lhBKHyim,croacia,local,45/52 (87%),Caleta-Car D.Centre back,6,-,7.0,-,-,-,67
+lhBKHyim,croacia,local,10/11 (91%),Pasalic M.Forward,-,0.09,6.8,-,2,-,21
+lhBKHyim,croacia,local,23/27 (85%),Zeleny J.Fullback,7,-,6.8,1/2 (50%),-,-,46
+lhBKHyim,croacia,local,25/32 (78%),Jakic K.Fullback,15,-,6.7,2/3 (67%),-,1,63
+lhBKHyim,croacia,local,21/28 (75%),Cerv L.Midfielder,12,0.01,6.6,-,1,-,40
+lhBKHyim,croacia,local,10/19 (53%),Chory T.Striker,17,0.19,6.6,-,2,6,34
+lhBKHyim,croacia,local,3/5 (60%),Vydra M.Forward,4,-,6.6,-,-,-,8
+lhBKHyim,croacia,local,2/3 (67%),Cerny V.Midfielder,1,-,6.5,-,-,-,6
+lhBKHyim,croacia,local,11/11 (100%),Ivanovic F.Forward,7,0.25,6.5,2/3 (67%),1,5,19
+lhBKHyim,croacia,local,2/4 (50%),Fruk T.Midfielder,4,-,6.4,1/1 (100%),-,2,8
+lhBKHyim,croacia,local,3/3 (100%),Lingr O.Midfielder,2,-,6.3,-,-,-,7
+lhBKHyim,croacia,local,11/20 (55%),Perisic I.Winger,7,0.28,6.3,0/1 (0%),4,5,39
+lhBKHyim,croacia,local,12/19 (63%),Kusej V.Winger,6,-,6.2,0/1 (0%),-,3,30
+lhBKHyim,croacia,local,8/12 (67%),Pasalic M.Winger,6,-,6.1,1/1 (100%),-,-,17
+lhBKHyim,croacia,local,13/17 (76%),Soucek T.Midfielder,10,0.11,6.1,-,2,2,33
+lhBKHyim,croacia,local,26/31 (84%),Kramaric A.Attacking midfielder,6,0.03,6.0,-,1,3,40
+lhBKHyim,croacia,local,21/24 (88%),Provod L.Winger,10,0.10,5.8,0/2 (0%),3,3,39
+lhBKHyim,croacia,local,3/8 (38%),Budimir A.Striker,12,-,5.7,0/1 (0%),-,-,17
+lhBKHyim,croacia,local,11/19 (58%),Sulc P.Attacking midfielder,15,0.19,5.6,1/2 (50%),2,2,41
+4KZmNcTP,croacia,local,62/70 (89%),Jakic K.Fullback,17,0.03,9.3,2/3 (67%),2,-,109
+4KZmNcTP,croacia,local,47/52 (90%),Perisic I.Winger,3,0.77,9.3,-,6,15,79
+4KZmNcTP,croacia,local,78/92 (85%),Modric L.Midfielder,5,0.19,9.0,-,4,3,114
+4KZmNcTP,croacia,local,78/86 (91%),Stanisic J.Fullback,2,0.04,8.7,1/1 (100%),1,8,101
+4KZmNcTP,croacia,local,33/34 (97%),Kramaric A.Attacking midfielder,4,1.40,8.3,1/1 (100%),6,9,47
+4KZmNcTP,croacia,local,14/40 (35%),Petkovic D.Goalkeeper,-,-,8.2,-,-,-,62
+4KZmNcTP,croacia,local,56/59 (95%),Caleta-Car D.Centre back,6,0.33,8.1,-,2,2,67
+4KZmNcTP,croacia,local,62/63 (98%),Sutalo J.Centre back,7,-,7.8,-,-,-,75
+4KZmNcTP,croacia,local,25/28 (89%),Majer L.Midfielder,1,0.08,7.6,1/1 (100%),2,5,34
+4KZmNcTP,croacia,local,78/83 (94%),Sucic P.Midfielder,7,0.06,7.6,1/1 (100%),1,3,92
+4KZmNcTP,croacia,local,14/18 (78%),Sipcic N.Centre back,9,-,7.4,-,-,-,36
+4KZmNcTP,croacia,local,22/29 (76%),Ivanovic F.Striker,13,0.10,7.3,2/3 (67%),3,8,41
+4KZmNcTP,croacia,local,6/10 (60%),Bakic M.Midfielder,5,-,7.2,0/1 (0%),-,-,18
+4KZmNcTP,croacia,local,32/40 (80%),Pasalic M.Winger,2,-,7.0,1/1 (100%),-,5,45
+4KZmNcTP,croacia,local,10/11 (91%),Livakovic D.Goalkeeper,-,-,6.9,-,-,-,14
+4KZmNcTP,croacia,local,12/22 (55%),Rubezic S.Defender,9,-,6.9,0/1 (0%),-,-,44
+4KZmNcTP,croacia,local,17/22 (77%),Fruk T.Midfielder,1,0.07,6.8,-,2,2,25
+4KZmNcTP,croacia,local,13/17 (76%),Baturina M.Midfielder,2,0.05,6.6,-,1,1,20
+4KZmNcTP,croacia,local,6/7 (86%),Loncar S.Midfielder,4,0.11,6.4,-,1,1,11
+4KZmNcTP,croacia,local,2/5 (40%),Budimir A.Forward,2,0.19,6.3,1/1 (100%),2,7,11
+4KZmNcTP,croacia,local,5/7 (71%),Vukcevic A.Defender,4,-,6.2,1/1 (100%),-,-,16
+4KZmNcTP,croacia,local,7/12 (58%),Vukotic M.Attacking midfielder,2,-,6.1,-,-,-,16
+4KZmNcTP,croacia,local,5/6 (83%),Kuc E.Midfielder,1,-,6.0,-,-,1,10
+4KZmNcTP,croacia,local,10/17 (59%),Camaj D.Wingback,7,-,5.8,1/4 (25%),-,-,35
+4KZmNcTP,croacia,local,12/15 (80%),Krstovic N.Striker,10,0.05,5.8,1/2 (50%),2,2,27
+4KZmNcTP,croacia,local,10/11 (91%),Brnovic M.Midfielder,4,-,5.6,-,-,-,17
+4KZmNcTP,croacia,local,15/30 (50%),Jovetic S.Attacking midfielder,7,-,5.6,0/2 (0%),-,-,40
+4KZmNcTP,croacia,local,11/14 (79%),Savic S.Centre back,3,-,5.5,-,-,1,29
+4KZmNcTP,croacia,local,11/17 (65%),Roganovic M.Wingback,3,-,5.3,-,-,-,24
+4KZmNcTP,croacia,local,7/7 (100%),Bulatovic A.Midfielder,5,-,4.3,0/1 (0%),-,-,11
+4KZmNcTP,croacia,local,13/13 (100%),Moro N.Midfielder,1,-,-,-,-,-,14
+4KZmNcTP,croacia,local,1/2 (50%),Vujacic I.Centre back,-,-,-,-,-,-,3
+xEs2afyJ,croacia,local,37/42 (88%),Fruk T.Winger,20,0.40,8.4,4/9 (44%),8,12,77
+xEs2afyJ,croacia,local,11/21 (52%),Lamhauge M.Goalkeeper,1,-,8.3,-,-,-,31
+xEs2afyJ,croacia,local,35/36 (97%),Kramaric A.Attacking midfielder,4,0.97,8.2,2/4 (50%),4,6,48
+xEs2afyJ,croacia,local,61/64 (95%),Pasalic M.Midfielder,7,0.09,8.2,-,1,2,74
+xEs2afyJ,croacia,local,71/78 (91%),Caleta-Car D.Centre back,11,0.35,8.1,-,2,2,99
+xEs2afyJ,croacia,local,13/19 (68%),Edmundsson A.Centre back,12,-,8.1,-,-,2,48
+xEs2afyJ,croacia,local,69/71 (97%),Pongracic M.Centre back,5,-,7.9,-,-,1,80
+xEs2afyJ,croacia,local,5/11 (45%),Budimir A.Striker,11,0.40,7.7,-,4,9,24
+xEs2afyJ,croacia,local,15/21 (71%),Faero O.Centre back,19,-,7.4,-,-,1,41
+xEs2afyJ,croacia,local,19/24 (79%),Livakovic D.Goalkeeper,1,-,7.4,-,-,-,37
+xEs2afyJ,croacia,local,37/38 (97%),Baturina M.Winger,4,0.10,7.3,1/3 (33%),1,2,61
+xEs2afyJ,croacia,local,82/98 (84%),Sucic P.Midfielder,10,0.05,7.2,0/2 (0%),2,-,111
+xEs2afyJ,croacia,local,3/10 (30%),Danielsen J.Wingback,13,-,7.1,1/3 (33%),-,1,42
+xEs2afyJ,croacia,local,40/45 (89%),Sosa B.Fullback,2,-,7.1,-,-,2,66
+xEs2afyJ,croacia,local,8/11 (73%),Vatnhamar G.Centre back,12,0.05,7.1,-,1,-,30
+xEs2afyJ,croacia,local,9/13 (69%),Frederiksberg A.Attacking midfielder,6,0.03,7.0,-,1,1,33
+xEs2afyJ,croacia,local,5/5 (100%),Ivanovic F.Forward,11,-,7.0,2/4 (50%),-,3,15
+xEs2afyJ,croacia,local,30/32 (94%),Jakic K.Fullback,8,0.14,6.9,0/2 (0%),2,2,57
+xEs2afyJ,croacia,local,29/30 (97%),Modric L.Midfielder,4,-,6.8,-,-,-,38
+xEs2afyJ,croacia,local,23/29 (79%),Hendriksson B.Midfielder,7,0.03,6.6,-,1,1,42
+xEs2afyJ,croacia,local,6/6 (100%),Agnarsson M.Defender,2,-,6.4,-,-,-,12
+xEs2afyJ,croacia,local,22/25 (88%),Perisic I.Forward,7,0.04,6.4,-,1,2,39
+xEs2afyJ,croacia,local,3/3 (100%),Bjartalid J.Forward,1,-,6.3,-,-,-,6
+xEs2afyJ,croacia,local,4/4 (100%),Turi G. D.Midfielder,1,-,6.3,-,-,-,6
+xEs2afyJ,croacia,local,4/7 (57%),Edmundsson J. S.Forward,2,-,6.2,0/1 (0%),-,-,8
+xEs2afyJ,croacia,local,12/15 (80%),Sorensen H.Attacking midfielder,6,0.91,6.1,-,2,2,26
+xEs2afyJ,croacia,local,8/14 (57%),Davidsen V.Wingback,4,-,6.0,-,-,-,23
+xEs2afyJ,croacia,local,11/15 (73%),Olsen M.Striker,8,0.02,6.0,1/2 (50%),1,2,24
+xEs2afyJ,croacia,local,15/27 (56%),Andreasen J.Midfielder,14,-,5.7,1/1 (100%),-,4,37
+xEs2afyJ,croacia,local,1/2 (50%),Justinussen A.Forward,-,-,-,-,-,-,2
+xEs2afyJ,croacia,local,2/3 (67%),Pasalic M.Forward,1,-,-,-,-,-,6
+xEs2afyJ,croacia,local,5/8 (63%),Smolcic I.Defender,2,0.12,-,-,1,1,13
+IBR01G66,croacia,local,36/38 (95%),Kramaric A.Attacking midfielder,3,0.72,9.3,-,4,7,50
+IBR01G66,croacia,local,70/77 (91%),Modric L.Midfielder,5,1.01,8.7,2/2 (100%),4,1,89
+IBR01G66,croacia,local,3/10 (30%),Budimir A.Striker,12,1.17,8.2,0/1 (0%),3,7,22
+IBR01G66,croacia,local,35/44 (80%),Gvardiol J.Fullback,11,0.03,7.9,-,1,4,68
+IBR01G66,croacia,local,21/32 (66%),Perisic I.Winger,10,0.06,7.9,1/3 (33%),1,8,54
+IBR01G66,croacia,local,73/75 (97%),Sutalo J.Centre back,7,-,7.7,2/2 (100%),-,-,96
+IBR01G66,croacia,local,58/62 (94%),Caleta-Car D.Centre back,1,-,7.6,-,-,-,73
+IBR01G66,croacia,local,65/69 (94%),Sucic P.Midfielder,6,0.10,7.4,2/2 (100%),1,2,79
+IBR01G66,croacia,local,22/27 (81%),Soucek T.Midfielder,7,0.22,7.3,0/1 (0%),2,3,47
+IBR01G66,croacia,local,13/22 (59%),Livakovic D.Goalkeeper,2,-,7.2,1/1 (100%),-,-,35
+IBR01G66,croacia,local,39/44 (89%),Stanisic J.Fullback,5,-,7.1,1/1 (100%),-,-,67
+IBR01G66,croacia,local,13/18 (72%),Cerny V.Winger,2,0.10,6.7,-,1,3,24
+IBR01G66,croacia,local,10/14 (71%),Schick P.Striker,10,0.40,6.7,1/2 (50%),2,7,26
+IBR01G66,croacia,local,23/31 (74%),Sadilek M.Midfielder,9,0.03,6.5,1/1 (100%),2,1,43
+IBR01G66,croacia,local,3/7 (43%),Ivanovic F.Forward,3,-,6.4,-,-,2,10
+IBR01G66,croacia,local,7/9 (78%),Kral A.Midfielder,-,-,6.4,-,-,-,11
+IBR01G66,croacia,local,29/40 (73%),Krejci L.Centre back,9,0.13,6.4,-,2,4,53
+IBR01G66,croacia,local,28/32 (88%),Pasalic M.Winger,3,0.48,6.4,0/1 (0%),2,4,45
+IBR01G66,croacia,local,4/4 (100%),Chory T.Forward,1,-,6.3,-,-,-,5
+IBR01G66,croacia,local,19/27 (70%),Zeleny J.Fullback,1,-,6.3,1/1 (100%),-,-,42
+IBR01G66,croacia,local,16/23 (70%),Provod L.Winger,7,0.14,6.2,2/2 (100%),3,2,43
+IBR01G66,croacia,local,8/11 (73%),Kusej V.Forward,6,-,6.0,1/1 (100%),-,1,18
+IBR01G66,croacia,local,18/25 (72%),Sulc P.Attacking midfielder,7,0.37,6.0,1/1 (100%),2,6,38
+IBR01G66,croacia,local,28/37 (76%),Coufal V.Fullback,5,-,5.9,1/1 (100%),-,-,61
+IBR01G66,croacia,local,17/24 (71%),Kovar M.Goalkeeper,-,-,5.7,-,-,-,37
+IBR01G66,croacia,local,30/37 (81%),Holes T.Centre back,10,-,4.8,-,-,-,53
+IBR01G66,croacia,local,-,Doudera D.Midfielder,-,-,-,-,-,-,-
+IBR01G66,croacia,local,6/6 (100%),Jakic K.Midfielder,2,-,-,-,-,-,9
+IBR01G66,croacia,local,9/9 (100%),Moro N.Midfielder,1,-,-,-,-,-,11
+IBR01G66,croacia,local,3/3 (100%),Pasalic M.Forward,2,0.06,-,0/1 (0%),2,1,6
+IBR01G66,croacia,local,3/3 (100%),Vuskovic L.Defender,1,-,-,-,-,-,6
+pbTh3xxf,croacia,local,28/36 (78%),Perisic I.Winger,9,0.13,10,2/6 (33%),3,15,74
+pbTh3xxf,croacia,local,13/15 (87%),Ivanovic F.Forward,2,1.33,9.3,-,2,6,22
+pbTh3xxf,croacia,local,12/13 (92%),Kramaric A.Forward,-,1.10,8.7,-,2,5,17
+pbTh3xxf,croacia,local,40/46 (87%),Pasalic M.Attacking midfielder,7,0.40,8.7,-,3,3,52
+pbTh3xxf,croacia,local,40/47 (85%),Majer L.Midfielder,9,1.22,8.5,0/1 (0%),5,5,70
+pbTh3xxf,croacia,local,60/62 (97%),Caleta-Car D.Centre back,8,0.08,8.2,-,2,3,75
+pbTh3xxf,croacia,local,56/60 (93%),Juranovic J.Fullback,6,0.13,8.1,-,1,1,81
+pbTh3xxf,croacia,local,5/6 (83%),Budimir A.Striker,7,0.42,7.8,-,2,10,20
+pbTh3xxf,croacia,local,6/12 (50%),Ronan K.Fullback,6,-,7.5,-,-,-,28
+pbTh3xxf,croacia,local,27/32 (84%),Sucic P.Midfielder,10,0.04,7.5,-,1,-,47
+pbTh3xxf,croacia,local,19/20 (95%),Lopes B.Centre back,7,-,7.4,-,-,-,44
+pbTh3xxf,croacia,local,51/55 (93%),Pongracic M.Centre back,13,0.21,7.3,0/1 (0%),3,4,69
+pbTh3xxf,croacia,local,15/19 (79%),Sucic L.Winger,3,0.45,7.1,-,4,4,33
+pbTh3xxf,croacia,local,7/9 (78%),Pasalic M.Forward,6,-,7.0,0/1 (0%),-,-,19
+pbTh3xxf,croacia,local,21/25 (84%),Modric L.Midfielder,-,0.06,6.9,-,1,-,33
+pbTh3xxf,croacia,local,21/22 (95%),Baturina M.Midfielder,3,-,6.7,1/1 (100%),-,1,24
+pbTh3xxf,croacia,local,15/16 (94%),Livakovic D.Goalkeeper,-,-,6.7,-,-,-,22
+pbTh3xxf,croacia,local,0/1 (0%),Gibson M.Midfielder,3,-,6.5,-,-,-,5
+pbTh3xxf,croacia,local,12/17 (71%),Mauro K.Fullback,7,-,6.4,0/1 (0%),-,-,37
+pbTh3xxf,croacia,local,14/15 (93%),De Barr T.Midfielder,11,-,6.2,1/4 (25%),-,-,28
+pbTh3xxf,croacia,local,21/22 (95%),Stanisic J.Fullback,3,0.24,6.2,-,1,1,41
+pbTh3xxf,croacia,local,9/10 (90%),Valarino J.Defender,-,-,6.2,-,-,-,16
+pbTh3xxf,croacia,local,6/8 (75%),Carrington T.Defender,1,-,6.1,-,-,-,10
+pbTh3xxf,croacia,local,9/15 (60%),Torrilla G.Midfielder,4,-,6.1,-,-,-,20
+pbTh3xxf,croacia,local,10/16 (63%),Bartolo J.Striker,15,0.12,5.9,2/3 (67%),2,2,28
+pbTh3xxf,croacia,local,24/29 (83%),Walker L.Midfielder,8,-,5.9,0/1 (0%),-,-,42
+pbTh3xxf,croacia,local,19/23 (83%),Jessop L.Winger,12,-,5.8,2/6 (33%),-,1,40
+pbTh3xxf,croacia,local,4/6 (67%),Richards C.Winger,1,-,5.5,-,-,-,8
+pbTh3xxf,croacia,local,14/34 (41%),Banda B.Goalkeeper,-,-,5.4,-,-,-,40
+pbTh3xxf,croacia,local,7/13 (54%),Annesley L.Centre back,2,-,5.1,0/1 (0%),-,-,20
+pbTh3xxf,croacia,local,8/16 (50%),Scanlon J.Midfielder,9,-,4.7,0/3 (0%),-,-,33
+pbTh3xxf,croacia,local,0/1 (0%),Bent D.Defender,-,0.13,-,-,1,1,4

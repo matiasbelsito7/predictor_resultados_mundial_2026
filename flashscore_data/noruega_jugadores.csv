@@ -1,0 +1,275 @@
+match_id,seleccion,equipo,accurate_passesaccurate_passes,all,duelsduels,expected_goals_xgexpected_goals_xg,ratingrating,successful_dribblessuccessful_dribbles,total_shotstotal_shots,touches_in_opposition_boxtouches_in_opposition_box,touchestouches
+OAt8UvFb,noruega,local,55/56 (98%),Berge S.Midfielder,3,-,7.4,-,-,-,61
+OAt8UvFb,noruega,local,12/14 (86%),Diaz B.Winger,5,0.27,7.2,1/1 (100%),3,4,30
+OAt8UvFb,noruega,local,7/8 (88%),Bobb O.Midfielder,2,-,7.1,-,-,2,10
+OAt8UvFb,noruega,local,25/31 (81%),Ryerson J.Fullback,13,-,7.1,0/4 (0%),-,5,70
+OAt8UvFb,noruega,local,17/20 (85%),Bouaddi A.Midfielder,3,-,7.0,-,-,-,30
+OAt8UvFb,noruega,local,18/19 (95%),Ezzalzouli A.Winger,3,0.50,7.0,1/1 (100%),5,4,33
+OAt8UvFb,noruega,local,34/39 (87%),Odegaard M.Midfielder,2,0.23,7.0,0/1 (0%),1,2,50
+OAt8UvFb,noruega,local,31/36 (86%),Aursnes F.Midfielder,5,-,6.9,-,-,-,44
+OAt8UvFb,noruega,local,9/10 (90%),Mazraoui N.Fullback,3,-,6.8,-,-,-,14
+OAt8UvFb,noruega,local,11/13 (85%),Saibari I.Striker,5,0.03,6.8,1/1 (100%),1,1,22
+OAt8UvFb,noruega,local,28/31 (90%),Hakimi A.Fullback,6,0.03,6.7,1/2 (50%),1,-,42
+OAt8UvFb,noruega,local,13/16 (81%),Schjelderup A.Forward,5,0.03,6.6,-,1,8,28
+OAt8UvFb,noruega,local,46/49 (94%),Ajer K.Centre back,3,0.17,6.5,-,1,1,56
+OAt8UvFb,noruega,local,5/5 (100%),Bjorkan F.Defender,1,-,6.5,-,-,1,8
+OAt8UvFb,noruega,local,7/7 (100%),Aasgaard T.Midfielder,1,-,6.4,-,-,1,9
+OAt8UvFb,noruega,local,3/3 (100%),Amaimouni A.Forward,4,0.02,6.4,0/2 (0%),1,1,8
+OAt8UvFb,noruega,local,31/34 (91%),Belammari Y.Midfielder,3,-,6.4,-,-,-,47
+OAt8UvFb,noruega,local,11/11 (100%),Berg P.Midfielder,-,-,6.4,-,-,-,11
+OAt8UvFb,noruega,local,13/15 (87%),El Khannouss B.Midfielder,2,-,6.4,-,-,1,17
+OAt8UvFb,noruega,local,11/12 (92%),El Mourabet S.Midfielder,2,-,6.4,-,-,1,16
+OAt8UvFb,noruega,local,3/3 (100%),Larsen J.Forward,1,0.03,6.4,-,1,-,6
+OAt8UvFb,noruega,local,11/18 (61%),Nyland O.Goalkeeper,-,-,6.4,-,-,-,26
+OAt8UvFb,noruega,local,26/27 (96%),Diop I.Centre back,-,-,6.3,-,-,-,36
+OAt8UvFb,noruega,local,20/22 (91%),El Aynaoui N.Midfielder,6,0.37,6.3,-,1,2,32
+OAt8UvFb,noruega,local,3/4 (75%),El Kaabi A.Forward,4,-,6.3,-,-,-,5
+OAt8UvFb,noruega,local,6/8 (75%),El Ouahdi Z.Defender,1,-,6.3,-,-,-,12
+OAt8UvFb,noruega,local,13/13 (100%),Halhal R.Defender,-,-,6.3,-,-,-,15
+OAt8UvFb,noruega,local,13/17 (76%),Ostigard L.Defender,4,-,6.3,-,-,-,19
+OAt8UvFb,noruega,local,22/25 (88%),Ounahi A.Attacking midfielder,3,-,6.3,-,-,-,33
+OAt8UvFb,noruega,local,21/23 (91%),Riad C.Centre back,5,-,6.3,-,-,-,31
+OAt8UvFb,noruega,local,16/18 (89%),Saadane M.Midfielder,2,-,6.3,-,-,-,23
+OAt8UvFb,noruega,local,4/4 (100%),Selvik E.Goalkeeper,-,-,6.3,-,-,-,5
+OAt8UvFb,noruega,local,21/24 (88%),Amrabat S.Midfielder,2,0.08,6.2,-,1,-,29
+OAt8UvFb,noruega,local,12/13 (92%),Rahimi S.Forward,11,-,6.2,0/5 (0%),-,1,26
+OAt8UvFb,noruega,local,26/30 (87%),Wolfe D.Fullback,5,-,6.2,-,-,2,41
+OAt8UvFb,noruega,local,23/30 (77%),BonoGoalkeeper,-,-,6.1,-,-,-,35
+OAt8UvFb,noruega,local,12/13 (92%),Nusa A.Winger,7,0.05,6.0,1/2 (50%),1,2,22
+OAt8UvFb,noruega,local,58/61 (95%),Heggem T.Centre back,4,-,5.9,-,-,-,65
+OAt8UvFb,noruega,local,2/2 (100%),Haaland E.Striker,-,0.08,5.7,-,1,1,4
+OAt8UvFb,noruega,local,9/12 (75%),Sorloth A.Winger,13,0.08,5.3,0/3 (0%),2,1,26
+OAt8UvFb,noruega,local,4/4 (100%),Thorstvedt K.Midfielder,1,0.13,-,-,1,1,6
+dOKMzug3,noruega,local,40/50 (80%),Ryerson J.Fullback,4,0.06,9.2,-,1,3,77
+dOKMzug3,noruega,local,17/21 (81%),Nusa A.Winger,12,0.18,8.7,4/6 (67%),6,9,46
+dOKMzug3,noruega,local,18/24 (75%),Larsen J.Striker,4,1.48,8.4,-,5,5,32
+dOKMzug3,noruega,local,34/38 (89%),Bobb O.Winger,10,0.07,7.9,6/7 (86%),1,8,51
+dOKMzug3,noruega,local,70/75 (93%),Berge S.Midfielder,2,-,7.7,-,-,-,80
+dOKMzug3,noruega,local,7/7 (100%),Isak A.Forward,2,0.07,7.4,-,2,2,12
+dOKMzug3,noruega,local,18/21 (86%),Sorloth A.Striker,9,0.43,7.4,1/2 (50%),2,4,29
+dOKMzug3,noruega,local,51/55 (93%),Wolfe D.Fullback,3,-,7.4,-,-,1,70
+dOKMzug3,noruega,local,8/9 (89%),Schjelderup A.Forward,6,0.04,7.3,4/5 (80%),2,6,19
+dOKMzug3,noruega,local,23/25 (92%),Berg P.Midfielder,2,0.07,7.1,-,1,1,31
+dOKMzug3,noruega,local,55/58 (95%),Svensson D.Wingback,6,0.03,7.0,-,1,1,82
+dOKMzug3,noruega,local,36/39 (92%),Aursnes F.Midfielder,2,-,6.9,-,-,1,42
+dOKMzug3,noruega,local,16/21 (76%),Nyland O.Goalkeeper,-,-,6.9,-,-,-,27
+dOKMzug3,noruega,local,42/46 (91%),Ajer K.Centre back,4,-,6.7,-,-,1,52
+dOKMzug3,noruega,local,12/14 (86%),Hauge J.Forward,2,0.20,6.7,-,1,2,18
+dOKMzug3,noruega,local,15/20 (75%),Svanberg M.Midfielder,3,-,6.7,0/1 (0%),-,-,28
+dOKMzug3,noruega,local,5/6 (83%),Aasgaard T.Midfielder,3,-,6.6,-,-,2,9
+dOKMzug3,noruega,local,12/13 (92%),Pedersen M.Defender,4,0.08,6.6,2/2 (100%),1,4,20
+dOKMzug3,noruega,local,6/8 (75%),Thorsby M.Midfielder,4,0.06,6.6,-,1,1,12
+dOKMzug3,noruega,local,14/18 (78%),Bjorkan F.Defender,1,-,6.5,0/1 (0%),-,1,24
+dOKMzug3,noruega,local,37/37 (100%),Ekdal H.Defender,6,-,6.5,-,-,-,41
+dOKMzug3,noruega,local,27/29 (93%),Johansson H.Wingback,8,-,6.5,-,-,-,43
+dOKMzug3,noruega,local,13/14 (93%),Nanasi S.Midfielder,1,0.09,6.5,1/2 (50%),1,3,20
+dOKMzug3,noruega,local,15/17 (88%),Ostigard L.Defender,-,-,6.5,-,-,-,19
+dOKMzug3,noruega,local,15/16 (94%),Thorstvedt K.Midfielder,2,-,6.5,0/1 (0%),-,-,19
+dOKMzug3,noruega,local,20/20 (100%),Langas S.Defender,1,-,6.4,-,-,-,20
+dOKMzug3,noruega,local,18/20 (90%),Nygren B.Forward,2,-,6.4,-,-,-,22
+dOKMzug3,noruega,local,12/17 (71%),Ayari Y.Midfielder,5,-,6.3,1/2 (50%),-,2,27
+dOKMzug3,noruega,local,11/16 (69%),Bernhardsson A.Forward,4,0.09,6.3,-,2,3,27
+dOKMzug3,noruega,local,26/27 (96%),Zeneli B.Midfielder,2,-,6.3,1/2 (50%),-,-,33
+dOKMzug3,noruega,local,29/32 (91%),Lindelof V.Defender,1,-,6.2,-,-,-,37
+dOKMzug3,noruega,local,18/29 (62%),Widell Zetterstrom J.Goalkeeper,1,-,6.2,-,-,-,41
+dOKMzug3,noruega,local,10/11 (91%),Elanga A.Striker,4,0.03,6.1,1/1 (100%),1,1,18
+dOKMzug3,noruega,local,26/30 (87%),Hien I.Centre back,5,-,6.0,-,-,-,38
+dOKMzug3,noruega,local,38/40 (95%),Lagerbielke G.Centre back,3,-,6.0,-,-,-,47
+dOKMzug3,noruega,local,20/20 (100%),Bergvall L.Midfielder,4,-,5.9,-,-,-,26
+dOKMzug3,noruega,local,6/12 (50%),Nilsson G.Striker,4,0.21,5.9,-,2,2,22
+dOKMzug3,noruega,local,43/45 (96%),Heggem T.Centre back,3,0.06,5.8,-,1,1,49
+dOKMzug3,noruega,local,18/22 (82%),Karlstrom J.Midfielder,1,-,5.8,-,-,-,26
+dOKMzug3,noruega,local,19/19 (100%),Sema K.Midfielder,8,-,5.7,1/3 (33%),-,-,31
+dOKMzug3,noruega,local,24/25 (96%),Smith E.Centre back,8,-,5.5,-,-,-,33
+jR2YfaRq,noruega,local,20/22 (91%),Nusa A.Winger,11,0.12,9.2,5/7 (71%),3,4,41
+jR2YfaRq,noruega,local,43/54 (80%),Dimarco F.Wingback,3,0.20,8.2,-,3,3,78
+jR2YfaRq,noruega,local,10/16 (63%),Haaland E.Striker,10,0.41,7.9,-,2,3,25
+jR2YfaRq,noruega,local,6/7 (86%),Thorsby M.Midfielder,2,-,7.9,-,-,2,10
+jR2YfaRq,noruega,local,13/19 (68%),Esposito F.Striker,11,0.81,7.3,1/1 (100%),4,4,31
+jR2YfaRq,noruega,local,19/36 (53%),Nyland O.Goalkeeper,1,-,7.3,-,-,-,45
+jR2YfaRq,noruega,local,13/22 (59%),Sorloth A.Winger,14,0.20,7.2,1/1 (100%),2,6,41
+jR2YfaRq,noruega,local,8/9 (89%),Bobb O.Midfielder,1,-,7.0,-,-,2,10
+jR2YfaRq,noruega,local,70/79 (89%),Locatelli M.Midfielder,12,0.07,7.0,-,2,1,91
+jR2YfaRq,noruega,local,38/42 (90%),Barella N.Midfielder,8,-,6.8,-,-,1,55
+jR2YfaRq,noruega,local,21/23 (91%),Berg P.Midfielder,5,-,6.8,-,-,2,33
+jR2YfaRq,noruega,local,47/48 (98%),Berge S.Midfielder,4,0.01,6.7,-,1,-,54
+jR2YfaRq,noruega,local,33/44 (75%),Politano M.Wingback,6,0.10,6.7,0/2 (0%),3,4,64
+jR2YfaRq,noruega,local,39/45 (87%),Heggem T.Centre back,5,-,6.6,-,-,-,56
+jR2YfaRq,noruega,local,74/78 (95%),Di Lorenzo G.Centre back,3,-,6.5,-,-,-,84
+jR2YfaRq,noruega,local,1/2 (50%),Scamacca G.Forward,-,0.09,6.5,-,1,2,5
+jR2YfaRq,noruega,local,9/10 (90%),Aasgaard T.Midfielder,1,-,6.4,-,-,1,11
+jR2YfaRq,noruega,local,23/23 (100%),Cristante B.Midfielder,2,-,6.4,-,-,-,23
+jR2YfaRq,noruega,local,20/25 (80%),Thorstvedt K.Midfielder,7,0.07,6.4,-,1,1,32
+jR2YfaRq,noruega,local,34/38 (89%),Wolfe D.Fullback,5,-,6.4,-,-,-,48
+jR2YfaRq,noruega,local,43/46 (93%),Ajer K.Centre back,6,0.22,6.3,1/1 (100%),1,2,59
+jR2YfaRq,noruega,local,1/2 (50%),Zaccagni M.Midfielder,1,-,6.3,-,-,-,3
+jR2YfaRq,noruega,local,40/43 (93%),Ryerson J.Fullback,7,0.02,6.1,-,1,-,74
+jR2YfaRq,noruega,local,70/75 (93%),Bastoni A.Centre back,11,-,5.8,-,-,1,89
+jR2YfaRq,noruega,local,9/11 (82%),Frattesi D.Midfielder,5,0.02,5.6,-,1,2,15
+jR2YfaRq,noruega,local,9/12 (75%),Retegui M.Striker,10,0.02,5.6,1/1 (100%),1,2,21
+jR2YfaRq,noruega,local,66/71 (93%),Mancini G.Centre back,8,-,5.4,2/2 (100%),-,-,81
+jR2YfaRq,noruega,local,19/19 (100%),Donnarumma G.Goalkeeper,-,-,4.9,-,-,-,25
+jR2YfaRq,noruega,local,3/3 (100%),Buongiorno A.Defender,1,-,-,-,-,-,4
+jR2YfaRq,noruega,local,1/1 (100%),Larsen J.Forward,1,0.49,-,1/1 (100%),1,2,3
+jR2YfaRq,noruega,local,3/3 (100%),Ostigard L.Defender,1,0.05,-,-,1,1,5
+jR2YfaRq,noruega,local,1/1 (100%),Ricci S.Midfielder,-,-,-,-,-,-,1
+OKfypUQj,noruega,local,71/78 (91%),Ryerson J.Fullback,13,-,9.3,2/5 (40%),-,3,112
+OKfypUQj,noruega,local,20/23 (87%),Sorloth A.Striker,14,0.93,9.2,1/2 (50%),6,10,44
+OKfypUQj,noruega,local,112/117 (96%),Berge S.Midfielder,10,0.12,8.8,-,1,4,129
+OKfypUQj,noruega,local,7/10 (70%),Haaland E.Striker,6,0.45,8.7,0/2 (0%),3,7,18
+OKfypUQj,noruega,local,23/31 (74%),Nusa A.Winger,12,0.18,8.2,5/7 (71%),4,4,53
+OKfypUQj,noruega,local,57/61 (93%),Wolfe D.Fullback,3,0.22,7.8,-,1,3,74
+OKfypUQj,noruega,local,92/94 (98%),Heggem T.Centre back,9,0.10,7.7,-,2,2,108
+OKfypUQj,noruega,local,99/107 (93%),Ajer K.Centre back,8,-,7.4,-,-,-,114
+OKfypUQj,noruega,local,47/52 (90%),Berg P.Midfielder,6,0.02,6.9,0/1 (0%),1,4,60
+OKfypUQj,noruega,local,39/42 (93%),Bobb O.Winger,12,-,6.9,2/5 (40%),-,7,64
+OKfypUQj,noruega,local,30/40 (75%),Mets K.Centre back,10,-,6.9,-,-,-,54
+OKfypUQj,noruega,local,4/5 (80%),Saarma R.Midfielder,10,0.54,6.9,1/1 (100%),1,2,14
+OKfypUQj,noruega,local,8/14 (57%),Nyland O.Goalkeeper,-,-,6.8,-,-,-,18
+OKfypUQj,noruega,local,9/10 (90%),Schjelderup A.Forward,2,-,6.4,0/1 (0%),-,-,12
+OKfypUQj,noruega,local,9/11 (82%),Thorstvedt K.Midfielder,2,-,6.3,-,-,-,12
+OKfypUQj,noruega,local,15/15 (100%),Vetkal M.Midfielder,3,-,6.3,-,-,-,18
+OKfypUQj,noruega,local,3/3 (100%),Miller M.Midfielder,2,-,6.2,-,-,-,4
+OKfypUQj,noruega,local,34/40 (85%),Peetson R.Centre back,15,-,6.2,0/1 (0%),-,-,61
+OKfypUQj,noruega,local,1/3 (33%),Thorsby M.Midfielder,1,-,6.2,0/1 (0%),-,-,4
+OKfypUQj,noruega,local,37/41 (90%),Kuusk M.Centre back,3,-,6.0,-,-,2,51
+OKfypUQj,noruega,local,22/25 (88%),Palumets K.Midfielder,8,-,6.0,-,-,1,35
+OKfypUQj,noruega,local,20/29 (69%),Soomets M.Midfielder,7,-,6.0,1/1 (100%),-,1,40
+OKfypUQj,noruega,local,13/17 (76%),Shein R. R.Midfielder,8,0.09,5.9,2/3 (67%),3,2,36
+OKfypUQj,noruega,local,23/38 (61%),Hein K.Goalkeeper,3,-,5.8,-,-,-,50
+OKfypUQj,noruega,local,20/25 (80%),Sinyavskiy V.Wingback,10,-,5.8,2/4 (50%),-,-,41
+OKfypUQj,noruega,local,10/10 (100%),Sappinen R.Striker,9,0.04,5.5,0/2 (0%),1,1,23
+OKfypUQj,noruega,local,17/25 (68%),Schjonning-Larsen M.Wingback,9,-,5.4,-,-,-,36
+OKfypUQj,noruega,local,3/4 (75%),Bjorkan F.Defender,-,-,-,-,-,-,5
+OKfypUQj,noruega,local,4/4 (100%),Donnum A.Midfielder,3,-,-,-,-,-,9
+OKfypUQj,noruega,local,1/2 (50%),Kristal P.Midfielder,4,-,-,-,-,-,4
+OKfypUQj,noruega,local,-,Paalberg M.Forward,-,0.04,-,-,1,1,2
+OKfypUQj,noruega,local,4/5 (80%),Poom M.Forward,-,-,-,-,-,-,5
+4zE4kj3T,noruega,local,13/16 (81%),Nusa A.Winger,15,0.26,9.6,6/7 (86%),5,11,47
+4zE4kj3T,noruega,local,8/10 (80%),Haaland E.Striker,5,1.43,8.9,0/1 (0%),6,8,19
+4zE4kj3T,noruega,local,19/24 (79%),Sorloth A.Striker,9,0.30,7.9,2/3 (67%),2,7,35
+4zE4kj3T,noruega,local,101/104 (97%),Berge S.Midfielder,5,-,7.6,-,-,-,110
+4zE4kj3T,noruega,local,23/31 (74%),Bobb O.Winger,12,-,7.4,1/2 (50%),-,5,52
+4zE4kj3T,noruega,local,24/29 (83%),Ryerson J.Fullback,7,0.03,7.3,0/2 (0%),1,1,61
+4zE4kj3T,noruega,local,63/66 (95%),Heggem T.Centre back,2,0.01,6.9,-,1,-,71
+4zE4kj3T,noruega,local,16/19 (84%),Nyland O.Goalkeeper,-,-,6.9,-,-,-,21
+4zE4kj3T,noruega,local,35/39 (90%),Peretz E.Midfielder,7,-,6.9,-,-,-,46
+4zE4kj3T,noruega,local,72/79 (91%),Ajer K.Centre back,3,0.24,6.7,1/1 (100%),1,2,83
+4zE4kj3T,noruega,local,12/12 (100%),Aasgaard T.Midfielder,1,-,6.5,1/1 (100%),-,-,13
+4zE4kj3T,noruega,local,30/34 (88%),Berg P.Midfielder,3,-,6.5,-,-,1,39
+4zE4kj3T,noruega,local,11/11 (100%),Bjorkan F.Defender,3,-,6.5,0/1 (0%),-,1,15
+4zE4kj3T,noruega,local,24/27 (89%),Wolfe D.Fullback,4,-,6.5,0/1 (0%),-,1,32
+4zE4kj3T,noruega,local,3/3 (100%),Baribo T.Forward,2,-,6.4,-,-,-,5
+4zE4kj3T,noruega,local,5/6 (83%),Donnum A.Midfielder,-,-,6.4,-,-,-,7
+4zE4kj3T,noruega,local,34/39 (87%),Baltaxa M.Defender,4,-,6.3,-,-,-,43
+4zE4kj3T,noruega,local,4/5 (80%),Larsen J.Forward,1,-,6.3,-,-,-,5
+4zE4kj3T,noruega,local,9/10 (90%),Mizrahi G.Midfielder,1,-,6.3,-,-,-,12
+4zE4kj3T,noruega,local,26/28 (93%),Abu Fani M.Midfielder,4,-,6.2,-,-,-,31
+4zE4kj3T,noruega,local,26/30 (87%),Dasa E.Fullback,6,-,6.1,-,-,-,39
+4zE4kj3T,noruega,local,37/39 (95%),Gloukh O.Striker,1,-,6.0,0/1 (0%),-,-,43
+4zE4kj3T,noruega,local,11/14 (79%),Noy I.Midfielder,2,-,6.0,-,-,-,18
+4zE4kj3T,noruega,local,41/42 (98%),Blorian O.Centre back,6,-,5.9,-,-,1,51
+4zE4kj3T,noruega,local,19/24 (79%),Solomon M.Winger,9,0.06,5.8,2/5 (40%),1,2,38
+4zE4kj3T,noruega,local,13/22 (59%),Khalaili A.Winger,10,0.07,5.6,0/1 (0%),2,1,36
+4zE4kj3T,noruega,local,18/22 (82%),Nachmias I.Centre back,3,-,5.5,-,-,-,27
+4zE4kj3T,noruega,local,27/29 (93%),Revivo R.Fullback,10,-,5.4,0/2 (0%),-,1,50
+4zE4kj3T,noruega,local,20/22 (91%),Biton D.Striker,3,0.02,5.3,-,1,-,25
+4zE4kj3T,noruega,local,34/44 (77%),Peretz D.Goalkeeper,-,-,4.7,-,-,-,56
+4zE4kj3T,noruega,local,2/2 (100%),Schjelderup A.Forward,-,-,-,-,-,-,3
+4zE4kj3T,noruega,local,0/1 (0%),Turgeman D.Forward,2,-,-,-,-,-,2
+lbnN7XIc,noruega,local,16/19 (84%),Haaland E.Striker,7,3.41,10,3/3 (100%),10,17,38
+lbnN7XIc,noruega,local,88/106 (83%),Odegaard M.Midfielder,16,0.96,9.6,3/8 (38%),7,11,135
+lbnN7XIc,noruega,local,57/61 (93%),Ryerson J.Fullback,8,-,9.0,-,-,4,76
+lbnN7XIc,noruega,local,7/10 (70%),Aasgaard T.Midfielder,-,2.60,8.7,-,6,10,18
+lbnN7XIc,noruega,local,64/64 (100%),Ajer K.Centre back,3,-,8.7,-,-,-,67
+lbnN7XIc,noruega,local,24/27 (89%),Myhre F.Midfielder,6,0.89,8.3,0/3 (0%),1,8,37
+lbnN7XIc,noruega,local,27/30 (90%),Nusa A.Winger,13,0.13,8.3,6/12 (50%),2,11,55
+lbnN7XIc,noruega,local,75/79 (95%),Heggem T.Centre back,10,0.46,8.2,1/1 (100%),1,1,95
+lbnN7XIc,noruega,local,54/60 (90%),Wolfe D.Fullback,8,-,8.0,0/2 (0%),-,2,83
+lbnN7XIc,noruega,local,123/132 (93%),Berge S.Midfielder,8,-,7.8,2/2 (100%),-,-,142
+lbnN7XIc,noruega,local,20/23 (87%),Bobb O.Midfielder,3,0.31,7.6,1/1 (100%),1,7,28
+lbnN7XIc,noruega,local,5/7 (71%),Dumbravanu D.Defender,2,-,7.3,-,-,-,11
+lbnN7XIc,noruega,local,17/18 (94%),Sorloth A.Winger,5,0.96,6.9,0/1 (0%),5,8,35
+lbnN7XIc,noruega,local,25/31 (81%),Caimacov M.Midfielder,12,-,6.6,2/3 (67%),-,-,49
+lbnN7XIc,noruega,local,2/2 (100%),Schjelderup A.Forward,2,0.08,6.5,0/1 (0%),1,2,5
+lbnN7XIc,noruega,local,14/17 (82%),Motpan N.Wingback,6,-,6.4,0/2 (0%),-,-,31
+lbnN7XIc,noruega,local,10/13 (77%),Nyland O.Goalkeeper,-,-,6.4,-,-,-,13
+lbnN7XIc,noruega,local,3/5 (60%),Cojocaru M.Forward,8,-,6.3,-,-,-,13
+lbnN7XIc,noruega,local,8/9 (89%),Postolachi V.Midfielder,6,-,6.2,0/1 (0%),-,1,17
+lbnN7XIc,noruega,local,15/21 (71%),Reabciuk O.Wingback,4,-,6.2,-,-,-,35
+lbnN7XIc,noruega,local,16/19 (84%),Ionita A.Midfielder,5,0.07,5.9,-,1,1,26
+lbnN7XIc,noruega,local,18/23 (78%),Nicolaescu I.Striker,10,0.02,5.9,2/4 (50%),1,4,40
+lbnN7XIc,noruega,local,10/10 (100%),Ostigard L.Defender,-,-,5.9,0/1 (0%),-,-,14
+lbnN7XIc,noruega,local,17/20 (85%),Baboglo V.Centre back,5,-,5.8,-,-,-,33
+lbnN7XIc,noruega,local,9/24 (38%),Avram C.Goalkeeper,2,-,5.7,-,-,-,32
+lbnN7XIc,noruega,local,7/7 (100%),Bodisteanu S.Forward,10,-,5.6,3/4 (75%),-,-,18
+lbnN7XIc,noruega,local,27/35 (77%),Craciun A.Centre back,3,-,5.5,-,-,-,51
+lbnN7XIc,noruega,local,21/26 (81%),Platica S.Centre back,5,-,5.2,-,-,-,42
+lbnN7XIc,noruega,local,18/22 (82%),Rata V.Midfielder,10,-,4.0,0/1 (0%),-,-,28
+lbnN7XIc,noruega,local,1/1 (100%),Bogaciuc V.Midfielder,1,-,-,-,-,-,1
+lbnN7XIc,noruega,local,3/3 (100%),Dros C.Midfielder,-,-,-,-,-,-,3
+lbnN7XIc,noruega,local,-,Heggebo A.Forward,-,-,-,-,-,-,-
+lKNcKA23,noruega,local,76/82 (93%),Berge S.Midfielder,10,0.02,8.4,3/3 (100%),1,-,93
+lKNcKA23,noruega,local,3/10 (30%),Haaland E.Striker,10,1.84,8.2,0/1 (0%),7,9,19
+lKNcKA23,noruega,local,82/92 (89%),Odegaard M.Midfielder,8,0.14,8.2,3/7 (43%),3,4,111
+lKNcKA23,noruega,local,35/40 (88%),Nusa A.Winger,6,0.16,7.5,1/1 (100%),3,8,57
+lKNcKA23,noruega,local,21/22 (95%),Sorloth A.Winger,13,0.51,7.4,2/6 (33%),2,6,40
+lKNcKA23,noruega,local,69/75 (92%),Ajer K.Centre back,6,-,7.3,2/2 (100%),-,-,82
+lKNcKA23,noruega,local,46/51 (90%),Ryerson J.Fullback,10,0.03,7.3,1/1 (100%),1,1,79
+lKNcKA23,noruega,local,8/12 (67%),Thorsby M.Midfielder,9,0.30,7.2,-,2,4,19
+lKNcKA23,noruega,local,66/75 (88%),Wolfe D.Fullback,11,-,7.2,1/2 (50%),-,3,101
+lKNcKA23,noruega,local,15/23 (65%),Nyland O.Goalkeeper,-,-,7.1,-,-,-,32
+lKNcKA23,noruega,local,44/54 (81%),Paskotsi M.Centre back,4,0.03,7.1,1/1 (100%),2,1,71
+lKNcKA23,noruega,local,26/34 (76%),Palumets K.Midfielder,5,-,6.7,-,-,-,49
+lKNcKA23,noruega,local,14/15 (93%),Johnsen L.Midfielder,-,-,6.6,-,-,-,17
+lKNcKA23,noruega,local,11/15 (73%),Bobb O.Midfielder,5,-,6.5,1/1 (100%),-,-,19
+lKNcKA23,noruega,local,34/46 (74%),Hein K.Goalkeeper,-,-,6.5,-,-,-,54
+lKNcKA23,noruega,local,28/31 (90%),Schjonning-Larsen M.Fullback,7,-,6.5,2/3 (67%),-,-,55
+lKNcKA23,noruega,local,55/58 (95%),Kuusk M.Centre back,6,-,6.3,-,-,-,67
+lKNcKA23,noruega,local,26/27 (96%),Saliste J.Fullback,13,-,6.3,1/1 (100%),-,-,45
+lKNcKA23,noruega,local,5/8 (63%),Miller M.Midfielder,5,-,6.2,-,-,-,18
+lKNcKA23,noruega,local,11/11 (100%),Kait M.Winger,1,-,6.1,-,-,-,12
+lKNcKA23,noruega,local,66/73 (90%),Heggem T.Centre back,4,-,5.9,-,-,-,78
+lKNcKA23,noruega,local,9/13 (69%),Sappinen R.Striker,13,0.07,5.7,1/1 (100%),1,1,28
+lKNcKA23,noruega,local,25/34 (74%),Shein R. R.Midfielder,17,-,5.7,3/7 (43%),-,-,57
+lKNcKA23,noruega,local,9/14 (64%),Kristal P.Attacking midfielder,11,0.06,5.6,1/2 (50%),1,1,30
+lKNcKA23,noruega,local,19/22 (86%),Sinyavskiy V.Winger,6,0.06,5.5,0/3 (0%),2,2,42
+lKNcKA23,noruega,local,-,Anier H.Forward,3,-,-,-,-,-,3
+lKNcKA23,noruega,local,-,Berg P.Midfielder,-,-,-,-,-,-,-
+lKNcKA23,noruega,local,0/1 (0%),Larsen J.Forward,2,-,-,-,-,-,2
+lKNcKA23,noruega,local,0/1 (0%),Ostigard L.Defender,-,-,-,-,-,-,1
+lKNcKA23,noruega,local,-,Poom M.Forward,-,-,-,-,-,-,-
+lKNcKA23,noruega,local,1/3 (33%),Saarma R.Midfielder,2,-,-,0/1 (0%),-,1,9
+lKNcKA23,noruega,local,-,Tamm A.Forward,1,0.01,-,-,1,1,2
+OA9Bk4k4,noruega,local,22/24 (92%),Nusa A.Winger,11,0.22,8.9,4/6 (67%),4,3,43
+OA9Bk4k4,noruega,local,48/50 (96%),Odegaard M.Midfielder,12,-,8.7,1/3 (33%),-,-,73
+OA9Bk4k4,noruega,local,11/17 (65%),Haaland E.Striker,8,0.78,7.7,1/2 (50%),1,6,23
+OA9Bk4k4,noruega,local,18/24 (75%),Sorloth A.Winger,10,0.48,7.7,0/2 (0%),2,4,36
+OA9Bk4k4,noruega,local,86/88 (98%),Coppola D.Centre back,8,-,7.6,-,-,-,104
+OA9Bk4k4,noruega,local,71/77 (92%),Barella N.Midfielder,8,-,7.3,1/2 (50%),-,2,91
+OA9Bk4k4,noruega,local,20/33 (61%),Nyland O.Goalkeeper,1,-,7.2,-,-,-,41
+OA9Bk4k4,noruega,local,46/49 (94%),Berge S.Midfielder,5,0.05,7.0,-,1,-,60
+OA9Bk4k4,noruega,local,6/8 (75%),Orsolini R.Forward,7,0.02,7.0,4/4 (100%),1,1,19
+OA9Bk4k4,noruega,local,3/4 (75%),Thorsby M.Midfielder,5,-,6.8,0/1 (0%),-,1,8
+OA9Bk4k4,noruega,local,30/33 (91%),Wolfe D.Fullback,3,-,6.8,1/3 (33%),-,1,50
+OA9Bk4k4,noruega,local,29/36 (81%),Tonali S.Midfielder,3,-,6.7,-,-,1,48
+OA9Bk4k4,noruega,local,41/43 (95%),Rovella N.Midfielder,4,-,6.6,1/1 (100%),-,-,51
+OA9Bk4k4,noruega,local,4/6 (67%),Berg P.Midfielder,5,-,6.5,0/1 (0%),-,3,18
+OA9Bk4k4,noruega,local,30/32 (94%),Heggem T.Centre back,1,-,6.5,-,-,-,39
+OA9Bk4k4,noruega,local,2/4 (50%),Lucca L.Forward,3,0.16,6.5,-,1,2,7
+OA9Bk4k4,noruega,local,71/82 (87%),Bastoni A.Centre back,7,-,6.4,-,-,-,95
+OA9Bk4k4,noruega,local,4/4 (100%),Bobb O.Midfielder,2,-,6.4,-,-,-,6
+OA9Bk4k4,noruega,local,7/7 (100%),Ostigard L.Defender,1,-,6.4,-,-,-,11
+OA9Bk4k4,noruega,local,9/11 (82%),Pedersen M.Defender,-,-,6.3,-,-,-,16
+OA9Bk4k4,noruega,local,29/31 (94%),Ajer K.Centre back,2,-,6.2,-,-,-,40
+OA9Bk4k4,noruega,local,77/82 (94%),Di Lorenzo G.Centre back,4,0.03,6.2,-,1,-,95
+OA9Bk4k4,noruega,local,37/39 (95%),Zappacosta D.Wingback,5,-,6.2,-,-,1,52
+OA9Bk4k4,noruega,local,11/14 (79%),Frattesi D.Midfielder,2,-,6.1,0/1 (0%),-,3,22
+OA9Bk4k4,noruega,local,24/30 (80%),Raspadori G.Attacking midfielder,4,0.14,6.1,-,2,4,36
+OA9Bk4k4,noruega,local,9/12 (75%),Retegui M.Striker,5,-,6.1,2/2 (100%),-,2,20
+OA9Bk4k4,noruega,local,23/28 (82%),Ryerson J.Fullback,9,-,5.7,0/1 (0%),-,-,44
+OA9Bk4k4,noruega,local,22/27 (81%),Udogie D.Wingback,10,0.03,5.7,1/3 (33%),1,3,53
+OA9Bk4k4,noruega,local,12/14 (86%),Donnarumma G.Goalkeeper,2,-,5.4,-,-,-,19
+OA9Bk4k4,noruega,local,10/10 (100%),Dimarco F.Defender,1,-,-,-,-,-,12
+OA9Bk4k4,noruega,local,1/2 (50%),Larsen J.Forward,1,-,-,-,-,-,3
+OA9Bk4k4,noruega,local,18/19 (95%),Ricci S.Midfielder,3,-,-,-,-,-,22

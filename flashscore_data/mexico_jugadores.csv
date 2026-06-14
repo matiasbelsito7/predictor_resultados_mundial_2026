@@ -1,0 +1,194 @@
+match_id,seleccion,equipo,accurate_passesaccurate_passes,all,duelsduels,expected_goals_xgexpected_goals_xg,ratingrating,successful_dribblessuccessful_dribbles,total_shotstotal_shots,touches_in_opposition_boxtouches_in_opposition_box,touchestouches
+b1x9Omno,mexico,local,10/10 (100%),Jimenez R.Striker,10,0.97,8.2,2/3 (67%),3,6,21
+b1x9Omno,mexico,local,35/35 (100%),Gutierrez B.Winger,6,0.40,8.2,2/3 (67%),3,7,51
+b1x9Omno,mexico,local,72/73 (99%),Vasquez J.Centre back,3,0.11,7.8,-,1,2,77
+b1x9Omno,mexico,local,44/49 (90%),Alvarado R.Midfielder,6,-,7.5,0/3 (0%),-,3,60
+b1x9Omno,mexico,local,14/17 (82%),Chavez L.Midfielder,1,0.05,7.4,0/1 (0%),2,-,21
+b1x9Omno,mexico,local,51/54 (94%),Fidalgo A.Midfielder,3,-,7.0,1/1 (100%),-,1,56
+b1x9Omno,mexico,local,5/7 (71%),Stanic P.Attacking midfielder,3,0.38,6.9,-,1,1,13
+b1x9Omno,mexico,local,4/6 (67%),Chavez Garcia M.Midfielder,4,-,6.8,2/2 (100%),-,2,15
+b1x9Omno,mexico,local,13/14 (93%),Vega A.Forward,1,0.10,6.8,-,1,2,18
+b1x9Omno,mexico,local,31/34 (91%),Lira E.Midfielder,1,-,6.7,-,-,-,35
+b1x9Omno,mexico,local,19/21 (90%),Alvarez E.Midfielder,4,-,6.6,0/1 (0%),-,-,27
+b1x9Omno,mexico,local,2/3 (67%),Martinez G.Forward,2,0.23,6.6,-,2,1,11
+b1x9Omno,mexico,local,11/11 (100%),Mora G.Midfielder,1,-,6.6,-,-,-,14
+b1x9Omno,mexico,local,13/20 (65%),Stankovic F.Goalkeeper,-,-,6.6,-,-,-,28
+b1x9Omno,mexico,local,33/36 (92%),Quinones J.Winger,8,0.36,6.5,0/1 (0%),4,4,50
+b1x9Omno,mexico,local,8/9 (89%),Reyes I.Defender,2,-,6.5,-,-,-,11
+b1x9Omno,mexico,local,7/8 (88%),Milikic M.Defender,1,-,6.4,-,-,-,8
+b1x9Omno,mexico,local,49/54 (91%),Montes C.Centre back,7,0.15,6.4,-,1,1,59
+b1x9Omno,mexico,local,4/4 (100%),Nedeljkovic K.Defender,-,-,6.4,-,-,-,6
+b1x9Omno,mexico,local,12/13 (92%),Petrovic P.Defender,-,-,6.4,-,-,-,15
+b1x9Omno,mexico,local,11/11 (100%),Romo L.Midfielder,1,-,6.4,-,-,-,13
+b1x9Omno,mexico,local,4/7 (57%),Birmancevic V.Forward,3,-,6.3,-,-,-,14
+b1x9Omno,mexico,local,6/8 (75%),Ivanovic M.Forward,1,0.04,6.3,-,1,2,11
+b1x9Omno,mexico,local,15/18 (83%),Petrovic N.Midfielder,-,-,6.3,-,-,-,20
+b1x9Omno,mexico,local,5/5 (100%),Pineda O.Midfielder,-,-,6.3,-,-,-,5
+b1x9Omno,mexico,local,22/26 (85%),Rangel R.Goalkeeper,-,-,6.3,-,-,-,28
+b1x9Omno,mexico,local,4/5 (80%),Kostov V.Midfielder,1,-,6.2,-,-,-,5
+b1x9Omno,mexico,local,46/51 (90%),Sanchez J.Fullback,3,-,6.2,-,-,2,63
+b1x9Omno,mexico,local,35/39 (90%),Stankovic A.Midfielder,5,-,6.2,-,-,-,51
+b1x9Omno,mexico,local,3/5 (60%),Ilic V.Goalkeeper,-,-,6.1,-,-,-,6
+b1x9Omno,mexico,local,6/7 (86%),Mimovic O.Defender,3,-,6.1,0/1 (0%),-,-,13
+b1x9Omno,mexico,local,5/7 (71%),Stulic N.Striker,9,-,6.1,-,-,-,16
+b1x9Omno,mexico,local,11/11 (100%),Zukic D.Midfielder,3,-,6.1,-,-,-,16
+b1x9Omno,mexico,local,43/48 (90%),Gallardo J.Fullback,3,-,6.0,-,-,1,59
+b1x9Omno,mexico,local,28/30 (93%),Simic N.Centre back,4,-,6.0,-,-,-,41
+b1x9Omno,mexico,local,11/12 (92%),Dragojevic V.Midfielder,4,-,5.9,-,-,-,16
+b1x9Omno,mexico,local,3/4 (75%),Randjelovic L.Winger,4,-,5.9,-,-,-,8
+b1x9Omno,mexico,local,1/2 (50%),Avdic A.Defender,5,-,5.7,0/2 (0%),-,-,9
+b1x9Omno,mexico,local,19/27 (70%),Lucic V.Winger,9,-,5.7,3/4 (75%),-,3,39
+b1x9Omno,mexico,local,21/25 (84%),Djurdjevic V.Fullback,4,-,5.5,-,-,-,35
+b1x9Omno,mexico,local,35/37 (95%),Erakovic S.Centre back,2,-,5.5,-,-,-,42
+b1x9Omno,mexico,local,6/6 (100%),Bukinac S.Fullback,5,0.03,5.1,-,1,1,20
+C8AbHNbh,mexico,local,87/92 (95%),Vasquez J.Centre back,5,0.11,7.7,-,2,2,102
+C8AbHNbh,mexico,local,21/22 (95%),Reyes I.Defender,6,-,7.3,1/1 (100%),-,-,33
+C8AbHNbh,mexico,local,75/77 (97%),Alvarez E.Centre back,2,-,7.2,-,-,1,91
+C8AbHNbh,mexico,local,41/44 (93%),Chavez L.Midfielder,4,0.09,7.2,0/1 (0%),3,1,58
+C8AbHNbh,mexico,local,35/39 (90%),Vega A.Winger,1,0.10,7.1,-,2,1,48
+C8AbHNbh,mexico,local,46/59 (78%),Circati A.Centre back,8,-,6.9,0/1 (0%),-,-,72
+C8AbHNbh,mexico,local,10/18 (56%),Ochoa G.Goalkeeper,-,-,6.9,-,-,-,23
+C8AbHNbh,mexico,local,18/20 (90%),Lira E.Midfielder,3,-,6.8,-,-,-,25
+C8AbHNbh,mexico,local,6/9 (67%),Huerta Valera C. S.Forward,4,-,6.7,0/2 (0%),-,-,20
+C8AbHNbh,mexico,local,29/33 (88%),Irvine J.Midfielder,8,0.08,6.7,1/1 (100%),1,1,45
+C8AbHNbh,mexico,local,17/18 (94%),Rangel R.Goalkeeper,-,-,6.7,-,-,-,21
+C8AbHNbh,mexico,local,50/55 (91%),Romo L.Midfielder,1,0.02,6.7,-,1,2,62
+C8AbHNbh,mexico,local,23/25 (92%),Fidalgo A.Attacking midfielder,1,0.03,6.6,-,3,1,33
+C8AbHNbh,mexico,local,11/17 (65%),Gallardo J.Defender,2,-,6.6,-,-,-,25
+C8AbHNbh,mexico,local,10/11 (91%),Mora G.Midfielder,4,0.05,6.6,-,1,-,18
+C8AbHNbh,mexico,local,15/20 (75%),Ryan M.Goalkeeper,-,-,6.6,-,-,-,27
+C8AbHNbh,mexico,local,15/17 (88%),Trewin K.Midfielder,1,-,6.6,-,-,1,20
+C8AbHNbh,mexico,local,2/4 (50%),Gimenez S.Forward,7,0.17,6.5,0/1 (0%),1,1,12
+C8AbHNbh,mexico,local,16/20 (80%),Montes C.Defender,4,-,6.5,-,-,-,25
+C8AbHNbh,mexico,local,52/62 (84%),Souttar H.Centre back,9,-,6.5,-,-,2,73
+C8AbHNbh,mexico,local,33/36 (92%),Chavez Garcia M.Fullback,9,-,6.4,0/2 (0%),-,-,54
+C8AbHNbh,mexico,local,45/49 (92%),Sanchez J.Fullback,2,-,6.4,-,-,1,61
+C8AbHNbh,mexico,local,14/14 (100%),Hrustic A.Midfielder,-,0.23,6.3,-,1,1,18
+C8AbHNbh,mexico,local,24/27 (89%),O'Neill A.Midfielder,2,0.01,6.3,-,1,-,34
+C8AbHNbh,mexico,local,18/22 (82%),Okon-Engstler P.Midfielder,3,-,6.3,-,-,-,24
+C8AbHNbh,mexico,local,4/5 (80%),Vargas O.Midfielder,1,-,6.3,-,-,-,5
+C8AbHNbh,mexico,local,6/9 (67%),Velupillay N.Forward,2,-,6.3,-,-,1,14
+C8AbHNbh,mexico,local,9/10 (90%),Gomez A.Defender,-,-,6.2,-,-,-,11
+C8AbHNbh,mexico,local,53/56 (95%),Herrington L.Centre back,2,-,6.2,-,-,1,63
+C8AbHNbh,mexico,local,10/14 (71%),Italiano J.Wingback,8,-,6.2,0/1 (0%),-,-,29
+C8AbHNbh,mexico,local,15/17 (88%),Pineda O.Winger,6,-,6.2,0/3 (0%),-,-,28
+C8AbHNbh,mexico,local,19/23 (83%),Bos J.Wingback,9,-,6.1,2/6 (33%),-,1,46
+C8AbHNbh,mexico,local,8/15 (53%),Metcalfe C.Midfielder,2,0.01,6.1,-,1,-,30
+C8AbHNbh,mexico,local,9/10 (90%),Quinones J.Forward,7,-,6.1,1/3 (33%),-,-,17
+C8AbHNbh,mexico,local,4/5 (80%),Martinez G.Striker,5,-,6.0,-,-,1,9
+C8AbHNbh,mexico,local,6/9 (67%),Toure M.Striker,4,0.16,5.6,0/1 (0%),2,3,19
+C8AbHNbh,mexico,local,5/10 (50%),Leckie M.Midfielder,8,-,5.5,0/1 (0%),-,-,22
+C8AbHNbh,mexico,local,3/4 (75%),Behich A.Defender,1,-,-,-,-,-,9
+C8AbHNbh,mexico,local,10/11 (91%),Burgess C.Defender,2,-,-,-,-,-,11
+C8AbHNbh,mexico,local,4/4 (100%),Irankunda N.Forward,5,0.07,-,0/1 (0%),1,2,7
+C8AbHNbh,mexico,local,1/2 (50%),Mabil A.Forward,-,-,-,-,-,-,2
+EiTNwQjd,mexico,local,32/33 (97%),Gutierrez B.Midfielder,3,0.18,8.2,1/1 (100%),2,1,39
+EiTNwQjd,mexico,local,6/7 (86%),Martinez G.Forward,3,0.19,7.4,-,2,3,10
+EiTNwQjd,mexico,local,48/50 (96%),Gomez A.Centre back,3,-,7.3,-,-,-,53
+EiTNwQjd,mexico,local,9/11 (82%),Acevedo C.Goalkeeper,-,-,7.2,-,-,-,15
+EiTNwQjd,mexico,local,35/39 (90%),Alvarado R.Winger,9,0.21,7.1,0/2 (0%),3,5,55
+EiTNwQjd,mexico,local,17/28 (61%),Asare B.Goalkeeper,-,-,7.1,-,-,-,40
+EiTNwQjd,mexico,local,20/20 (100%),Mora G.Midfielder,9,0.14,7.1,2/3 (67%),3,6,38
+EiTNwQjd,mexico,local,47/50 (94%),Romo L.Centre back,3,-,7.1,-,-,-,57
+EiTNwQjd,mexico,local,54/59 (92%),Lira E.Midfielder,6,-,7.0,-,-,-,65
+EiTNwQjd,mexico,local,36/39 (92%),Reyes I.Fullback,3,-,7.0,-,-,3,48
+EiTNwQjd,mexico,local,25/27 (93%),Vega A.Winger,4,0.07,7.0,-,2,-,37
+EiTNwQjd,mexico,local,20/23 (87%),Chavez L.Midfielder,4,0.13,6.9,-,1,1,31
+EiTNwQjd,mexico,local,29/32 (91%),Sanchez J.Defender,4,-,6.8,-,-,-,39
+EiTNwQjd,mexico,local,21/27 (78%),Gallardo J.Fullback,1,0.09,6.7,0/1 (0%),1,4,34
+EiTNwQjd,mexico,local,12/12 (100%),Rangel R.Goalkeeper,-,-,6.7,-,-,-,14
+EiTNwQjd,mexico,local,11/12 (92%),Adams S.Midfielder,2,0.05,6.6,-,2,-,18
+EiTNwQjd,mexico,local,30/30 (100%),Alvarez E.Midfielder,2,-,6.6,-,-,-,34
+EiTNwQjd,mexico,local,12/13 (92%),Chavez Garcia M.Midfielder,4,-,6.6,-,-,2,25
+EiTNwQjd,mexico,local,12/15 (80%),Violante I.Forward,5,-,6.6,2/3 (67%),-,2,23
+EiTNwQjd,mexico,local,20/20 (100%),Aguila E.Defender,1,-,6.5,-,-,1,24
+EiTNwQjd,mexico,local,15/16 (94%),Castaneda K.Midfielder,3,0.17,6.5,-,1,1,23
+EiTNwQjd,mexico,local,4/6 (67%),Amoako P.Forward,5,-,6.4,1/2 (50%),-,1,11
+EiTNwQjd,mexico,local,3/4 (75%),Issah A.Midfielder,2,-,6.4,-,-,-,10
+EiTNwQjd,mexico,local,5/6 (83%),Opoku J.Forward,5,-,6.4,-,-,-,10
+EiTNwQjd,mexico,local,53/57 (93%),Adjei N.Centre back,4,-,6.3,-,-,-,71
+EiTNwQjd,mexico,local,8/10 (80%),Afena-Gyan F.Striker,5,0.08,6.3,-,3,3,21
+EiTNwQjd,mexico,local,2/2 (100%),Afriyie J.Forward,3,0.02,6.3,1/1 (100%),1,1,5
+EiTNwQjd,mexico,local,4/4 (100%),Agbasi S.Goalkeeper,-,-,6.3,-,-,-,4
+EiTNwQjd,mexico,local,11/11 (100%),Fimbres I.Midfielder,1,-,6.3,-,-,-,13
+EiTNwQjd,mexico,local,3/4 (75%),Gonzalez A.Striker,1,0.35,6.3,-,1,1,6
+EiTNwQjd,mexico,local,14/15 (93%),Rey L.Midfielder,2,-,6.3,-,-,-,15
+EiTNwQjd,mexico,local,11/12 (92%),Simpson R.Midfielder,1,-,6.3,-,-,-,14
+EiTNwQjd,mexico,local,8/10 (80%),Rak-Sakyi J.Winger,4,0.02,6.2,0/2 (0%),1,-,20
+EiTNwQjd,mexico,local,36/39 (92%),Agyei E.Midfielder,8,-,5.9,-,-,-,47
+EiTNwQjd,mexico,local,42/45 (93%),Ashimeru M.Midfielder,7,-,5.9,2/3 (67%),-,1,58
+EiTNwQjd,mexico,local,12/12 (100%),Agyei D.Midfielder,5,-,5.8,0/1 (0%),-,-,18
+EiTNwQjd,mexico,local,42/48 (88%),Yegbe T.Fullback,2,-,5.7,-,-,-,62
+EiTNwQjd,mexico,local,37/40 (93%),Naasei O.Centre back,7,-,5.5,-,-,-,53
+EiTNwQjd,mexico,local,10/12 (83%),Osman I.Winger,9,-,5.3,2/6 (33%),-,2,26
+EiTNwQjd,mexico,local,20/23 (87%),Gyamerah J.Fullback,2,-,5.2,-,-,-,34
+EiTNwQjd,mexico,local,1/1 (100%),Abban E.Defender,-,-,-,-,-,-,2
+EiTNwQjd,mexico,local,2/3 (67%),Adade E.Defender,-,-,-,-,-,-,6
+EiTNwQjd,mexico,local,3/3 (100%),Antwi D.Defender,-,-,-,-,-,-,3
+EiTNwQjd,mexico,local,1/1 (100%),Oduro D.Defender,-,-,-,-,-,-,1
+d2jVl7wA,mexico,local,52/63 (83%),Gallardo J.Fullback,10,0.05,8.8,-,1,6,90
+d2jVl7wA,mexico,local,6/7 (86%),Gonzalez A.Striker,8,1.31,8.4,1/1 (100%),4,4,17
+d2jVl7wA,mexico,local,32/35 (91%),Gutierrez B.Midfielder,8,1.48,8.4,2/3 (67%),7,12,62
+d2jVl7wA,mexico,local,28/36 (78%),Rangel R.Goalkeeper,-,-,8.0,-,-,-,44
+d2jVl7wA,mexico,local,31/34 (91%),Ledezma R.Fullback,3,0.36,7.8,-,2,2,47
+d2jVl7wA,mexico,local,41/47 (87%),Einarsson A.Goalkeeper,-,-,7.7,-,-,-,61
+d2jVl7wA,mexico,local,75/85 (88%),Reyes I.Centre back,7,-,7.6,-,-,1,94
+d2jVl7wA,mexico,local,20/24 (83%),Alvarado R.Winger,3,0.08,7.0,-,3,3,33
+d2jVl7wA,mexico,local,14/16 (88%),Gutierrez Torres A. H.Midfielder,-,-,7.0,-,-,1,19
+d2jVl7wA,mexico,local,48/52 (92%),Lira E.Midfielder,4,0.55,7.0,1/1 (100%),2,4,60
+d2jVl7wA,mexico,local,23/25 (92%),Rodriguez C.Midfielder,4,0.03,6.7,-,1,-,29
+d2jVl7wA,mexico,local,28/32 (88%),Alvarez E.Winger,2,-,6.6,1/1 (100%),-,1,40
+d2jVl7wA,mexico,local,10/12 (83%),Garza J.Defender,2,-,6.6,-,-,2,17
+d2jVl7wA,mexico,local,66/72 (92%),Muminovic D.Centre back,5,-,6.6,-,-,-,90
+d2jVl7wA,mexico,local,7/9 (78%),Sanchez E.Midfielder,5,-,6.6,1/1 (100%),-,2,12
+d2jVl7wA,mexico,local,20/20 (100%),Campillo Del Campo D.Defender,-,-,6.5,-,-,-,21
+d2jVl7wA,mexico,local,43/49 (88%),Gudmundsson J.Midfielder,7,0.06,6.5,-,1,1,63
+d2jVl7wA,mexico,local,39/45 (87%),Kristjansson G.Centre back,3,-,6.5,-,-,-,54
+d2jVl7wA,mexico,local,3/6 (50%),Martinez G.Forward,2,0.28,6.5,-,1,1,8
+d2jVl7wA,mexico,local,22/26 (85%),Ruiz M.Midfielder,3,0.64,6.5,-,3,4,35
+d2jVl7wA,mexico,local,71/80 (89%),del Villar E.Centre back,6,-,6.3,-,-,1,87
+d2jVl7wA,mexico,local,5/6 (83%),Ingason B.Forward,2,-,6.3,-,-,-,7
+d2jVl7wA,mexico,local,7/8 (88%),Borgthorsson O.Forward,1,-,6.2,-,-,1,8
+d2jVl7wA,mexico,local,25/28 (89%),Gudmundsson H.Defender,3,-,6.2,-,-,-,33
+d2jVl7wA,mexico,local,8/12 (67%),Steingrimsson H.Forward,4,-,6.2,1/2 (50%),-,-,18
+d2jVl7wA,mexico,local,11/17 (65%),Gudjonsson H.Midfielder,6,-,6.1,-,-,-,25
+d2jVl7wA,mexico,local,25/30 (83%),Thorarinsson G.Wingback,1,-,6.0,-,-,-,46
+d2jVl7wA,mexico,local,7/12 (58%),Atlason E.Striker,7,0.05,5.9,-,1,1,17
+d2jVl7wA,mexico,local,45/50 (90%),Sigurdsson G.Midfielder,8,-,5.9,-,-,-,62
+d2jVl7wA,mexico,local,5/8 (63%),Gunnarsson K.Wingback,5,-,5.6,-,-,1,19
+d2jVl7wA,mexico,local,11/12 (92%),Thorsteinsson A.Midfielder,5,0.32,5.6,1/1 (100%),1,1,18
+d2jVl7wA,mexico,local,16/20 (80%),Gunnlaugsson H.Centre back,8,-,5.2,2/2 (100%),-,-,40
+d2jVl7wA,mexico,local,8/8 (100%),Hafsteinsson D.Midfielder,2,-,-,-,-,-,10
+d2jVl7wA,mexico,local,1/1 (100%),Helgason B.Midfielder,-,0.37,-,-,1,1,2
+48HllKMj,mexico,local,25/28 (89%),Mora G.Midfielder,12,-,7.9,1/2 (50%),-,1,43
+48HllKMj,mexico,local,40/45 (89%),Maldonado D.Defender,5,-,7.7,-,-,-,56
+48HllKMj,mexico,local,64/77 (83%),Montes C.Defender,8,0.10,7.5,-,1,1,91
+48HllKMj,mexico,local,18/25 (72%),Jimenez R.Forward,11,0.22,7.2,-,2,3,42
+48HllKMj,mexico,local,33/42 (79%),Alvarez E.Midfielder,7,-,7.1,-,-,1,54
+48HllKMj,mexico,local,77/82 (94%),Vasquez J.Defender,8,0.16,7.1,-,1,1,93
+48HllKMj,mexico,local,19/22 (86%),Vega A.Forward,12,0.05,7.1,-,1,-,39
+48HllKMj,mexico,local,21/30 (70%),Araujo J.Defender,7,-,7.0,-,-,-,48
+48HllKMj,mexico,local,35/36 (97%),Ruiz M.Midfielder,7,0.14,7.0,-,1,1,46
+48HllKMj,mexico,local,5/7 (71%),Orozco J.Defender,2,-,6.9,-,-,-,16
+48HllKMj,mexico,local,26/35 (74%),Rosales J.Defender,6,-,6.8,1/2 (50%),-,2,67
+48HllKMj,mexico,local,34/41 (83%),Malagon L.Goalkeeper,-,-,6.7,-,-,-,42
+48HllKMj,mexico,local,23/26 (88%),Alvarado R.Midfielder,5,0.59,6.6,1/1 (100%),4,3,42
+48HllKMj,mexico,local,40/48 (83%),Arriaga K.Midfielder,9,-,6.5,0/2 (0%),-,-,58
+48HllKMj,mexico,local,2/2 (100%),Huerta Valera C. S.Forward,2,-,6.5,-,-,-,4
+48HllKMj,mexico,local,14/24 (58%),Menjivar E.Goalkeeper,-,-,6.5,-,-,-,33
+48HllKMj,mexico,local,7/9 (78%),Palma L.Midfielder,4,-,6.5,-,-,1,17
+48HllKMj,mexico,local,16/21 (76%),Chavez Garcia M.Midfielder,6,-,6.4,-,-,1,35
+48HllKMj,mexico,local,28/34 (82%),Martinez J.Defender,6,-,6.4,-,-,-,39
+48HllKMj,mexico,local,9/12 (75%),Quioto R.Midfielder,6,-,6.4,0/1 (0%),-,2,17
+48HllKMj,mexico,local,15/20 (75%),Alvarez J.Midfielder,7,0.01,6.3,1/1 (100%),1,-,33
+48HllKMj,mexico,local,35/44 (80%),Flores D.Midfielder,9,0.01,6.3,1/2 (50%),1,-,54
+48HllKMj,mexico,local,7/16 (44%),Lozano C.Forward,17,0.03,6.3,1/1 (100%),2,4,29
+48HllKMj,mexico,local,4/9 (44%),Ramirez D.Defender,13,0.04,6.1,4/5 (80%),2,4,29
+48HllKMj,mexico,local,2/3 (67%),Gimenez S.Forward,6,-,6.0,0/1 (0%),-,2,7
+48HllKMj,mexico,local,3/6 (50%),Arboleda Y.Forward,6,-,5.9,-,-,1,6
+48HllKMj,mexico,local,12/20 (60%),Crisanto L.Defender,9,-,5.6,1/4 (25%),-,-,46
+48HllKMj,mexico,local,-,Lira E.Midfielder,1,-,-,-,-,-,1
+48HllKMj,mexico,local,-,Ochoa G.Goalkeeper,-,-,-,-,-,-,-
+48HllKMj,mexico,local,8/11 (73%),Pineda C.Midfielder,2,-,-,-,-,1,13
+48HllKMj,mexico,local,0/2 (0%),Pineda O.Midfielder,5,-,-,3/3 (100%),-,-,6
+48HllKMj,mexico,local,4/6 (67%),Rodriguez E.Midfielder,-,-,-,-,-,-,7

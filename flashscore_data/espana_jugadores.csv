@@ -1,0 +1,344 @@
+match_id,seleccion,equipo,accurate_passesaccurate_passes,all,duelsduels,expected_goals_xgexpected_goals_xg,ratingrating,successful_dribblessuccessful_dribbles,total_shotstotal_shots,touches_in_opposition_boxtouches_in_opposition_box,touchestouches
+ph1aAT9e,espana,local,45/45 (100%),PedriMidfielder,4,0.91,8.4,1/1 (100%),1,1,52
+ph1aAT9e,espana,local,11/16 (69%),Velez J.Striker,10,0.66,7.8,2/2 (100%),1,2,28
+ph1aAT9e,espana,local,79/80 (99%),Cubarsi P.Centre back,-,-,7.5,-,-,-,80
+ph1aAT9e,espana,local,26/34 (76%),Lopez M.Fullback,6,0.06,7.5,1/4 (25%),1,1,51
+ph1aAT9e,espana,local,18/21 (86%),Torres F.Winger,4,0.69,7.5,1/2 (50%),2,6,31
+ph1aAT9e,espana,local,57/60 (95%),RodriMidfielder,3,-,7.4,-,-,-,62
+ph1aAT9e,espana,local,6/9 (67%),Oyarzabal M.Striker,2,0.28,7.2,-,2,3,14
+ph1aAT9e,espana,local,50/50 (100%),Garcia E.Defender,3,-,7.0,-,-,-,54
+ph1aAT9e,espana,local,15/15 (100%),GaviMidfielder,3,-,7.0,-,-,2,18
+ph1aAT9e,espana,local,55/56 (98%),Laporte A.Centre back,1,-,7.0,-,-,-,60
+ph1aAT9e,espana,local,12/12 (100%),Simon U.Goalkeeper,-,-,6.9,-,-,-,19
+ph1aAT9e,espana,local,19/21 (90%),Olmo D.Midfielder,7,0.04,6.8,2/3 (67%),1,5,30
+ph1aAT9e,espana,local,15/22 (68%),Pino Y.Forward,4,-,6.7,-,-,2,29
+ph1aAT9e,espana,local,33/39 (85%),Ruiz F.Midfielder,1,-,6.7,-,-,2,43
+ph1aAT9e,espana,local,16/16 (100%),Grimaldo A.Defender,-,0.03,6.6,-,1,1,24
+ph1aAT9e,espana,local,3/4 (75%),Iglesias B.Forward,1,-,6.6,-,-,2,7
+ph1aAT9e,espana,local,11/12 (92%),Merino M.Midfielder,1,-,6.6,0/1 (0%),-,-,16
+ph1aAT9e,espana,local,16/16 (100%),Porro P.Defender,3,-,6.6,-,-,1,22
+ph1aAT9e,espana,local,27/29 (93%),Pubill M.Defender,2,-,6.6,-,-,-,33
+ph1aAT9e,espana,local,55/59 (93%),Llorente M.Fullback,2,-,6.5,-,-,-,71
+ph1aAT9e,espana,local,21/22 (95%),Zubimendi M.Midfielder,-,-,6.5,-,-,-,23
+ph1aAT9e,espana,local,27/32 (84%),Baena A.Winger,2,0.05,6.4,1/1 (100%),1,1,38
+ph1aAT9e,espana,local,41/45 (91%),Cucurella M.Fullback,3,-,6.4,-,-,1,54
+ph1aAT9e,espana,local,6/6 (100%),Raya D.Goalkeeper,-,-,6.4,-,-,-,9
+ph1aAT9e,espana,local,25/26 (96%),Noriega E.Midfielder,1,-,6.3,-,-,-,30
+ph1aAT9e,espana,local,3/5 (60%),Quiroz A.Midfielder,-,-,6.3,-,-,-,8
+ph1aAT9e,espana,local,10/11 (91%),Barco A.Midfielder,-,-,6.2,-,-,-,13
+ph1aAT9e,espana,local,16/19 (84%),Carrillo A.Forward,4,-,6.2,2/2 (100%),-,-,23
+ph1aAT9e,espana,local,4/4 (100%),Castro M.Forward,4,0.03,6.2,1/2 (50%),1,1,10
+ph1aAT9e,espana,local,46/47 (98%),Garces R.Centre back,5,-,6.2,-,-,-,55
+ph1aAT9e,espana,local,35/39 (90%),Yotun Y.Midfielder,2,-,6.2,-,-,-,44
+ph1aAT9e,espana,local,11/15 (73%),Vidales J.Winger,1,0.17,6.1,-,2,2,25
+ph1aAT9e,espana,local,6/8 (75%),Ugarriza A.Striker,4,0.36,5.8,-,2,2,13
+ph1aAT9e,espana,local,32/36 (89%),Pretell J.Winger,2,0.03,5.7,-,1,2,42
+ph1aAT9e,espana,local,36/45 (80%),Sonne O.Fullback,4,0.05,5.5,1/1 (100%),1,2,64
+ph1aAT9e,espana,local,52/55 (95%),Gruber F.Centre back,1,-,5.2,-,-,-,63
+ph1aAT9e,espana,local,27/35 (77%),Gallese P.Goalkeeper,-,-,5.0,-,-,-,44
+ph1aAT9e,espana,local,3/3 (100%),Concha J.Midfielder,-,-,-,-,-,-,4
+ph1aAT9e,espana,local,5/5 (100%),Huaman M.Defender,-,-,-,-,-,-,5
+ph1aAT9e,espana,local,-,Vilca R.Midfielder,2,0.02,-,0/1 (0%),1,-,5
+ph1aAT9e,espana,local,1/2 (50%),Zegarra M.Forward,-,-,-,-,-,-,3
+4E3Spdio,espana,local,20/26 (77%),Torres F.Winger,3,0.31,8.0,1/1 (100%),2,3,34
+4E3Spdio,espana,local,32/40 (80%),Bernal M.Midfielder,8,-,7.3,-,-,-,51
+4E3Spdio,espana,local,20/27 (74%),Baena A.Winger,3,0.13,7.2,-,3,5,42
+4E3Spdio,espana,local,17/20 (85%),Doski M.Fullback,2,0.05,7.1,1/2 (50%),1,-,37
+4E3Spdio,espana,local,77/80 (96%),Martin J.Centre back,2,0.09,7.1,-,1,1,85
+4E3Spdio,espana,local,29/32 (91%),Olmo D.Attacking midfielder,3,0.31,7.1,0/1 (0%),2,2,39
+4E3Spdio,espana,local,35/40 (88%),GaviMidfielder,16,-,7.0,6/6 (100%),-,4,57
+4E3Spdio,espana,local,27/27 (100%),Hashem A.Centre back,2,-,7.0,-,-,-,35
+4E3Spdio,espana,local,57/58 (98%),Garcia E.Defender,1,-,6.9,-,-,-,62
+4E3Spdio,espana,local,62/65 (95%),Laporte A.Centre back,-,-,6.9,-,-,-,69
+4E3Spdio,espana,local,13/18 (72%),Basil A.Goalkeeper,-,-,6.8,-,-,-,23
+4E3Spdio,espana,local,21/24 (88%),Pino Y.Forward,9,0.06,6.8,0/2 (0%),2,1,38
+4E3Spdio,espana,local,25/29 (86%),Grimaldo A.Fullback,1,0.03,6.7,-,1,3,45
+4E3Spdio,espana,local,40/42 (95%),Pubill M.Defender,2,-,6.7,-,-,-,44
+4E3Spdio,espana,local,21/22 (95%),Iqbal Z.Midfielder,3,-,6.6,-,-,-,26
+4E3Spdio,espana,local,32/36 (89%),Porro P.Fullback,3,-,6.6,0/1 (0%),-,1,50
+4E3Spdio,espana,local,19/22 (86%),Rodriguez J.Midfielder,5,0.06,6.6,2/3 (67%),1,-,37
+4E3Spdio,espana,local,31/33 (94%),Gomez S.Defender,1,-,6.5,-,-,1,39
+4E3Spdio,espana,local,17/19 (89%),Guerra J.Midfielder,8,-,6.5,2/2 (100%),-,1,28
+4E3Spdio,espana,local,13/19 (68%),Ismaeel Z.Midfielder,6,-,6.5,-,-,-,30
+4E3Spdio,espana,local,17/18 (94%),Merino M.Midfielder,4,-,6.5,-,-,-,23
+4E3Spdio,espana,local,23/28 (82%),Tahseen Z.Centre back,2,0.09,6.5,-,1,1,38
+4E3Spdio,espana,local,25/26 (96%),Turrientes B.Midfielder,3,-,6.5,-,-,1,27
+4E3Spdio,espana,local,8/11 (73%),Farji M.Winger,7,-,6.4,-,-,1,25
+4E3Spdio,espana,local,9/15 (60%),Hassan J.Goalkeeper,-,-,6.4,-,-,-,18
+4E3Spdio,espana,local,16/19 (84%),Rodriguez J.Defender,-,-,6.4,-,-,-,22
+4E3Spdio,espana,local,7/8 (88%),Yahya A.Defender,1,-,6.4,-,-,-,12
+4E3Spdio,espana,local,10/10 (100%),Younis M.Defender,4,-,6.4,-,-,-,19
+4E3Spdio,espana,local,2/4 (50%),Amyn Y.Midfielder,2,-,6.3,-,-,-,8
+4E3Spdio,espana,local,10/13 (77%),Iglesias B.Striker,-,-,6.3,-,-,-,14
+4E3Spdio,espana,local,9/9 (100%),Qasem A.Forward,2,-,6.3,1/1 (100%),-,-,13
+4E3Spdio,espana,local,12/13 (92%),Saadoon M.Defender,-,-,6.3,-,-,-,16
+4E3Spdio,espana,local,11/13 (85%),Putros F.Defender,3,-,6.2,0/1 (0%),-,1,23
+4E3Spdio,espana,local,4/4 (100%),Roman L.Goalkeeper,-,-,6.2,-,-,-,4
+4E3Spdio,espana,local,18/18 (100%),Sulaka R.Defender,1,-,6.2,-,-,-,18
+4E3Spdio,espana,local,11/13 (85%),Yakob K.Midfielder,6,-,6.2,0/1 (0%),-,-,19
+4E3Spdio,espana,local,4/4 (100%),Al Hamadi A.Striker,3,-,6.0,-,-,-,9
+4E3Spdio,espana,local,11/15 (73%),Ali H.Fullback,1,-,6.0,0/1 (0%),-,-,21
+4E3Spdio,espana,local,3/4 (75%),Garcia G.Forward,3,0.43,6.0,0/2 (0%),1,2,11
+4E3Spdio,espana,local,5/8 (63%),Hussein A.Forward,3,-,6.0,0/1 (0%),-,2,13
+4E3Spdio,espana,local,21/25 (84%),Al Ammari A.Midfielder,4,-,5.9,-,-,-,32
+4E3Spdio,espana,local,8/11 (73%),Bayesh I.Winger,8,0.07,5.7,1/2 (50%),1,-,27
+4E3Spdio,espana,local,26/26 (100%),Garcia J.Goalkeeper,-,-,5.4,-,-,-,30
+4E3Spdio,espana,local,26/34 (76%),Jasim A.Striker,15,-,5.1,0/2 (0%),-,-,49
+Eu6koqaB,espana,local,112/116 (97%),Laporte A.Centre back,6,0.05,8.4,-,2,1,129
+Eu6koqaB,espana,local,44/50 (88%),Olmo D.Winger,4,0.20,8.1,1/2 (50%),3,4,60
+Eu6koqaB,espana,local,14/16 (88%),Oyarzabal M.Striker,1,1.15,7.8,-,3,6,22
+Eu6koqaB,espana,local,99/107 (93%),Garcia A.Midfielder,6,0.02,7.7,-,1,-,118
+Eu6koqaB,espana,local,69/74 (93%),Cucurella M.Fullback,2,-,7.5,-,-,1,85
+Eu6koqaB,espana,local,30/37 (81%),Kokcu O.Midfielder,2,0.02,7.5,-,1,1,52
+Eu6koqaB,espana,local,72/74 (97%),Llorente M.Fullback,4,-,7.5,-,-,1,88
+Eu6koqaB,espana,local,38/48 (79%),Pino Y.Winger,5,0.72,7.1,0/1 (0%),2,9,60
+Eu6koqaB,espana,local,29/32 (91%),Akaydin S.Centre back,5,-,6.9,-,-,-,50
+Eu6koqaB,espana,local,17/19 (89%),Baena A.Forward,1,0.21,6.9,0/1 (0%),2,4,28
+Eu6koqaB,espana,local,17/25 (68%),Bayindir A.Goalkeeper,-,-,6.9,-,-,-,35
+Eu6koqaB,espana,local,100/103 (97%),Cubarsi P.Centre back,7,0.04,6.9,-,1,1,109
+Eu6koqaB,espana,local,68/74 (92%),Ruiz F.Midfielder,2,0.25,6.9,0/1 (0%),3,6,87
+Eu6koqaB,espana,local,10/11 (91%),Gul D.Striker,7,0.60,6.8,0/2 (0%),2,2,21
+Eu6koqaB,espana,local,22/25 (88%),Ozcan S.Midfielder,6,0.09,6.8,0/1 (0%),2,-,34
+Eu6koqaB,espana,local,23/29 (79%),Demiral M.Centre back,1,-,6.7,-,-,-,50
+Eu6koqaB,espana,local,20/21 (95%),Simon U.Goalkeeper,-,-,6.7,-,-,-,36
+Eu6koqaB,espana,local,8/8 (100%),Muldur M.Defender,4,0.02,6.5,-,1,1,14
+Eu6koqaB,espana,local,14/17 (82%),Torres F.Forward,2,0.14,6.5,1/2 (50%),2,3,25
+Eu6koqaB,espana,local,18/24 (75%),Celik Z.Wingback,4,0.05,6.4,2/3 (67%),1,2,46
+Eu6koqaB,espana,local,7/9 (78%),FermínMidfielder,5,-,6.4,0/3 (0%),-,-,16
+Eu6koqaB,espana,local,3/3 (100%),Karazor A.Midfielder,-,0.05,6.4,-,1,-,4
+Eu6koqaB,espana,local,2/4 (50%),Sari Y.Forward,-,-,6.4,-,-,1,5
+Eu6koqaB,espana,local,15/19 (79%),Kahveci I.Midfielder,3,0.06,6.3,1/2 (50%),1,2,27
+Eu6koqaB,espana,local,24/27 (89%),Soyuncu C.Centre back,3,-,6.3,-,-,-,42
+Eu6koqaB,espana,local,6/13 (46%),Yilmaz B.Midfielder,12,0.24,6.3,1/3 (33%),4,6,28
+Eu6koqaB,espana,local,3/4 (75%),SamuForward,2,0.09,6.2,-,1,2,6
+Eu6koqaB,espana,local,4/4 (100%),Eskihellac M.Midfielder,3,-,6.1,-,-,-,7
+Eu6koqaB,espana,local,19/23 (83%),Kadioglu F.Wingback,2,-,6.1,-,-,1,34
+Eu6koqaB,espana,local,22/27 (81%),Merino M.Midfielder,6,0.08,6.1,-,1,2,34
+Eu6koqaB,espana,local,-,Akcicek Y.Defender,1,-,-,-,-,-,1
+Eu6koqaB,espana,local,6/7 (86%),Fornals P.Midfielder,-,-,-,-,-,1,9
+hQHtm5Ub,espana,local,7/10 (70%),Oyarzabal M.Striker,2,1.46,8.9,-,3,7,17
+hQHtm5Ub,espana,local,101/103 (98%),Laporte A.Centre back,2,-,8.8,-,-,-,110
+hQHtm5Ub,espana,local,24/33 (73%),Torres F.Winger,5,0.46,8.6,0/3 (0%),3,8,51
+hQHtm5Ub,espana,local,47/50 (94%),Ruiz F.Midfielder,2,-,8.1,-,-,2,55
+hQHtm5Ub,espana,local,83/89 (93%),Zubimendi M.Midfielder,6,0.80,7.7,-,1,2,97
+hQHtm5Ub,espana,local,53/60 (88%),Baena A.Winger,6,0.12,7.5,1/2 (50%),2,5,81
+hQHtm5Ub,espana,local,26/30 (87%),Porro P.Fullback,5,-,7.4,-,-,-,42
+hQHtm5Ub,espana,local,94/96 (98%),Cubarsi P.Centre back,1,-,7.2,-,-,-,103
+hQHtm5Ub,espana,local,14/17 (82%),Simon U.Goalkeeper,1,-,7.1,-,-,-,24
+hQHtm5Ub,espana,local,23/25 (92%),Barrios P.Midfielder,4,-,6.9,1/1 (100%),-,-,28
+hQHtm5Ub,espana,local,22/23 (96%),FermínMidfielder,3,-,6.9,2/3 (67%),-,1,32
+hQHtm5Ub,espana,local,22/26 (85%),Llorente M.Defender,3,-,6.9,1/1 (100%),-,2,38
+hQHtm5Ub,espana,local,20/23 (87%),Merino M.Midfielder,9,0.04,6.9,-,2,2,33
+hQHtm5Ub,espana,local,13/13 (100%),Tsitaishvili G.Forward,2,0.04,6.7,0/1 (0%),1,1,22
+hQHtm5Ub,espana,local,32/37 (86%),Kvaratskhelia K.Winger,14,0.07,6.6,5/8 (63%),2,4,62
+hQHtm5Ub,espana,local,31/38 (82%),Mamardashvili G.Goalkeeper,-,-,6.6,-,-,-,46
+hQHtm5Ub,espana,local,36/39 (92%),Cucurella M.Fullback,7,-,6.5,-,-,1,57
+hQHtm5Ub,espana,local,4/6 (67%),Tabatadze I.Winger,5,0.08,6.4,-,1,4,17
+hQHtm5Ub,espana,local,30/35 (86%),Kashia G.Defender,4,-,6.3,-,-,-,40
+hQHtm5Ub,espana,local,2/2 (100%),Kvilitaia G.Forward,1,-,6.3,-,-,1,5
+hQHtm5Ub,espana,local,2/3 (67%),Iglesias B.Forward,-,0.62,6.2,-,2,2,7
+hQHtm5Ub,espana,local,4/6 (67%),Kvernadze G.Forward,4,-,6.2,1/2 (50%),-,-,12
+hQHtm5Ub,espana,local,47/52 (90%),Kiteishvili O.Midfielder,6,-,6.1,-,-,-,62
+hQHtm5Ub,espana,local,28/34 (82%),Davitashvili Z.Midfielder,5,0.07,6.0,1/1 (100%),1,3,46
+hQHtm5Ub,espana,local,44/50 (88%),Lochoshvili L.Centre back,-,-,5.9,-,-,1,63
+hQHtm5Ub,espana,local,14/17 (82%),Goglichidze S.Centre back,-,-,5.8,-,-,-,20
+hQHtm5Ub,espana,local,23/29 (79%),Mekvabishvili A.Midfielder,5,0.03,5.8,0/1 (0%),1,-,39
+hQHtm5Ub,espana,local,13/15 (87%),Zivzivadze B.Striker,7,-,5.8,1/1 (100%),-,1,23
+hQHtm5Ub,espana,local,23/27 (85%),Gocholeishvili G.Fullback,3,-,5.4,-,-,1,47
+hQHtm5Ub,espana,local,30/36 (83%),Mamuchashvili V.Fullback,2,-,5.2,-,-,2,42
+hQHtm5Ub,espana,local,3/3 (100%),Abuashvili G.Forward,2,-,-,0/1 (0%),-,-,7
+hQHtm5Ub,espana,local,6/7 (86%),Pino Y.Forward,4,0.03,-,-,1,2,13
+nTEYlRan,espana,local,40/46 (87%),Merino M.Attacking midfielder,8,0.53,9.7,1/1 (100%),5,12,65
+nTEYlRan,espana,local,127/128 (99%),Laporte A.Centre back,6,-,8.6,-,-,-,132
+nTEYlRan,espana,local,74/78 (95%),Grimaldo A.Fullback,8,0.04,8.4,0/2 (0%),1,6,101
+nTEYlRan,espana,local,77/78 (99%),Le Normand R.Centre back,3,-,8.2,-,-,2,83
+nTEYlRan,espana,local,81/82 (99%),Zubimendi M.Midfielder,1,0.07,8.1,-,3,3,90
+nTEYlRan,espana,local,41/48 (85%),Oyarzabal M.Winger,5,1.30,7.9,1/1 (100%),5,10,61
+nTEYlRan,espana,local,45/55 (82%),Baena A.Winger,7,0.35,7.8,2/3 (67%),5,9,79
+nTEYlRan,espana,local,101/109 (93%),PedriMidfielder,1,0.62,7.8,0/1 (0%),2,5,123
+nTEYlRan,espana,local,10/14 (71%),Hristov P.Centre back,6,-,7.2,-,-,-,43
+nTEYlRan,espana,local,65/72 (90%),Porro P.Fullback,5,-,7.2,-,-,1,88
+nTEYlRan,espana,local,23/25 (92%),Krastev F.Midfielder,9,-,7.1,4/6 (67%),-,-,46
+nTEYlRan,espana,local,12/15 (80%),Pino Y.Forward,3,0.19,7.0,0/1 (0%),3,5,25
+nTEYlRan,espana,local,14/16 (88%),Simon U.Goalkeeper,-,-,6.8,-,-,-,22
+nTEYlRan,espana,local,23/24 (96%),Barrios P.Midfielder,-,0.04,6.7,-,1,-,26
+nTEYlRan,espana,local,5/7 (71%),SamuStriker,6,0.45,6.7,0/1 (0%),5,9,19
+nTEYlRan,espana,local,16/29 (55%),Vutsov S.Goalkeeper,-,-,6.7,-,-,-,47
+nTEYlRan,espana,local,28/31 (90%),Garcia A.Midfielder,1,-,6.6,-,-,1,34
+nTEYlRan,espana,local,7/10 (70%),Iglesias B.Forward,1,0.37,6.6,-,3,3,14
+nTEYlRan,espana,local,5/5 (100%),Dimitrov Z.Forward,2,-,6.3,0/1 (0%),-,-,13
+nTEYlRan,espana,local,17/18 (94%),Vivian D.Defender,-,-,6.3,-,-,-,18
+nTEYlRan,espana,local,6/12 (50%),Minchev M.Winger,10,-,6.2,-,-,-,23
+nTEYlRan,espana,local,2/4 (50%),Nikolov V.Forward,2,-,6.1,-,-,-,5
+nTEYlRan,espana,local,4/5 (80%),Petkov M.Forward,2,-,6.1,-,-,-,7
+nTEYlRan,espana,local,8/10 (80%),Despodov K.Striker,1,0.36,6.0,-,2,2,14
+nTEYlRan,espana,local,13/24 (54%),Georgiev M.Fullback,8,-,5.8,0/2 (0%),-,-,50
+nTEYlRan,espana,local,3/5 (60%),Kirilov R.Winger,2,0.02,5.6,1/3 (33%),1,-,13
+nTEYlRan,espana,local,19/22 (86%),Chernev A.Centre back,2,-,5.4,-,-,-,37
+nTEYlRan,espana,local,30/36 (83%),Gruev I.Midfielder,3,-,5.4,-,-,-,45
+nTEYlRan,espana,local,13/18 (72%),Shopov S.Midfielder,3,-,5.4,-,-,-,22
+nTEYlRan,espana,local,21/28 (75%),Velkovski D.Fullback,4,-,4.9,1/1 (100%),-,-,46
+nTEYlRan,espana,local,2/2 (100%),Kraev A.Midfielder,-,-,-,-,-,-,2
+nTEYlRan,espana,local,-,Stoyanov K.Midfielder,1,-,-,-,-,-,-
+82qOUNEU,espana,local,71/80 (89%),Porro P.Fullback,9,0.13,9.1,2/2 (100%),4,4,112
+82qOUNEU,espana,local,111/112 (99%),Le Normand R.Centre back,7,0.03,8.9,1/2 (50%),1,3,120
+82qOUNEU,espana,local,123/125 (98%),Cubarsi P.Centre back,4,-,8.7,-,-,-,129
+82qOUNEU,espana,local,77/87 (89%),PedriMidfielder,6,-,8.5,-,-,2,97
+82qOUNEU,espana,local,90/95 (95%),Zubimendi M.Midfielder,7,0.12,8.4,1/1 (100%),2,1,109
+82qOUNEU,espana,local,31/36 (86%),Pino Y.Winger,7,0.38,8.0,0/2 (0%),1,5,47
+82qOUNEU,espana,local,9/11 (82%),Oyarzabal M.Striker,4,1.33,7.7,2/2 (100%),5,7,22
+82qOUNEU,espana,local,68/75 (91%),Cucurella M.Fullback,7,-,7.6,-,-,4,94
+82qOUNEU,espana,local,10/25 (40%),Mamardashvili G.Goalkeeper,1,-,6.9,-,-,-,34
+82qOUNEU,espana,local,8/8 (100%),Simon U.Goalkeeper,-,-,6.9,-,-,-,12
+82qOUNEU,espana,local,39/44 (89%),Merino M.Midfielder,11,0.54,6.8,-,5,7,62
+82qOUNEU,espana,local,31/32 (97%),Barrios P.Midfielder,5,0.07,6.7,-,1,1,38
+82qOUNEU,espana,local,21/23 (91%),Llorente M.Defender,3,-,6.7,1/1 (100%),-,-,30
+82qOUNEU,espana,local,25/31 (81%),Baena A.Forward,-,-,6.6,-,-,2,36
+82qOUNEU,espana,local,4/6 (67%),Iglesias B.Forward,1,-,6.5,-,-,1,8
+82qOUNEU,espana,local,14/16 (88%),Torres F.Winger,6,1.23,6.4,0/1 (0%),5,9,31
+82qOUNEU,espana,local,1/1 (100%),Gagnidze N.Midfielder,4,-,6.3,-,-,-,6
+82qOUNEU,espana,local,2/3 (67%),Kvernadze G.Forward,4,-,6.2,-,-,-,9
+82qOUNEU,espana,local,-,Davitashvili Z.Forward,4,-,6.1,0/1 (0%),-,-,5
+82qOUNEU,espana,local,5/8 (63%),Dvali L.Centre back,3,-,6.1,-,-,-,24
+82qOUNEU,espana,local,14/18 (78%),Goglichidze S.Centre back,1,-,6.1,-,-,-,27
+82qOUNEU,espana,local,18/25 (72%),Kochorashvili G.Midfielder,12,-,6.0,0/1 (0%),-,-,41
+82qOUNEU,espana,local,10/18 (56%),Kakabadze O.Wingback,8,-,5.7,0/1 (0%),-,-,33
+82qOUNEU,espana,local,9/13 (69%),Kiteishvili O.Midfielder,9,-,5.7,0/2 (0%),-,-,20
+82qOUNEU,espana,local,9/13 (69%),Mekvabishvili A.Midfielder,9,-,5.6,-,-,-,22
+82qOUNEU,espana,local,9/14 (64%),Kashia G.Centre back,1,-,5.5,-,-,-,23
+82qOUNEU,espana,local,7/9 (78%),Mikautadze G.Striker,7,-,5.5,-,-,-,16
+82qOUNEU,espana,local,6/8 (75%),Kvaratskhelia K.Striker,7,-,5.4,0/5 (0%),-,-,20
+82qOUNEU,espana,local,10/16 (63%),Gocholeishvili G.Wingback,8,0.01,5.0,-,1,-,33
+82qOUNEU,espana,local,-,Azarovi I.Defender,-,-,-,-,-,-,1
+82qOUNEU,espana,local,33/33 (100%),Garcia A.Midfielder,1,-,-,-,-,-,35
+82qOUNEU,espana,local,-,Mamuchashvili V.Midfielder,-,-,-,-,-,-,-
+zkoGWqpI,espana,local,22/27 (81%),Lamine YamalWinger,17,0.79,9.6,8/11 (73%),6,11,54
+zkoGWqpI,espana,local,49/54 (91%),PedriMidfielder,7,0.57,9.3,1/2 (50%),3,5,67
+zkoGWqpI,espana,local,38/44 (86%),Merino M.Midfielder,7,0.55,9.2,-,4,4,58
+zkoGWqpI,espana,local,16/19 (84%),Oyarzabal M.Striker,8,-,8.7,2/2 (100%),-,5,31
+zkoGWqpI,espana,local,65/74 (88%),Huijsen D.Centre back,3,-,8.4,-,-,1,94
+zkoGWqpI,espana,local,38/42 (90%),Cucurella M.Fullback,9,-,7.4,-,-,-,73
+zkoGWqpI,espana,local,53/54 (98%),Le Normand R.Centre back,6,0.05,7.4,0/1 (0%),1,2,68
+zkoGWqpI,espana,local,30/34 (88%),Simon U.Goalkeeper,-,-,7.2,-,-,-,40
+zkoGWqpI,espana,local,38/47 (81%),Porro P.Fullback,9,-,7.1,-,-,-,67
+zkoGWqpI,espana,local,48/51 (94%),Zubimendi M.Midfielder,4,0.05,7.1,-,1,1,59
+zkoGWqpI,espana,local,49/56 (88%),Guler A.Attacking midfielder,6,0.12,7.0,-,4,2,79
+zkoGWqpI,espana,local,17/19 (89%),Torres F.Forward,7,0.51,7.0,-,2,4,29
+zkoGWqpI,espana,local,36/37 (97%),Yildiz K.Winger,18,0.23,7.0,4/9 (44%),3,6,70
+zkoGWqpI,espana,local,13/15 (87%),Williams N.Winger,1,0.21,6.9,0/1 (0%),3,5,24
+zkoGWqpI,espana,local,8/8 (100%),de Frutos J.Forward,-,-,6.6,-,-,1,10
+zkoGWqpI,espana,local,52/60 (87%),Demiral M.Centre back,8,-,6.6,-,-,1,70
+zkoGWqpI,espana,local,12/13 (92%),FermínMidfielder,2,0.03,6.6,-,1,1,16
+zkoGWqpI,espana,local,23/27 (85%),Aydin O.Midfielder,2,-,6.4,-,-,3,36
+zkoGWqpI,espana,local,10/12 (83%),Celik Z.Defender,5,-,6.4,0/1 (0%),-,1,22
+zkoGWqpI,espana,local,11/14 (79%),Kokcu O.Midfielder,3,0.04,6.4,-,1,-,20
+zkoGWqpI,espana,local,18/20 (90%),RodriMidfielder,3,-,6.4,-,-,-,25
+zkoGWqpI,espana,local,20/20 (100%),Kadioglu F.Defender,-,-,6.3,-,-,-,22
+zkoGWqpI,espana,local,3/4 (75%),Morata A.Forward,2,-,6.3,0/1 (0%),-,-,6
+zkoGWqpI,espana,local,9/9 (100%),Akgun Y.Winger,5,-,6.2,1/2 (50%),-,3,17
+zkoGWqpI,espana,local,42/47 (89%),Calhanoglu H.Midfielder,4,0.09,6.1,1/1 (100%),2,1,58
+zkoGWqpI,espana,local,63/68 (93%),Bardakci A.Centre back,5,-,5.8,-,-,-,76
+zkoGWqpI,espana,local,12/15 (80%),Akturkoglu K.Striker,7,0.06,5.7,0/1 (0%),1,3,25
+zkoGWqpI,espana,local,30/32 (94%),Muldur M.Fullback,2,-,5.7,1/2 (50%),-,1,46
+zkoGWqpI,espana,local,37/40 (93%),Yuksek I.Midfielder,12,-,5.6,1/1 (100%),-,2,57
+zkoGWqpI,espana,local,17/22 (77%),Elmali E.Fullback,7,-,5.3,-,-,2,36
+zkoGWqpI,espana,local,26/40 (65%),Cakir U.Goalkeeper,-,-,4.7,-,-,-,53
+zkoGWqpI,espana,local,8/10 (80%),Ozcan S.Midfielder,1,-,-,-,-,-,10
+vNi7Y5F5,espana,local,39/51 (76%),Lamine YamalWinger,16,0.88,8.8,7/12 (58%),5,17,85
+vNi7Y5F5,espana,local,97/103 (94%),Huijsen D.Centre back,7,0.11,8.5,1/2 (50%),2,1,116
+vNi7Y5F5,espana,local,21/24 (88%),Oyarzabal M.Striker,6,0.93,8.5,1/2 (50%),3,9,35
+vNi7Y5F5,espana,local,77/81 (95%),Cucurella M.Fullback,6,0.14,8.4,-,2,1,91
+vNi7Y5F5,espana,local,48/52 (92%),Merino M.Midfielder,8,1.06,8.4,-,5,8,62
+vNi7Y5F5,espana,local,120/130 (92%),PedriMidfielder,2,0.13,8.4,0/1 (0%),2,4,142
+vNi7Y5F5,espana,local,69/78 (88%),Zubimendi M.Midfielder,3,-,8.3,-,-,-,82
+vNi7Y5F5,espana,local,53/55 (96%),Cubarsi P.Defender,5,-,7.4,-,-,-,57
+vNi7Y5F5,espana,local,4/6 (67%),Petkov M.Forward,11,0.07,7.4,1/4 (25%),1,1,22
+vNi7Y5F5,espana,local,42/45 (93%),Williams N.Winger,4,0.04,7.4,1/1 (100%),2,7,53
+vNi7Y5F5,espana,local,17/36 (47%),Vutsov S.Goalkeeper,1,-,7.3,-,-,-,51
+vNi7Y5F5,espana,local,46/52 (88%),Porro P.Fullback,1,0.01,7.1,-,1,2,68
+vNi7Y5F5,espana,local,41/41 (100%),Le Normand R.Centre back,11,-,6.9,-,-,-,50
+vNi7Y5F5,espana,local,44/48 (92%),RodriMidfielder,3,0.02,6.7,-,1,-,52
+vNi7Y5F5,espana,local,12/12 (100%),Simon U.Goalkeeper,-,-,6.7,-,-,-,16
+vNi7Y5F5,espana,local,25/25 (100%),Carvajal D.Defender,2,-,6.6,0/1 (0%),-,-,33
+vNi7Y5F5,espana,local,25/30 (83%),Tsenov E.Centre back,4,-,6.6,-,-,-,43
+vNi7Y5F5,espana,local,1/3 (33%),Nikolov V.Forward,8,-,6.5,-,-,-,10
+vNi7Y5F5,espana,local,9/10 (90%),Olmo D.Midfielder,6,0.19,6.5,0/2 (0%),1,6,17
+vNi7Y5F5,espana,local,10/11 (91%),Rodriguez J.Midfielder,-,-,6.4,0/1 (0%),-,-,16
+vNi7Y5F5,espana,local,6/8 (75%),Bozhinov R.Defender,1,-,6.3,-,-,-,11
+vNi7Y5F5,espana,local,15/23 (65%),Nedyalkov A.Fullback,7,-,6.3,1/1 (100%),-,-,41
+vNi7Y5F5,espana,local,20/26 (77%),Gruev I.Midfielder,7,-,6.2,-,-,-,39
+vNi7Y5F5,espana,local,0/1 (0%),Minchev M.Forward,2,-,6.2,-,-,-,2
+vNi7Y5F5,espana,local,12/14 (86%),Chochev I.Midfielder,9,0.01,6.0,-,1,1,26
+vNi7Y5F5,espana,local,1/3 (33%),Panayotov V.Midfielder,2,-,5.9,1/1 (100%),-,-,6
+vNi7Y5F5,espana,local,14/16 (88%),Nurnberger F.Fullback,10,-,5.8,-,-,-,36
+vNi7Y5F5,espana,local,19/25 (76%),Dimitrov K.Centre back,2,-,5.6,-,-,-,37
+vNi7Y5F5,espana,local,6/8 (75%),Kirilov R.Winger,2,0.02,5.5,-,1,1,13
+vNi7Y5F5,espana,local,11/13 (85%),Minkov N.Winger,-,-,5.5,-,-,-,27
+vNi7Y5F5,espana,local,6/14 (43%),Kolev A.Striker,14,-,5.3,-,-,-,34
+vNi7Y5F5,espana,local,2/2 (100%),Milanov G.Midfielder,-,-,-,-,-,-,2
+d4wyvbYr,espana,local,38/47 (81%),Mendes N.Fullback,12,0.04,8.1,4/5 (80%),1,5,80
+d4wyvbYr,espana,local,101/107 (94%),Zubimendi M.Midfielder,9,0.64,7.8,2/3 (67%),1,1,118
+d4wyvbYr,espana,local,58/65 (89%),Dias R.Centre back,10,-,7.2,1/1 (100%),-,-,77
+d4wyvbYr,espana,local,44/50 (88%),Lamine YamalWinger,17,0.10,7.2,1/2 (50%),4,2,81
+d4wyvbYr,espana,local,52/52 (100%),PedriMidfielder,3,0.38,7.2,1/1 (100%),2,2,65
+d4wyvbYr,espana,local,5/5 (100%),Pino Y.Forward,4,0.13,7.2,-,1,1,13
+d4wyvbYr,espana,local,12/16 (75%),Ronaldo C.Striker,5,0.40,7.1,-,1,1,22
+d4wyvbYr,espana,local,28/35 (80%),Costa D.Goalkeeper,-,-,7.0,-,-,-,44
+d4wyvbYr,espana,local,76/81 (94%),VitinhaMidfielder,6,-,7.0,1/1 (100%),-,-,88
+d4wyvbYr,espana,local,72/77 (94%),Cucurella M.Fullback,12,0.06,6.9,1/1 (100%),1,1,106
+d4wyvbYr,espana,local,20/23 (87%),Neto P.Winger,7,-,6.9,-,-,1,32
+d4wyvbYr,espana,local,29/30 (97%),Oyarzabal M.Striker,8,0.34,6.9,0/1 (0%),1,3,38
+d4wyvbYr,espana,local,26/30 (87%),Fernandes B.Midfielder,9,0.04,6.8,0/2 (0%),1,1,50
+d4wyvbYr,espana,local,27/33 (82%),Silva B.Midfielder,6,-,6.8,-,-,2,42
+d4wyvbYr,espana,local,1/1 (100%),Diogo JotaForward,3,0.18,6.7,1/2 (50%),1,1,4
+d4wyvbYr,espana,local,80/83 (96%),Le Normand R.Centre back,13,-,6.7,-,-,1,97
+d4wyvbYr,espana,local,10/16 (63%),Leao R.Forward,15,-,6.7,1/5 (20%),-,2,35
+d4wyvbYr,espana,local,28/30 (93%),Veiga R.Defender,1,-,6.7,-,-,2,35
+d4wyvbYr,espana,local,7/8 (88%),Conceicao F.Winger,6,-,6.5,0/1 (0%),-,-,17
+d4wyvbYr,espana,local,31/34 (91%),IscoMidfielder,3,0.03,6.5,-,1,1,41
+d4wyvbYr,espana,local,41/44 (93%),Neves R.Midfielder,3,0.03,6.5,-,1,-,50
+d4wyvbYr,espana,local,5/5 (100%),Ramos G.Forward,5,-,6.5,-,-,-,8
+d4wyvbYr,espana,local,101/112 (90%),Huijsen D.Centre back,3,-,6.4,-,-,-,123
+d4wyvbYr,espana,local,21/24 (88%),Merino M.Midfielder,6,-,6.4,-,-,1,27
+d4wyvbYr,espana,local,76/79 (96%),Ruiz F.Midfielder,2,0.03,6.4,-,1,-,83
+d4wyvbYr,espana,local,18/22 (82%),Semedo N.Defender,4,0.23,6.4,0/2 (0%),1,2,35
+d4wyvbYr,espana,local,35/39 (90%),Williams N.Winger,6,0.44,6.4,1/3 (33%),3,8,52
+d4wyvbYr,espana,local,15/18 (83%),Baena A.Forward,2,-,6.3,-,-,2,23
+d4wyvbYr,espana,local,30/36 (83%),Inacio G.Centre back,2,-,6.1,-,-,-,43
+d4wyvbYr,espana,local,10/12 (83%),Porro P.Defender,5,0.01,6.0,-,1,1,18
+d4wyvbYr,espana,local,56/58 (97%),Mingueza O.Fullback,3,-,5.9,-,-,1,67
+d4wyvbYr,espana,local,16/17 (94%),Neves J.Fullback,3,0.07,5.7,-,1,1,31
+d4wyvbYr,espana,local,25/28 (89%),Simon U.Goalkeeper,-,-,5.6,-,-,-,34
+d4wyvbYr,espana,local,2/4 (50%),Morata A.Forward,1,-,-,-,-,1,7
+dKFWcs0E,espana,local,24/29 (83%),Lamine YamalWinger,12,0.95,8.7,2/3 (67%),5,6,50
+dKFWcs0E,espana,local,18/19 (95%),Cherki R.Midfielder,4,0.04,8.6,0/1 (0%),1,1,27
+dKFWcs0E,espana,local,10/13 (77%),Williams N.Winger,4,0.51,8.3,-,5,6,23
+dKFWcs0E,espana,local,26/31 (84%),Merino M.Midfielder,24,0.52,8.2,1/1 (100%),3,4,56
+dKFWcs0E,espana,local,23/29 (79%),PedriMidfielder,3,0.64,7.9,-,1,1,39
+dKFWcs0E,espana,local,40/44 (91%),Mbappe K.Striker,7,1.25,7.7,3/5 (60%),5,7,59
+dKFWcs0E,espana,local,2/2 (100%),Kolo Muani R.Forward,4,0.67,7.5,-,2,2,8
+dKFWcs0E,espana,local,11/15 (73%),Oyarzabal M.Striker,7,0.20,7.5,0/1 (0%),1,2,20
+dKFWcs0E,espana,local,16/19 (84%),Gusto M.Defender,6,-,7.3,0/2 (0%),-,1,33
+dKFWcs0E,espana,local,27/38 (71%),Porro P.Fullback,8,-,7.3,0/1 (0%),-,1,64
+dKFWcs0E,espana,local,28/32 (88%),Dembele O.Winger,9,0.33,7.0,2/3 (67%),4,7,50
+dKFWcs0E,espana,local,21/27 (78%),Doue D.Winger,13,0.10,6.8,1/6 (17%),3,6,51
+dKFWcs0E,espana,local,26/30 (87%),Le Normand R.Centre back,3,-,6.8,-,-,-,35
+dKFWcs0E,espana,local,45/47 (96%),Kone M.Midfielder,14,-,6.7,4/5 (80%),-,-,65
+dKFWcs0E,espana,local,26/36 (72%),Simon U.Goalkeeper,-,-,6.7,-,-,-,47
+dKFWcs0E,espana,local,58/66 (88%),Huijsen D.Centre back,4,-,6.5,-,-,1,77
+dKFWcs0E,espana,local,29/31 (94%),Olise M.Attacking midfielder,4,0.05,6.5,0/2 (0%),1,2,41
+dKFWcs0E,espana,local,29/39 (74%),Cucurella M.Fullback,9,-,6.4,-,-,-,57
+dKFWcs0E,espana,local,36/37 (97%),Zubimendi M.Midfielder,6,-,6.4,-,-,1,44
+dKFWcs0E,espana,local,44/49 (90%),Rabiot A.Midfielder,7,0.05,6.3,-,2,1,60
+dKFWcs0E,espana,local,15/16 (94%),Ruiz F.Midfielder,5,-,6.3,0/1 (0%),-,-,20
+dKFWcs0E,espana,local,10/12 (83%),Barcola B.Forward,-,0.13,6.2,-,2,7,17
+dKFWcs0E,espana,local,15/18 (83%),Hernandez L.Defender,2,-,6.2,-,-,1,18
+dKFWcs0E,espana,local,48/51 (94%),Konate I.Centre back,8,0.05,6.2,-,1,1,66
+dKFWcs0E,espana,local,39/43 (91%),Hernandez T.Fullback,4,0.09,6.0,-,3,5,57
+dKFWcs0E,espana,local,8/9 (89%),Olmo D.Midfielder,2,-,6.0,-,-,-,10
+dKFWcs0E,espana,local,47/48 (98%),Lenglet C.Centre back,8,-,5.8,-,-,-,57
+dKFWcs0E,espana,local,26/31 (84%),Kalulu P.Fullback,2,-,5.6,-,-,1,46
+dKFWcs0E,espana,local,25/30 (83%),Maignan M.Goalkeeper,-,-,5.5,-,-,-,40
+dKFWcs0E,espana,local,4/5 (80%),SamuForward,4,0.10,5.5,-,1,1,7
+dKFWcs0E,espana,local,-,Vivian D.Defender,1,-,5.2,-,-,-,2
+dKFWcs0E,espana,local,-,GaviMidfielder,-,-,-,-,-,-,-

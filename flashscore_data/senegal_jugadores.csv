@@ -1,0 +1,396 @@
+match_id,seleccion,equipo,accurate_passesaccurate_passes,all,duelsduels,expected_goals_xgexpected_goals_xg,ratingrating,successful_dribblessuccessful_dribbles,total_shotstotal_shots,touches_in_opposition_boxtouches_in_opposition_box,touchestouches
+l0r76kyJ,senegal,local,41/46 (89%),Mendy E.Goalkeeper,1,-,7.9,-,-,-,55
+l0r76kyJ,senegal,local,11/24 (46%),Al Owais M.Goalkeeper,-,-,7.9,-,-,-,34
+l0r76kyJ,senegal,local,8/8 (100%),Al Dawsari S.Winger,5,-,7.7,-,-,2,14
+l0r76kyJ,senegal,local,42/47 (89%),Diatta K.Fullback,6,0.10,7.0,0/1 (0%),1,1,63
+l0r76kyJ,senegal,local,19/22 (86%),Abdulhamid S.Fullback,7,0.04,6.8,1/1 (100%),1,1,37
+l0r76kyJ,senegal,local,80/86 (93%),Niakhate M.Centre back,3,-,6.8,-,-,-,92
+l0r76kyJ,senegal,local,32/38 (84%),Camara L.Midfielder,7,0.03,6.7,0/1 (0%),1,1,48
+l0r76kyJ,senegal,local,17/22 (77%),Jakobs I.Defender,4,-,6.7,-,-,-,32
+l0r76kyJ,senegal,local,17/19 (89%),Yahya A.Forward,8,0.02,6.7,0/3 (0%),1,-,28
+l0r76kyJ,senegal,local,8/8 (100%),Al Ghannam K.Forward,4,-,6.6,-,-,-,13
+l0r76kyJ,senegal,local,11/14 (79%),Al Hamdan A.Forward,4,0.04,6.6,1/1 (100%),1,1,20
+l0r76kyJ,senegal,local,11/15 (73%),Hejji A.Midfielder,6,-,6.6,1/1 (100%),-,-,21
+l0r76kyJ,senegal,local,19/20 (95%),Diarra H.Attacking midfielder,6,-,6.5,0/2 (0%),-,1,31
+l0r76kyJ,senegal,local,23/27 (85%),Kanno M.Midfielder,2,-,6.5,0/1 (0%),-,1,30
+l0r76kyJ,senegal,local,19/21 (90%),Lajami A.Defender,3,-,6.5,-,-,-,27
+l0r76kyJ,senegal,local,17/17 (100%),Sarr P. M.Midfielder,5,-,6.5,1/2 (50%),-,-,23
+l0r76kyJ,senegal,local,14/17 (82%),Thakri J.Defender,2,-,6.5,0/1 (0%),-,-,21
+l0r76kyJ,senegal,local,13/16 (81%),Al Amri A.Centre back,2,-,6.4,-,-,-,21
+l0r76kyJ,senegal,local,24/30 (80%),Al Juwayr M.Striker,9,0.16,6.4,-,3,2,40
+l0r76kyJ,senegal,local,43/50 (86%),Ciss P.Midfielder,9,-,6.4,1/1 (100%),-,-,60
+l0r76kyJ,senegal,local,19/22 (86%),Diouf M.Fullback,9,0.03,6.4,1/2 (50%),1,3,39
+l0r76kyJ,senegal,local,16/19 (84%),Al Dawsari N.Midfielder,4,0.14,6.3,-,1,1,24
+l0r76kyJ,senegal,local,3/4 (75%),Sarr I.Forward,3,0.04,6.3,-,1,1,8
+l0r76kyJ,senegal,local,68/74 (92%),Sarr M.Centre back,3,0.02,6.3,-,1,1,82
+l0r76kyJ,senegal,local,19/22 (86%),Tambakti H.Centre back,2,-,6.3,-,-,-,28
+l0r76kyJ,senegal,local,8/9 (89%),Kadesh H.Defender,1,-,6.2,-,-,-,12
+l0r76kyJ,senegal,local,10/12 (83%),Mandash S.Forward,4,-,6.2,-,-,-,20
+l0r76kyJ,senegal,local,8/10 (80%),Al Buraikan F.Striker,5,0.20,6.1,-,1,1,18
+l0r76kyJ,senegal,local,10/14 (71%),Boushal N.Defender,7,-,6.1,-,-,-,25
+l0r76kyJ,senegal,local,19/21 (90%),Abu Al Shamat M.Winger,7,0.53,6.0,1/1 (100%),1,1,30
+l0r76kyJ,senegal,local,18/23 (78%),Al Harbi M.Fullback,-,-,6.0,-,-,-,24
+l0r76kyJ,senegal,local,32/39 (82%),Mane S.Winger,3,0.05,6.0,0/1 (0%),1,1,47
+l0r76kyJ,senegal,local,5/9 (56%),Ndiaye C.Striker,3,0.14,6.0,0/1 (0%),1,1,17
+l0r76kyJ,senegal,local,19/22 (86%),Al Khaibari A.Midfielder,1,-,5.9,-,-,-,24
+l0r76kyJ,senegal,local,21/23 (91%),Ndiaye I.Winger,7,-,5.6,1/3 (33%),-,1,35
+l0r76kyJ,senegal,local,1/1 (100%),Jackson N.Forward,6,-,5.0,-,-,-,7
+l0r76kyJ,senegal,local,3/3 (100%),Dieng B.Forward,2,-,-,-,-,1,4
+l0r76kyJ,senegal,local,9/9 (100%),Gueye I.Midfielder,-,-,-,-,-,-,10
+l0r76kyJ,senegal,local,8/9 (89%),Koulibaly K.Defender,-,-,-,-,-,-,10
+l0r76kyJ,senegal,local,4/8 (50%),Mbaye I.Forward,3,-,-,1/1 (100%),-,1,12
+l0r76kyJ,senegal,local,3/3 (100%),Mendy A.Defender,3,-,-,1/3 (33%),-,1,10
+OCQLSMLE,senegal,local,15/18 (83%),Mane S.Winger,13,0.91,8.6,2/6 (33%),2,7,37
+OCQLSMLE,senegal,local,10/12 (83%),Pulisic C.Attacking midfielder,9,0.20,8.4,1/4 (25%),2,8,23
+OCQLSMLE,senegal,local,3/6 (50%),Balogun F.Forward,2,0.98,8.1,-,4,6,14
+OCQLSMLE,senegal,local,17/20 (85%),Dest S.Wingback,3,0.57,7.9,3/3 (100%),1,4,28
+OCQLSMLE,senegal,local,8/11 (73%),Pepi R.Striker,4,0.18,7.5,1/1 (100%),2,3,17
+OCQLSMLE,senegal,local,12/15 (80%),Tillman M.Midfielder,6,-,7.5,1/1 (100%),-,1,25
+OCQLSMLE,senegal,local,12/17 (71%),Robinson A.Wingback,9,0.21,7.1,0/1 (0%),1,1,36
+OCQLSMLE,senegal,local,11/14 (79%),Diarra H.Attacking midfielder,8,-,7.0,0/1 (0%),-,1,24
+OCQLSMLE,senegal,local,22/27 (81%),Reyna G.Attacking midfielder,5,-,7.0,-,-,1,29
+OCQLSMLE,senegal,local,27/28 (96%),Freeman A.Centre back,5,0.02,6.9,0/1 (0%),1,-,39
+OCQLSMLE,senegal,local,12/12 (100%),Arfsten M.Forward,6,-,6.8,3/5 (60%),-,1,28
+OCQLSMLE,senegal,local,26/29 (90%),Gueye P.Midfielder,2,0.11,6.7,-,2,1,35
+OCQLSMLE,senegal,local,14/21 (67%),Ndiaye I.Winger,13,0.04,6.7,2/3 (67%),1,2,37
+OCQLSMLE,senegal,local,10/13 (77%),Scally J.Defender,5,-,6.7,-,-,-,21
+OCQLSMLE,senegal,local,18/22 (82%),Trusty A.Defender,2,-,6.7,-,-,1,28
+OCQLSMLE,senegal,local,20/26 (77%),Diouf M.Defender,5,-,6.6,0/1 (0%),-,-,41
+OCQLSMLE,senegal,local,10/13 (77%),McKennie W.Midfielder,6,0.17,6.6,-,1,1,20
+OCQLSMLE,senegal,local,28/33 (85%),Ream T.Centre back,5,-,6.6,2/2 (100%),-,-,38
+OCQLSMLE,senegal,local,8/12 (67%),Turner M.Goalkeeper,1,-,6.6,-,-,-,19
+OCQLSMLE,senegal,local,6/7 (86%),Zendejas A.Midfielder,5,0.08,6.6,-,1,1,15
+OCQLSMLE,senegal,local,30/32 (94%),Adams T.Midfielder,2,-,6.5,-,-,-,35
+OCQLSMLE,senegal,local,27/29 (93%),McKenzie M.Centre back,3,-,6.5,1/1 (100%),-,-,32
+OCQLSMLE,senegal,local,8/9 (89%),Roldan C.Midfielder,3,0.13,6.5,1/2 (50%),1,2,17
+OCQLSMLE,senegal,local,10/15 (67%),Weah T.Midfielder,6,0.07,6.5,-,1,1,23
+OCQLSMLE,senegal,local,4/12 (33%),Brady C.Goalkeeper,-,-,6.4,-,-,-,13
+OCQLSMLE,senegal,local,23/25 (92%),Niakhate M.Defender,4,-,6.4,1/1 (100%),-,-,33
+OCQLSMLE,senegal,local,12/13 (92%),Sarr P. M.Midfielder,-,-,6.4,-,-,-,15
+OCQLSMLE,senegal,local,6/8 (75%),Diao A.Forward,7,-,6.3,1/1 (100%),-,2,16
+OCQLSMLE,senegal,local,5/6 (83%),Dieng B.Forward,1,-,6.3,-,-,1,8
+OCQLSMLE,senegal,local,20/22 (91%),Camara L.Midfielder,5,-,6.2,1/2 (50%),-,-,34
+OCQLSMLE,senegal,local,30/39 (77%),Diaw M.Goalkeeper,1,-,6.2,-,-,-,47
+OCQLSMLE,senegal,local,12/18 (67%),Jackson N.Striker,7,0.58,6.2,0/2 (0%),1,4,27
+OCQLSMLE,senegal,local,5/5 (100%),Ndiaye C.Forward,5,-,6.2,-,-,1,7
+OCQLSMLE,senegal,local,13/16 (81%),Robinson M.Defender,4,-,6.2,-,-,-,23
+OCQLSMLE,senegal,local,20/21 (95%),Seck A.Centre back,1,-,6.2,-,-,-,27
+OCQLSMLE,senegal,local,20/24 (83%),Berhalter S.Midfielder,12,0.04,6.0,-,2,1,38
+OCQLSMLE,senegal,local,39/45 (87%),Diatta K.Fullback,9,-,6.0,-,-,1,67
+OCQLSMLE,senegal,local,12/13 (92%),Jakobs I.Fullback,5,-,6.0,0/1 (0%),-,-,25
+OCQLSMLE,senegal,local,42/48 (88%),Sarr M.Centre back,4,-,6.0,-,-,-,55
+OCQLSMLE,senegal,local,23/27 (85%),Mbow M.Defender,4,-,5.5,0/1 (0%),-,-,37
+OCQLSMLE,senegal,local,32/33 (97%),Sapoko Ndiaye B.Midfielder,9,0.02,5.5,0/2 (0%),1,1,48
+0KhPZfnQ,senegal,local,36/43 (84%),Mazraoui N.Fullback,14,-,8.0,-,-,-,66
+0KhPZfnQ,senegal,local,32/44 (73%),Ezzalzouli A.Winger,17,0.22,7.8,2/6 (33%),3,9,77
+0KhPZfnQ,senegal,local,51/62 (82%),Aguerd N.Centre back,20,0.20,7.7,-,2,3,85
+0KhPZfnQ,senegal,local,17/25 (68%),BonoGoalkeeper,-,-,7.7,-,-,-,33
+0KhPZfnQ,senegal,local,36/45 (80%),Hakimi A.Fullback,18,0.04,7.7,1/2 (50%),1,1,96
+0KhPZfnQ,senegal,local,31/42 (74%),Gueye P.Midfielder,12,0.37,7.6,0/1 (0%),5,4,57
+0KhPZfnQ,senegal,local,24/37 (65%),Mendy E.Goalkeeper,2,-,7.6,-,-,-,47
+0KhPZfnQ,senegal,local,24/28 (86%),El Khannouss B.Midfielder,8,-,7.2,-,-,-,35
+0KhPZfnQ,senegal,local,47/54 (87%),Gueye I.Midfielder,8,0.01,7.2,-,1,-,65
+0KhPZfnQ,senegal,local,7/10 (70%),Seck A.Defender,9,-,7.0,-,-,-,20
+0KhPZfnQ,senegal,local,33/39 (85%),Masina A.Centre back,7,-,6.9,0/1 (0%),-,2,50
+0KhPZfnQ,senegal,local,90/96 (94%),Niakhate M.Centre back,6,-,6.9,-,-,-,104
+0KhPZfnQ,senegal,local,9/15 (60%),Sarr I.Forward,7,0.02,6.9,1/4 (25%),1,3,32
+0KhPZfnQ,senegal,local,22/27 (81%),Targhalline O.Midfielder,6,-,6.8,-,-,-,36
+0KhPZfnQ,senegal,local,17/21 (81%),Saibari I.Midfielder,5,0.14,6.7,0/2 (0%),3,4,34
+0KhPZfnQ,senegal,local,17/20 (85%),Diaz B.Winger,6,0.88,6.6,0/2 (0%),2,3,29
+0KhPZfnQ,senegal,local,4/8 (50%),Mbaye I.Forward,6,0.11,6.6,2/5 (40%),2,3,19
+0KhPZfnQ,senegal,local,67/71 (94%),Sarr M.Centre back,6,0.04,6.6,-,1,1,86
+0KhPZfnQ,senegal,local,47/50 (94%),El Aynaoui N.Midfielder,20,0.17,6.5,-,3,2,70
+0KhPZfnQ,senegal,local,17/23 (74%),Mane S.Winger,31,-,6.5,4/7 (57%),-,5,62
+0KhPZfnQ,senegal,local,3/4 (75%),El Kaabi A.Striker,4,0.24,6.4,-,3,3,16
+0KhPZfnQ,senegal,local,12/15 (80%),Jackson N.Striker,14,-,6.4,1/3 (33%),-,2,26
+0KhPZfnQ,senegal,local,18/27 (67%),Mendy A.Fullback,5,-,6.3,1/2 (50%),-,-,44
+0KhPZfnQ,senegal,local,17/26 (65%),Diouf M.Fullback,10,-,6.2,1/1 (100%),-,-,58
+0KhPZfnQ,senegal,local,10/10 (100%),Ndiaye I.Winger,12,0.29,6.2,3/6 (50%),1,1,27
+0KhPZfnQ,senegal,local,26/31 (84%),Camara L.Midfielder,8,0.05,5.8,-,1,-,46
+0KhPZfnQ,senegal,local,1/5 (20%),En Nesyri Y.Forward,8,0.07,4.9,0/1 (0%),1,1,10
+0KhPZfnQ,senegal,local,10/11 (91%),Akhomach I.Forward,7,0.04,-,2/5 (40%),1,1,21
+0KhPZfnQ,senegal,local,13/20 (65%),El Yamiq J.Defender,7,0.17,-,-,2,2,29
+0KhPZfnQ,senegal,local,0/1 (0%),Igamane H.Forward,1,-,-,-,-,-,2
+0KhPZfnQ,senegal,local,3/6 (50%),Jakobs I.Defender,3,-,-,-,-,-,8
+0KhPZfnQ,senegal,local,4/7 (57%),Ndiaye C.Forward,18,0.83,-,0/1 (0%),2,2,19
+0KhPZfnQ,senegal,local,15/18 (83%),Salah-Eddine A.Defender,9,-,-,-,-,-,35
+pEDFPKdt,senegal,local,35/41 (85%),Mane S.Winger,22,0.05,7.8,2/11 (18%),1,3,80
+pEDFPKdt,senegal,local,71/84 (85%),Diatta K.Fullback,7,0.01,7.5,1/1 (100%),1,-,104
+pEDFPKdt,senegal,local,53/60 (88%),Gueye I.Midfielder,9,-,7.1,-,-,-,68
+pEDFPKdt,senegal,local,66/69 (96%),Niakhate M.Centre back,4,-,7.1,-,-,-,74
+pEDFPKdt,senegal,local,27/38 (71%),Abdelmaguid H.Centre back,8,-,7.0,2/2 (100%),-,1,58
+pEDFPKdt,senegal,local,33/40 (83%),Diouf M.Fullback,9,-,7.0,0/2 (0%),-,-,74
+pEDFPKdt,senegal,local,19/27 (70%),Ibrahim Y.Centre back,13,-,7.0,-,-,-,49
+pEDFPKdt,senegal,local,42/45 (93%),Gueye P.Midfielder,7,0.14,6.9,0/2 (0%),3,3,65
+pEDFPKdt,senegal,local,24/25 (96%),Camara L.Midfielder,4,0.05,6.8,-,3,1,38
+pEDFPKdt,senegal,local,57/57 (100%),Sarr M.Defender,3,-,6.7,-,-,-,61
+pEDFPKdt,senegal,local,20/29 (69%),Mendy E.Goalkeeper,-,-,6.6,-,-,-,31
+pEDFPKdt,senegal,local,30/30 (100%),Ndiaye I.Winger,8,0.03,6.6,3/4 (75%),1,3,50
+pEDFPKdt,senegal,local,29/40 (73%),Attia M.Midfielder,5,-,6.5,-,-,-,46
+pEDFPKdt,senegal,local,14/22 (64%),El Shenawy M.Goalkeeper,-,-,6.5,-,-,-,37
+pEDFPKdt,senegal,local,19/25 (76%),Fathy H.Midfielder,9,-,6.5,0/1 (0%),-,1,36
+pEDFPKdt,senegal,local,8/9 (89%),Fatouh A.Wingback,1,-,6.5,-,-,-,12
+pEDFPKdt,senegal,local,15/22 (68%),Jackson N.Striker,7,0.02,6.5,0/3 (0%),1,5,33
+pEDFPKdt,senegal,local,15/20 (75%),Diarra H.Midfielder,7,0.03,6.4,0/1 (0%),2,-,27
+pEDFPKdt,senegal,local,9/16 (56%),Marmoush O.Striker,12,0.04,6.3,1/3 (33%),1,1,30
+pEDFPKdt,senegal,local,17/22 (77%),Ashour E.Attacking midfielder,10,-,6.1,1/1 (100%),-,-,39
+pEDFPKdt,senegal,local,16/29 (55%),Hany M.Wingback,7,-,6.1,0/1 (0%),-,-,60
+pEDFPKdt,senegal,local,23/32 (72%),Rabia R.Centre back,7,-,6.1,-,-,-,41
+pEDFPKdt,senegal,local,16/21 (76%),TrezeguetMidfielder,3,-,6.1,0/1 (0%),-,-,27
+pEDFPKdt,senegal,local,4/6 (67%),Koulibaly K.Centre back,1,-,5.9,-,-,-,9
+pEDFPKdt,senegal,local,10/13 (77%),Salah M.Striker,16,-,5.9,0/3 (0%),-,-,31
+pEDFPKdt,senegal,local,-,Ciss P.Midfielder,3,-,-,-,-,-,2
+pEDFPKdt,senegal,local,1/1 (100%),Mohsen S.Forward,-,-,-,0/1 (0%),-,1,3
+pEDFPKdt,senegal,local,1/3 (33%),Mostafa MohamedForward,4,0.06,-,-,1,4,5
+pEDFPKdt,senegal,local,3/5 (60%),Ndiaye C.Forward,5,-,-,0/1 (0%),-,-,9
+pEDFPKdt,senegal,local,0/1 (0%),Sarr I.Forward,1,-,-,-,-,-,1
+pEDFPKdt,senegal,local,6/7 (86%),ZizoForward,2,0.02,-,-,1,1,12
+0bPxomE8,senegal,local,50/53 (94%),Diatta K.Fullback,6,-,8.1,1/2 (50%),-,1,83
+0bPxomE8,senegal,local,43/48 (90%),Koulibaly K.Centre back,9,-,7.6,-,-,-,63
+0bPxomE8,senegal,local,31/33 (94%),Ndiaye I.Winger,5,0.85,7.6,1/2 (50%),2,2,41
+0bPxomE8,senegal,local,61/67 (91%),Gueye I.Midfielder,10,0.03,7.4,0/1 (0%),1,-,78
+0bPxomE8,senegal,local,27/36 (75%),Mane S.Winger,5,0.11,7.3,0/1 (0%),3,5,53
+0bPxomE8,senegal,local,15/17 (88%),Camara L.Midfielder,4,0.07,7.2,-,2,-,26
+0bPxomE8,senegal,local,21/28 (75%),Gueye P.Midfielder,11,0.26,7.2,-,4,1,40
+0bPxomE8,senegal,local,26/29 (90%),Mendy E.Goalkeeper,-,-,7.2,-,-,-,34
+0bPxomE8,senegal,local,66/68 (97%),Niakhate M.Centre back,3,-,7.2,-,-,-,78
+0bPxomE8,senegal,local,39/43 (91%),Diouf M.Fullback,5,0.02,7.1,-,1,1,64
+0bPxomE8,senegal,local,17/26 (65%),Gassama N.Fullback,6,-,7.1,1/2 (50%),-,-,45
+0bPxomE8,senegal,local,24/27 (89%),Camara O.Centre back,3,-,6.9,-,-,-,39
+0bPxomE8,senegal,local,5/23 (22%),Diarra D.Goalkeeper,-,-,6.9,-,-,-,38
+0bPxomE8,senegal,local,21/24 (88%),Traore H.Fullback,8,0.02,6.8,-,1,1,55
+0bPxomE8,senegal,local,23/28 (82%),Ciss P.Midfielder,2,0.42,6.7,-,2,1,34
+0bPxomE8,senegal,local,7/13 (54%),Diallo H.Striker,5,0.06,6.5,-,2,5,19
+0bPxomE8,senegal,local,20/26 (77%),Diarra H.Midfielder,7,0.03,6.5,1/1 (100%),1,2,37
+0bPxomE8,senegal,local,13/23 (57%),Sangare M.Attacking midfielder,10,0.03,6.5,1/2 (50%),1,2,42
+0bPxomE8,senegal,local,20/25 (80%),Diaby A.Centre back,7,0.26,6.4,-,1,1,38
+0bPxomE8,senegal,local,7/11 (64%),Nene D.Midfielder,4,-,6.4,0/2 (0%),-,-,18
+0bPxomE8,senegal,local,4/7 (57%),Diakite G.Midfielder,4,0.02,6.3,1/1 (100%),1,-,13
+0bPxomE8,senegal,local,29/29 (100%),Dieng A.Midfielder,2,-,6.2,-,-,-,32
+0bPxomE8,senegal,local,8/10 (80%),Sinayoko L.Striker,10,0.04,6.2,1/2 (50%),2,4,27
+0bPxomE8,senegal,local,6/6 (100%),Mbaye I.Forward,8,0.03,6.0,0/3 (0%),1,2,14
+0bPxomE8,senegal,local,2/5 (40%),Ndiaye C.Forward,2,-,6.0,-,-,2,7
+0bPxomE8,senegal,local,13/17 (76%),Haidara A.Winger,5,-,5.9,-,-,-,23
+0bPxomE8,senegal,local,10/15 (67%),Coulibaly L.Winger,9,0.74,5.6,0/1 (0%),1,2,25
+0bPxomE8,senegal,local,12/16 (75%),Bissouma Y.Midfielder,4,-,4.1,-,-,-,23
+0bPxomE8,senegal,local,6/7 (86%),Doumbia K.Midfielder,5,-,-,-,-,-,14
+0bPxomE8,senegal,local,6/7 (86%),Doumbia M.Midfielder,2,0.02,-,0/1 (0%),1,-,12
+0bPxomE8,senegal,local,2/3 (67%),Toure E. B.Forward,3,-,-,-,-,1,7
+UoNS6WpC,senegal,local,29/37 (78%),Gueye P.Midfielder,10,0.27,8.2,-,4,3,53
+UoNS6WpC,senegal,local,28/36 (78%),Mane S.Winger,11,0.09,8.2,2/4 (50%),1,8,58
+UoNS6WpC,senegal,local,18/21 (86%),Sarr I.Winger,9,0.05,7.7,2/5 (40%),2,9,38
+UoNS6WpC,senegal,local,15/21 (71%),Diouf M.Defender,7,-,7.5,0/1 (0%),-,1,33
+UoNS6WpC,senegal,local,19/23 (83%),Jakobs I.Fullback,7,-,7.3,-,-,-,42
+UoNS6WpC,senegal,local,33/37 (89%),Diatta K.Fullback,5,0.02,7.2,-,1,2,58
+UoNS6WpC,senegal,local,56/64 (88%),Gueye I.Midfielder,9,-,7.2,-,-,-,75
+UoNS6WpC,senegal,local,5/7 (71%),Mbaye I.Forward,2,0.44,7.2,-,2,2,12
+UoNS6WpC,senegal,local,8/11 (73%),Abdallah A.Winger,11,0.13,7.0,0/3 (0%),3,6,34
+UoNS6WpC,senegal,local,8/9 (89%),Camara L.Midfielder,3,-,7.0,-,-,-,13
+UoNS6WpC,senegal,local,17/20 (85%),Khidir W.Attacking midfielder,9,-,6.9,1/2 (50%),-,1,26
+UoNS6WpC,senegal,local,67/72 (93%),Niakhate M.Centre back,8,-,6.9,-,-,-,81
+UoNS6WpC,senegal,local,-,Elneel M.Goalkeeper,-,-,6.8,-,-,-,-
+UoNS6WpC,senegal,local,26/36 (72%),Mendy E.Goalkeeper,-,-,6.8,-,-,-,41
+UoNS6WpC,senegal,local,52/63 (83%),Seck A.Centre back,8,0.01,6.8,-,1,3,70
+UoNS6WpC,senegal,local,5/7 (71%),Dia B.Forward,7,0.05,6.7,-,1,1,10
+UoNS6WpC,senegal,local,33/37 (89%),Diarra H.Midfielder,6,0.03,6.6,0/1 (0%),1,1,44
+UoNS6WpC,senegal,local,12/15 (80%),Abuaagla M.Midfielder,13,-,6.5,-,-,-,29
+UoNS6WpC,senegal,local,7/8 (88%),Eisa M.Striker,13,0.02,6.5,2/3 (67%),1,1,28
+UoNS6WpC,senegal,local,10/14 (71%),Karshom M.Centre back,4,-,6.5,-,-,-,24
+UoNS6WpC,senegal,local,13/19 (68%),Khamis B.Fullback,6,-,6.4,-,-,-,39
+UoNS6WpC,senegal,local,25/33 (76%),Saeed Ahmed M.Centre back,12,0.04,6.4,-,1,1,51
+UoNS6WpC,senegal,local,5/12 (42%),Abdelrahman M.Winger,4,-,6.3,-,-,1,15
+UoNS6WpC,senegal,local,1/1 (100%),Mano J.Forward,-,-,6.3,-,-,-,2
+UoNS6WpC,senegal,local,7/7 (100%),Omer A.Midfielder,-,0.02,6.2,-,1,-,8
+UoNS6WpC,senegal,local,8/8 (100%),Abaker A.Defender,1,-,6.1,-,-,-,10
+UoNS6WpC,senegal,local,12/15 (80%),Jackson N.Striker,12,0.53,6.1,-,1,2,20
+UoNS6WpC,senegal,local,19/26 (73%),Taifour A.Midfielder,8,0.03,6.1,1/1 (100%),1,-,36
+UoNS6WpC,senegal,local,5/6 (83%),Adil S.Midfielder,8,-,6.0,-,-,1,9
+UoNS6WpC,senegal,local,1/3 (33%),Nooh A. G.Midfielder,3,-,5.8,1/1 (100%),-,1,6
+UoNS6WpC,senegal,local,16/23 (70%),Barglan S.Fullback,11,0.25,5.6,1/2 (50%),2,1,47
+UoNS6WpC,senegal,local,4/4 (100%),Ciss P.Midfielder,-,-,-,-,-,-,4
+AJw92Tye,senegal,local,43/45 (96%),Seck A.Centre back,10,0.15,8.0,-,3,3,59
+AJw92Tye,senegal,local,39/44 (89%),Diatta K.Fullback,10,-,8.0,-,-,-,74
+AJw92Tye,senegal,local,22/24 (92%),Mendy E.Goalkeeper,1,-,7.8,-,-,-,37
+AJw92Tye,senegal,local,33/40 (83%),Diouf M.Fullback,7,-,7.4,-,-,-,57
+AJw92Tye,senegal,local,13/15 (87%),Diarra H.Midfielder,4,0.06,7.3,1/1 (100%),1,-,24
+AJw92Tye,senegal,local,56/63 (89%),Gueye I.Midfielder,8,0.02,7.3,-,1,-,72
+AJw92Tye,senegal,local,15/18 (83%),Mbaye I.Forward,7,-,7.3,1/2 (50%),-,3,26
+AJw92Tye,senegal,local,21/31 (68%),Mane S.Winger,10,-,7.2,3/4 (75%),-,3,49
+AJw92Tye,senegal,local,16/18 (89%),Camara L.Midfielder,7,0.02,7.1,-,1,-,28
+AJw92Tye,senegal,local,5/9 (56%),Diallo H.Striker,5,0.60,6.8,-,2,4,16
+AJw92Tye,senegal,local,6/9 (67%),Ndiaye I.Winger,13,-,6.7,2/4 (50%),-,1,26
+AJw92Tye,senegal,local,28/34 (82%),Sarr P. M.Midfielder,6,-,6.6,0/1 (0%),-,-,42
+AJw92Tye,senegal,local,12/12 (100%),Dodo D.Attacking midfielder,9,0.20,6.5,-,1,1,23
+AJw92Tye,senegal,local,16/22 (73%),Olaitan J.Winger,13,0.08,6.5,2/4 (50%),1,-,46
+AJw92Tye,senegal,local,47/54 (87%),Koulibaly K.Centre back,11,-,6.3,1/1 (100%),-,-,64
+AJw92Tye,senegal,local,14/19 (74%),Mounie S.Striker,16,0.12,6.2,0/1 (0%),1,3,27
+AJw92Tye,senegal,local,47/50 (94%),Imourane H.Midfielder,10,-,6.1,0/1 (0%),-,-,58
+AJw92Tye,senegal,local,27/32 (84%),Roche Y.Fullback,13,-,6.1,1/2 (50%),-,-,54
+AJw92Tye,senegal,local,2/4 (50%),Sarr M.Defender,1,-,6.1,-,-,-,6
+AJw92Tye,senegal,local,24/35 (69%),Dandjinou M.Goalkeeper,-,-,6.0,-,-,-,43
+AJw92Tye,senegal,local,19/23 (83%),Ouorou T.Fullback,4,-,6.0,-,-,1,44
+AJw92Tye,senegal,local,42/51 (82%),Samadou A.Midfielder,11,-,6.0,-,-,-,56
+AJw92Tye,senegal,local,45/55 (82%),Tijani M.Centre back,5,0.09,6.0,-,2,4,67
+AJw92Tye,senegal,local,8/10 (80%),Tosin A.Winger,7,0.03,6.0,-,1,1,20
+AJw92Tye,senegal,local,54/67 (81%),Verdon O.Centre back,4,-,5.8,-,-,-,70
+AJw92Tye,senegal,local,5/7 (71%),Aloko R.Midfielder,6,0.25,5.6,0/1 (0%),1,2,15
+AJw92Tye,senegal,local,3/3 (100%),Ahoudo G.Midfielder,3,-,-,-,-,-,5
+AJw92Tye,senegal,local,3/3 (100%),Amoussou R.Midfielder,1,-,-,-,-,-,11
+AJw92Tye,senegal,local,3/3 (100%),Ciss P.Midfielder,2,-,-,-,-,-,7
+AJw92Tye,senegal,local,9/9 (100%),Moumini A.Defender,1,-,-,-,-,-,11
+AJw92Tye,senegal,local,2/3 (67%),Ndiaye C.Forward,1,1.10,-,-,2,3,7
+KYWyABqL,senegal,local,29/41 (71%),Mane S.Winger,11,0.71,7.6,1/3 (33%),2,8,68
+KYWyABqL,senegal,local,18/22 (82%),Mbemba Ch.Centre back,11,0.06,7.3,0/1 (0%),1,1,39
+KYWyABqL,senegal,local,27/38 (71%),Tuanzebe A.Centre back,8,-,7.2,0/2 (0%),-,-,59
+KYWyABqL,senegal,local,7/9 (78%),Bongonda T.Winger,7,0.45,7.0,-,2,2,20
+KYWyABqL,senegal,local,20/22 (91%),Mukau N.Midfielder,4,-,7.0,1/1 (100%),-,-,31
+KYWyABqL,senegal,local,2/5 (40%),Bakambu C.Striker,9,0.39,6.9,-,1,1,14
+KYWyABqL,senegal,local,36/41 (88%),Diatta K.Fullback,5,-,6.9,-,-,-,70
+KYWyABqL,senegal,local,64/69 (93%),Gueye I.Midfielder,10,-,6.9,-,-,-,79
+KYWyABqL,senegal,local,64/75 (85%),Koulibaly K.Centre back,10,-,6.9,-,-,1,85
+KYWyABqL,senegal,local,43/49 (88%),Jakobs I.Fullback,4,-,6.8,-,-,1,70
+KYWyABqL,senegal,local,9/13 (69%),Kayembe J.Defender,5,-,6.8,0/1 (0%),-,-,25
+KYWyABqL,senegal,local,73/80 (91%),Niakhate M.Centre back,3,-,6.8,-,-,-,83
+KYWyABqL,senegal,local,13/14 (93%),Wan-Bissaka A.Fullback,2,-,6.8,0/1 (0%),-,1,29
+KYWyABqL,senegal,local,38/43 (88%),Gueye P.Midfielder,9,0.08,6.7,1/1 (100%),2,2,54
+KYWyABqL,senegal,local,24/26 (92%),Mendy E.Goalkeeper,-,-,6.7,-,-,-,32
+KYWyABqL,senegal,local,19/31 (61%),Mpasi-Nzau L.Goalkeeper,1,-,6.7,-,-,-,39
+KYWyABqL,senegal,local,15/18 (83%),Jackson N.Striker,14,0.19,6.6,3/4 (75%),3,7,38
+KYWyABqL,senegal,local,30/35 (86%),Masuaku A.Fullback,7,-,6.6,-,-,-,54
+KYWyABqL,senegal,local,32/41 (78%),Moutoussamy S.Midfielder,9,-,6.6,1/1 (100%),-,-,51
+KYWyABqL,senegal,local,25/29 (86%),Ndiaye I.Midfielder,6,-,6.6,0/2 (0%),-,2,39
+KYWyABqL,senegal,local,13/15 (87%),Elia M.Winger,9,-,6.5,2/4 (50%),-,1,32
+KYWyABqL,senegal,local,3/4 (75%),Mayele F.Forward,7,0.06,6.5,1/1 (100%),1,1,9
+KYWyABqL,senegal,local,15/19 (79%),Sadiki N.Midfielder,10,0.06,6.5,0/2 (0%),1,2,32
+KYWyABqL,senegal,local,12/15 (80%),Mbaye I.Forward,11,0.37,6.4,3/8 (38%),1,2,28
+KYWyABqL,senegal,local,9/11 (82%),Sarr I.Winger,6,0.88,6.4,1/4 (25%),3,4,24
+KYWyABqL,senegal,local,3/4 (75%),Kayembe E.Midfielder,-,-,6.3,-,-,-,9
+KYWyABqL,senegal,local,4/6 (67%),Mbuku N.Forward,5,0.05,6.0,-,1,-,13
+KYWyABqL,senegal,local,3/3 (100%),Balikwisha M.Forward,2,-,-,-,-,1,8
+KYWyABqL,senegal,local,5/6 (83%),Camara L.Midfielder,2,-,-,0/1 (0%),-,-,10
+KYWyABqL,senegal,local,1/2 (50%),Diallo H.Forward,3,-,-,-,-,-,2
+KYWyABqL,senegal,local,1/1 (100%),Sabaly C.Forward,2,-,-,-,-,-,4
+Uq4q4Le2,senegal,local,40/44 (91%),Phoko G.Goalkeeper,1,-,9.1,-,-,-,66
+Uq4q4Le2,senegal,local,32/34 (94%),Jackson N.Striker,6,1.44,8.4,1/1 (100%),7,11,46
+Uq4q4Le2,senegal,local,25/26 (96%),Mane S.Winger,8,0.98,8.1,2/2 (100%),9,15,54
+Uq4q4Le2,senegal,local,29/34 (85%),Jakobs I.Fullback,13,-,7.9,-,-,5,55
+Uq4q4Le2,senegal,local,3/3 (100%),Ndiaye C.Forward,-,0.38,7.8,-,1,1,5
+Uq4q4Le2,senegal,local,95/106 (90%),Gueye I.Midfielder,8,0.09,7.7,3/3 (100%),1,1,116
+Uq4q4Le2,senegal,local,52/59 (88%),Koulibaly K.Centre back,13,0.11,7.5,-,1,2,75
+Uq4q4Le2,senegal,local,63/68 (93%),Diatta K.Fullback,10,-,7.4,3/5 (60%),-,-,89
+Uq4q4Le2,senegal,local,62/64 (97%),Gueye P.Midfielder,5,0.22,7.4,0/1 (0%),2,1,73
+Uq4q4Le2,senegal,local,33/35 (94%),Ndiaye I.Attacking midfielder,7,0.14,7.4,1/1 (100%),2,6,50
+Uq4q4Le2,senegal,local,36/41 (88%),Sarr I.Winger,4,0.26,7.3,0/1 (0%),3,6,52
+Uq4q4Le2,senegal,local,28/32 (88%),Camara L.Midfielder,1,0.03,7.1,-,1,1,38
+Uq4q4Le2,senegal,local,13/18 (72%),Mbaye I.Forward,5,0.02,7.1,0/2 (0%),1,4,23
+Uq4q4Le2,senegal,local,16/17 (94%),Ciss P.Midfielder,1,-,6.6,-,-,-,18
+Uq4q4Le2,senegal,local,24/26 (92%),Mendy E.Goalkeeper,-,-,6.6,-,-,-,30
+Uq4q4Le2,senegal,local,65/72 (90%),Niakhate M.Centre back,8,-,6.6,-,-,1,76
+Uq4q4Le2,senegal,local,30/34 (88%),Gaolaolwe M.Centre back,6,0.07,6.4,1/1 (100%),1,1,48
+Uq4q4Le2,senegal,local,19/28 (68%),Johnson M.Fullback,8,0.01,6.4,1/2 (50%),1,-,51
+Uq4q4Le2,senegal,local,22/30 (73%),Ditlhokwe T.Centre back,4,-,6.3,-,-,-,45
+Uq4q4Le2,senegal,local,23/29 (79%),Ditsele L.Midfielder,3,0.07,6.3,1/1 (100%),1,-,42
+Uq4q4Le2,senegal,local,7/10 (70%),Kebatho O.Striker,8,0.02,6.3,-,1,3,19
+Uq4q4Le2,senegal,local,16/21 (76%),Mohutsiwa G.Midfielder,12,-,6.3,1/2 (50%),-,-,35
+Uq4q4Le2,senegal,local,6/8 (75%),Sesinyi T.Midfielder,5,-,6.2,-,-,-,16
+Uq4q4Le2,senegal,local,16/19 (84%),Cooper M.Midfielder,3,-,6.1,-,-,-,27
+Uq4q4Le2,senegal,local,17/21 (81%),Seakanyeng K.Winger,11,-,6.1,1/2 (50%),-,1,32
+Uq4q4Le2,senegal,local,16/26 (62%),Velaphi A.Fullback,7,-,6.1,-,-,-,43
+Uq4q4Le2,senegal,local,0/1 (0%),Kgamanyane T.Midfielder,3,-,5.9,-,-,-,5
+Uq4q4Le2,senegal,local,20/28 (71%),Orebonye T.Winger,11,-,5.9,-,-,-,40
+Uq4q4Le2,senegal,local,1/3 (33%),Modingwane G.Midfielder,1,-,5.7,-,-,-,3
+Uq4q4Le2,senegal,local,2/5 (40%),Maponda T.Forward,7,-,5.2,0/2 (0%),-,-,9
+Uq4q4Le2,senegal,local,2/2 (100%),Baruti G.Midfielder,1,-,-,-,-,-,3
+Uq4q4Le2,senegal,local,6/6 (100%),Sabaly C.Forward,2,-,-,1/2 (50%),-,3,10
+h23aLFn1,senegal,local,54/61 (89%),Ndiaye S. M.Defender,11,0.12,8.2,-,1,1,73
+h23aLFn1,senegal,local,-,Ba D.Defender,-,-,7.8,-,-,-,-
+h23aLFn1,senegal,local,16/27 (59%),Seck O.Midfielder,10,0.02,7.6,2/3 (67%),2,3,47
+h23aLFn1,senegal,local,7/13 (54%),Saeed Ahmed M.Defender,6,-,7.4,-,-,-,30
+h23aLFn1,senegal,local,12/13 (92%),Ciss B.Defender,4,-,7.1,-,-,-,18
+h23aLFn1,senegal,local,31/36 (86%),Gueye L.Forward,13,0.06,7.0,5/6 (83%),3,4,69
+h23aLFn1,senegal,local,19/22 (86%),Kane I.Midfielder,5,0.03,7.0,-,2,-,31
+h23aLFn1,senegal,local,27/37 (73%),Samb L.Defender,8,0.03,7.0,0/1 (0%),1,-,66
+h23aLFn1,senegal,local,18/20 (90%),Coly A.Defender,2,0.11,6.9,0/1 (0%),2,3,32
+h23aLFn1,senegal,local,14/21 (67%),Ba O.Forward,7,0.08,6.8,1/2 (50%),1,1,36
+h23aLFn1,senegal,local,28/41 (68%),Diouf M. P. A.Goalkeeper,2,-,6.8,-,-,-,49
+h23aLFn1,senegal,local,17/22 (77%),Khidir W.Midfielder,15,0.10,6.8,-,1,1,40
+h23aLFn1,senegal,local,6/7 (86%),Cisse V.Midfielder,8,0.10,6.7,1/1 (100%),2,1,18
+h23aLFn1,senegal,local,9/16 (56%),Omer A.Midfielder,10,0.12,6.7,-,2,1,26
+h23aLFn1,senegal,local,18/21 (86%),Sembene E. H. M.Defender,3,-,6.7,-,-,-,26
+h23aLFn1,senegal,local,-,Abdalla F.Defender,-,-,6.5,-,-,-,-
+h23aLFn1,senegal,local,17/27 (63%),Alrashed M.Midfielder,20,0.06,6.5,2/2 (100%),2,1,54
+h23aLFn1,senegal,local,7/10 (70%),Koita M.Midfielder,5,-,6.5,0/1 (0%),-,1,17
+h23aLFn1,senegal,local,6/8 (75%),Abaker A.Defender,5,-,6.4,-,-,-,19
+h23aLFn1,senegal,local,10/32 (31%),Abooja M.Goalkeeper,1,-,6.3,-,-,-,41
+h23aLFn1,senegal,local,17/20 (85%),Awad Y.Midfielder,3,0.01,6.3,-,1,1,36
+h23aLFn1,senegal,local,-,Fadl M.Forward,-,-,6.2,-,-,-,-
+h23aLFn1,senegal,local,5/6 (83%),Zaid A.Defender,-,-,6.2,-,-,-,9
+h23aLFn1,senegal,local,7/10 (70%),Fonseca B.Midfielder,-,-,6.1,-,-,-,10
+h23aLFn1,senegal,local,1/4 (25%),Bakhakh M.Forward,6,0.39,5.8,3/3 (100%),1,3,10
+h23aLFn1,senegal,local,-,Musa H.Forward,-,-,5.7,-,-,-,-
+h23aLFn1,senegal,local,-,Tia Asad M.Forward,-,-,5.7,-,-,-,-
+h23aLFn1,senegal,local,9/13 (69%),Ly M. Y.Midfielder,5,-,5.6,-,-,-,17
+h23aLFn1,senegal,local,-,Makeen M.Defender,-,-,-,-,-,-,-
+h23aLFn1,senegal,local,3/3 (100%),Tabanja A.Defender,-,0.03,-,-,1,1,4
+Gzucyw87,senegal,local,34/46 (74%),Bougrine S.Midfielder,7,0.03,7.8,2/3 (67%),1,3,67
+Gzucyw87,senegal,local,54/66 (82%),Louadni M.Defender,19,0.30,7.8,-,1,1,85
+Gzucyw87,senegal,local,30/40 (75%),Samb L.Defender,12,0.67,7.8,0/1 (0%),3,2,76
+Gzucyw87,senegal,local,26/38 (68%),Mehri Y.Forward,14,0.06,7.3,0/2 (0%),1,8,58
+Gzucyw87,senegal,local,46/54 (85%),Bach A.Midfielder,5,0.10,7.2,-,1,2,65
+Gzucyw87,senegal,local,6/6 (100%),Gueye L.Forward,6,0.02,7.2,1/3 (33%),1,-,25
+Gzucyw87,senegal,local,33/49 (67%),Al Harrar E. M.Goalkeeper,2,-,7.1,-,-,-,56
+Gzucyw87,senegal,local,-,Ba D.Defender,-,-,7.1,-,-,-,-
+Gzucyw87,senegal,local,27/31 (87%),Ciss B.Defender,8,-,7.0,-,-,-,47
+Gzucyw87,senegal,local,29/33 (88%),Ndiaye S. M.Defender,4,0.04,6.9,-,1,1,51
+Gzucyw87,senegal,local,49/63 (78%),Belammari Y.Midfielder,1,0.03,6.8,-,1,2,89
+Gzucyw87,senegal,local,37/47 (79%),Boulacsout M.Defender,9,0.02,6.8,0/1 (0%),1,1,74
+Gzucyw87,senegal,local,33/34 (97%),Khairi A.Midfielder,5,0.06,6.7,-,1,1,41
+Gzucyw87,senegal,local,23/39 (59%),Diouf M. P. A.Goalkeeper,1,-,6.6,-,-,-,45
+Gzucyw87,senegal,local,49/60 (82%),Hrimat M.Midfielder,5,-,6.6,-,-,1,71
+Gzucyw87,senegal,local,18/22 (82%),Errahouli S.Midfielder,9,0.03,6.5,0/3 (0%),1,6,34
+Gzucyw87,senegal,local,37/41 (90%),Mchakhchekh M.Defender,3,-,6.5,-,-,-,45
+Gzucyw87,senegal,local,9/13 (69%),Sarr A.Forward,8,0.08,6.5,2/4 (50%),1,3,27
+Gzucyw87,senegal,local,16/22 (73%),Baba K.Forward,3,0.01,6.4,1/1 (100%),1,-,32
+Gzucyw87,senegal,local,12/20 (60%),Lamlioui O.Forward,9,0.04,6.4,0/1 (0%),3,6,30
+Gzucyw87,senegal,local,6/8 (75%),Moufid M.Defender,3,-,6.4,0/1 (0%),-,-,21
+Gzucyw87,senegal,local,8/8 (100%),Boye I.Midfielder,8,0.09,6.3,0/3 (0%),1,1,18
+Gzucyw87,senegal,local,11/17 (65%),Fonseca B.Midfielder,1,0.01,6.3,-,1,-,21
+Gzucyw87,senegal,local,25/34 (74%),Ly M. Y.Midfielder,8,-,6.3,-,-,1,46
+Gzucyw87,senegal,local,26/28 (93%),Cisse M.Defender,4,0.05,6.2,-,2,-,35
+Gzucyw87,senegal,local,8/14 (57%),Ba O.Forward,5,0.03,6.1,-,1,3,29
+Gzucyw87,senegal,local,6/8 (75%),Cisse V.Midfielder,10,-,6.1,0/3 (0%),-,3,20
+Gzucyw87,senegal,local,-,Gomis C.Forward,-,-,6.1,-,-,-,-
+Gzucyw87,senegal,local,16/20 (80%),Koita M.Midfielder,6,-,6.1,-,-,1,31
+Gzucyw87,senegal,local,5/6 (83%),Niang A.Forward,2,-,6.1,-,-,1,12
+Gzucyw87,senegal,local,4/6 (67%),Kane I.Midfielder,2,-,5.8,-,-,-,6
+jggMGZ3c,senegal,local,14/23 (61%),Ba O.Forward,8,0.06,7.7,1/1 (100%),1,3,39
+jggMGZ3c,senegal,local,18/30 (60%),Diouf M. P. A.Goalkeeper,-,-,7.7,-,-,-,39
+jggMGZ3c,senegal,local,-,Ba D.Defender,-,-,7.5,-,-,-,-
+jggMGZ3c,senegal,local,17/24 (71%),Ciss B.Defender,5,0.04,7.5,-,1,1,35
+jggMGZ3c,senegal,local,9/12 (75%),Gueye L.Forward,10,0.02,7.4,2/4 (50%),1,-,35
+jggMGZ3c,senegal,local,28/42 (67%),Ndiaye S. M.Defender,9,-,7.2,-,-,-,57
+jggMGZ3c,senegal,local,29/36 (81%),Samb L.Defender,5,0.01,7.2,-,1,-,65
+jggMGZ3c,senegal,local,15/20 (75%),Cisse M.Defender,9,0.01,7.0,1/1 (100%),1,-,37
+jggMGZ3c,senegal,local,16/23 (70%),Fonseca B.Midfielder,4,-,6.9,-,-,-,25
+jggMGZ3c,senegal,local,13/17 (76%),Koita M.Midfielder,7,-,6.8,0/1 (0%),-,-,21
+jggMGZ3c,senegal,local,36/53 (68%),Torach R.Defender,8,-,6.8,1/1 (100%),-,-,63
+jggMGZ3c,senegal,local,20/23 (87%),Watambala K.Midfielder,8,0.05,6.8,0/1 (0%),2,1,31
+jggMGZ3c,senegal,local,3/5 (60%),Cisse V.Midfielder,10,0.05,6.7,3/4 (75%),1,5,19
+jggMGZ3c,senegal,local,4/4 (100%),Kane I.Midfielder,1,-,6.6,-,-,-,7
+jggMGZ3c,senegal,local,25/34 (74%),Kizito G.Defender,10,-,6.6,1/1 (100%),-,1,62
+jggMGZ3c,senegal,local,9/12 (75%),Ssemugabi J.Forward,6,-,6.6,1/1 (100%),-,3,20
+jggMGZ3c,senegal,local,7/9 (78%),Kakande P.Forward,3,-,6.5,0/1 (0%),-,-,12
+jggMGZ3c,senegal,local,30/34 (88%),Odong A.Defender,4,0.18,6.5,-,3,4,39
+jggMGZ3c,senegal,local,30/40 (75%),Okello A.Forward,10,0.03,6.5,-,1,-,55
+jggMGZ3c,senegal,local,12/16 (75%),Mpande R.Forward,14,0.09,6.4,2/6 (33%),3,3,39
+jggMGZ3c,senegal,local,38/47 (81%),Sserunjogi J.Midfielder,7,0.01,6.4,0/1 (0%),1,-,58
+jggMGZ3c,senegal,local,-,Badji P.Forward,-,-,6.3,-,-,-,-
+jggMGZ3c,senegal,local,-,Achayi H.Defender,-,-,6.2,-,-,-,-
+jggMGZ3c,senegal,local,-,Gomis C.Forward,-,-,6.2,-,-,-,-
+jggMGZ3c,senegal,local,11/24 (46%),Mutakubwa J.Goalkeeper,-,-,6.2,-,-,-,28
+jggMGZ3c,senegal,local,3/5 (60%),Sentamu Y.Forward,3,-,6.2,-,-,-,8
+jggMGZ3c,senegal,local,41/53 (77%),Ssebagala E.Midfielder,10,0.03,6.2,1/2 (50%),2,-,68
+jggMGZ3c,senegal,local,5/8 (63%),Ahimbisibwe IvanMidfielder,2,0.78,5.5,-,2,2,10
+jggMGZ3c,senegal,local,2/2 (100%),Boye I.Midfielder,4,-,-,0/1 (0%),-,-,6
+jggMGZ3c,senegal,local,3/4 (75%),Ndiaye M.Defender,-,-,-,-,-,-,6
+jggMGZ3c,senegal,local,1/1 (100%),Usama A.Forward,2,-,-,-,-,-,3

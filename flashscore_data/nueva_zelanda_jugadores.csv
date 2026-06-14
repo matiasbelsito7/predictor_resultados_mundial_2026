@@ -1,0 +1,79 @@
+match_id,seleccion,equipo,accurate_passesaccurate_passes,all,duelsduels,expected_goals_xgexpected_goals_xg,ratingrating,successful_dribblessuccessful_dribbles,total_shotstotal_shots,touches_in_opposition_boxtouches_in_opposition_box,touchestouches
+hpJGkndD,nueva_zelanda,local,14/16 (88%),Kane H.Striker,3,0.25,7.9,-,3,2,21
+hpJGkndD,nueva_zelanda,local,48/49 (98%),Henderson J.Midfielder,-,0.04,7.9,-,1,1,54
+hpJGkndD,nueva_zelanda,local,35/37 (95%),Guehi M.Centre back,5,-,7.6,-,-,-,41
+hpJGkndD,nueva_zelanda,local,18/22 (82%),Rashford M.Winger,3,0.13,7.5,1/2 (50%),2,5,37
+hpJGkndD,nueva_zelanda,local,27/31 (87%),Spence D.Fullback,2,0.04,7.5,0/1 (0%),2,2,41
+hpJGkndD,nueva_zelanda,local,32/32 (100%),Bellingham J.Midfielder,6,0.11,7.3,1/1 (100%),2,1,42
+hpJGkndD,nueva_zelanda,local,50/53 (94%),Anderson E.Midfielder,5,0.04,7.2,-,1,-,61
+hpJGkndD,nueva_zelanda,local,24/26 (92%),Ngumoha R.Forward,12,0.06,7.1,4/5 (80%),1,3,41
+hpJGkndD,nueva_zelanda,local,18/22 (82%),Rogers M.Attacking midfielder,2,0.08,7.1,-,2,4,31
+hpJGkndD,nueva_zelanda,local,33/36 (92%),Mainoo K.Midfielder,5,0.04,7.0,1/1 (100%),1,-,47
+hpJGkndD,nueva_zelanda,local,41/41 (100%),Burn D.Defender,3,0.15,6.9,-,2,2,49
+hpJGkndD,nueva_zelanda,local,32/36 (89%),James R.Defender,4,0.05,6.9,1/1 (100%),1,-,48
+hpJGkndD,nueva_zelanda,local,20/22 (91%),Watkins O.Winger,5,0.37,6.9,2/2 (100%),2,4,29
+hpJGkndD,nueva_zelanda,local,10/14 (71%),Pickford J.Goalkeeper,-,-,6.8,-,-,-,17
+hpJGkndD,nueva_zelanda,local,40/42 (95%),Konsa E.Defender,2,-,6.7,-,-,-,43
+hpJGkndD,nueva_zelanda,local,32/33 (97%),Livramento V.Defender,2,-,6.7,0/1 (0%),-,3,38
+hpJGkndD,nueva_zelanda,local,31/36 (86%),Quansah J.Fullback,3,-,6.7,-,-,-,42
+hpJGkndD,nueva_zelanda,local,20/22 (91%),Gordon A.Forward,5,0.09,6.6,0/2 (0%),2,4,36
+hpJGkndD,nueva_zelanda,local,39/40 (98%),Stones J.Centre back,1,0.09,6.6,-,1,2,41
+hpJGkndD,nueva_zelanda,local,11/29 (38%),Crocombe M.Goalkeeper,-,-,6.5,-,-,-,39
+hpJGkndD,nueva_zelanda,local,8/8 (100%),Old B.Forward,5,-,6.5,1/1 (100%),-,-,17
+hpJGkndD,nueva_zelanda,local,20/21 (95%),Surman F.Centre back,3,-,6.5,-,-,-,37
+hpJGkndD,nueva_zelanda,local,5/6 (83%),Toney I.Forward,2,-,6.5,-,-,3,11
+hpJGkndD,nueva_zelanda,local,1/1 (100%),De Vries F.Defender,3,-,6.4,-,-,-,7
+hpJGkndD,nueva_zelanda,local,15/15 (100%),Trafford J.Goalkeeper,1,-,6.4,-,-,-,19
+hpJGkndD,nueva_zelanda,local,1/1 (100%),Barbarouses K.Forward,1,-,6.3,-,-,1,2
+hpJGkndD,nueva_zelanda,local,20/21 (95%),Bell J.Midfielder,-,-,6.3,-,-,-,26
+hpJGkndD,nueva_zelanda,local,15/17 (88%),Cacace L.Fullback,9,-,6.3,0/1 (0%),-,-,33
+hpJGkndD,nueva_zelanda,local,25/27 (93%),O'Reilly N.Midfielder,5,-,6.3,-,-,1,32
+hpJGkndD,nueva_zelanda,local,5/7 (71%),Bindon T.Defender,3,-,6.2,0/1 (0%),-,-,15
+hpJGkndD,nueva_zelanda,local,4/8 (50%),Garbett M.Winger,7,0.02,6.2,1/3 (33%),1,1,18
+hpJGkndD,nueva_zelanda,local,6/7 (86%),Randall J.Forward,2,-,6.2,-,-,-,10
+hpJGkndD,nueva_zelanda,local,10/12 (83%),Rufer A.Midfielder,5,-,6.2,-,-,-,14
+hpJGkndD,nueva_zelanda,local,25/29 (86%),Stamenic M.Midfielder,2,-,6.1,1/1 (100%),-,-,38
+hpJGkndD,nueva_zelanda,local,32/34 (94%),Boxall M.Centre back,-,-,5.9,-,-,-,45
+hpJGkndD,nueva_zelanda,local,10/13 (77%),Payne T.Fullback,1,-,5.9,-,-,-,18
+hpJGkndD,nueva_zelanda,local,10/14 (71%),Just E.Winger,9,-,5.7,1/4 (25%),-,-,27
+hpJGkndD,nueva_zelanda,local,12/13 (92%),Wood Ch.Striker,4,-,5.7,1/2 (50%),-,-,18
+hpJGkndD,nueva_zelanda,local,12/13 (92%),Singh S.Attacking midfielder,9,0.07,5.1,0/1 (0%),1,1,24
+hpJGkndD,nueva_zelanda,local,5/6 (83%),Bayliss L.Midfielder,6,-,-,2/2 (100%),-,1,10
+hpJGkndD,nueva_zelanda,local,3/3 (100%),Elliot C.Defender,2,-,-,0/1 (0%),-,-,6
+hpJGkndD,nueva_zelanda,local,1/1 (100%),McCowatt C.Midfielder,4,0.03,-,-,1,-,5
+hpJGkndD,nueva_zelanda,local,2/3 (67%),Paulsen A.Goalkeeper,-,-,-,-,-,-,5
+hpJGkndD,nueva_zelanda,local,1/1 (100%),Pijnaker N.Defender,1,-,-,-,-,-,2
+K6O9vT2N,nueva_zelanda,local,64/73 (88%),Burgess C.Defender,7,-,7.9,-,-,1,89
+K6O9vT2N,nueva_zelanda,local,36/43 (84%),Bos J.Defender,20,0.13,7.6,3/5 (60%),2,3,78
+K6O9vT2N,nueva_zelanda,local,50/64 (78%),Circati A.Defender,14,0.04,7.6,-,1,2,85
+K6O9vT2N,nueva_zelanda,local,23/40 (58%),Izzo P.Goalkeeper,-,-,7.4,-,-,-,51
+K6O9vT2N,nueva_zelanda,local,41/43 (95%),Degenek M.Midfielder,6,-,7.3,-,-,-,58
+K6O9vT2N,nueva_zelanda,local,30/35 (86%),Singh S.Midfielder,14,0.05,7.2,1/4 (25%),2,1,53
+K6O9vT2N,nueva_zelanda,local,4/4 (100%),Toure M.Forward,3,-,7.2,0/1 (0%),-,2,13
+K6O9vT2N,nueva_zelanda,local,33/40 (83%),Teague R.Midfielder,8,-,7.1,-,-,-,51
+K6O9vT2N,nueva_zelanda,local,43/49 (88%),Thomas R.Midfielder,6,-,7.1,2/2 (100%),-,2,59
+K6O9vT2N,nueva_zelanda,local,22/25 (88%),Hrustic A.Midfielder,9,-,7.0,1/3 (33%),-,-,39
+K6O9vT2N,nueva_zelanda,local,20/24 (83%),Metcalfe C.Forward,11,0.03,7.0,0/3 (0%),1,-,42
+K6O9vT2N,nueva_zelanda,local,28/29 (97%),Yazbek P.Midfielder,2,-,6.9,0/1 (0%),-,-,36
+K6O9vT2N,nueva_zelanda,local,66/76 (87%),Boxall M.Defender,7,0.20,6.8,-,1,3,90
+K6O9vT2N,nueva_zelanda,local,13/17 (76%),Miller L.Defender,1,-,6.8,0/1 (0%),-,1,30
+K6O9vT2N,nueva_zelanda,local,19/26 (73%),Rufer A.Midfielder,7,0.01,6.8,-,1,-,34
+K6O9vT2N,nueva_zelanda,local,23/26 (88%),O'Neill A.Midfielder,4,-,6.7,-,-,-,38
+K6O9vT2N,nueva_zelanda,local,4/8 (50%),Irankunda N.Forward,5,0.11,6.6,1/2 (50%),1,1,16
+K6O9vT2N,nueva_zelanda,local,7/7 (100%),Milanovic N.Forward,5,-,6.6,1/2 (50%),-,1,11
+K6O9vT2N,nueva_zelanda,local,11/13 (85%),Silvera S.Forward,3,-,6.6,0/1 (0%),-,-,22
+K6O9vT2N,nueva_zelanda,local,77/86 (90%),Bell J.Midfielder,10,-,6.5,0/2 (0%),-,-,99
+K6O9vT2N,nueva_zelanda,local,10/11 (91%),Elliot C.Defender,6,-,6.5,1/2 (50%),-,-,25
+K6O9vT2N,nueva_zelanda,local,3/5 (60%),McGarry J.Defender,5,0.04,6.5,-,1,1,15
+K6O9vT2N,nueva_zelanda,local,4/4 (100%),Surman F.Defender,2,-,6.5,-,-,-,8
+K6O9vT2N,nueva_zelanda,local,5/5 (100%),Barbarouses K.Forward,6,-,6.4,-,-,-,8
+K6O9vT2N,nueva_zelanda,local,68/79 (86%),Bindon T.Defender,4,-,6.4,-,-,-,87
+K6O9vT2N,nueva_zelanda,local,29/38 (76%),McCowatt C.Midfielder,15,0.02,6.4,-,1,3,55
+K6O9vT2N,nueva_zelanda,local,6/8 (75%),Boyle M.Forward,5,-,6.3,0/1 (0%),-,2,14
+K6O9vT2N,nueva_zelanda,local,20/31 (65%),Crocombe M.Goalkeeper,-,-,6.2,-,-,-,38
+K6O9vT2N,nueva_zelanda,local,20/28 (71%),Just E.Forward,10,-,6.2,0/3 (0%),-,2,47
+K6O9vT2N,nueva_zelanda,local,39/47 (83%),De Vries F.Defender,3,-,6.1,1/1 (100%),-,1,71
+K6O9vT2N,nueva_zelanda,local,19/24 (79%),Payne T.Defender,6,0.03,6.1,0/1 (0%),1,1,38
+K6O9vT2N,nueva_zelanda,local,2/2 (100%),Old B.Forward,1,-,6.0,-,-,1,5
+K6O9vT2N,nueva_zelanda,local,8/12 (67%),Wood Ch.Forward,4,0.27,6.0,-,2,1,18
+K6O9vT2N,nueva_zelanda,local,4/5 (80%),Balard M.Midfielder,3,0.04,-,-,1,1,8

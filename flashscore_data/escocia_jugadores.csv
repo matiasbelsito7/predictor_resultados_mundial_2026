@@ -1,0 +1,232 @@
+match_id,seleccion,equipo,accurate_passesaccurate_passes,all,duelsduels,expected_goals_xgexpected_goals_xg,ratingrating,successful_dribblessuccessful_dribbles,total_shotstotal_shots,touches_in_opposition_boxtouches_in_opposition_box,touchestouches
+hQSR9x0K,escocia,local,10/13 (77%),Adams C.Striker,4,0.62,9.3,1/1 (100%),5,7,24
+hQSR9x0K,escocia,local,40/40 (100%),McTominay S.Midfielder,8,0.25,8.0,2/3 (67%),2,3,51
+hQSR9x0K,escocia,local,9/11 (82%),Shankland L.Striker,6,0.43,7.9,-,2,4,20
+hQSR9x0K,escocia,local,13/15 (87%),Gannon-Doak B.Winger,12,0.19,7.7,1/3 (33%),3,3,37
+hQSR9x0K,escocia,local,10/13 (77%),McGinn J.Midfielder,8,0.05,7.5,4/4 (100%),2,5,25
+hQSR9x0K,escocia,local,20/23 (87%),Gunn A.Goalkeeper,-,-,7.2,-,-,-,28
+hQSR9x0K,escocia,local,26/29 (90%),Tierney K.Defender,-,-,7.1,-,-,-,38
+hQSR9x0K,escocia,local,7/10 (70%),Curtis F.Midfielder,7,-,6.9,1/2 (50%),-,1,20
+hQSR9x0K,escocia,local,19/23 (83%),Christie R.Winger,6,0.13,6.8,0/2 (0%),2,3,36
+hQSR9x0K,escocia,local,6/7 (86%),Ralston A.Defender,1,-,6.8,-,-,-,13
+hQSR9x0K,escocia,local,37/44 (84%),Fernandez R.Fullback,13,-,6.7,1/2 (50%),-,-,71
+hQSR9x0K,escocia,local,25/27 (93%),Hickey A.Fullback,2,-,6.7,-,-,2,41
+hQSR9x0K,escocia,local,16/18 (89%),Robertson A.Fullback,3,0.64,6.7,-,1,3,29
+hQSR9x0K,escocia,local,48/52 (92%),Hanley G.Centre back,-,0.10,6.6,-,1,2,59
+hQSR9x0K,escocia,local,2/4 (50%),Hirst G.Forward,5,0.07,6.6,-,1,1,10
+hQSR9x0K,escocia,local,7/9 (78%),McLean K.Midfielder,2,-,6.6,-,-,-,11
+hQSR9x0K,escocia,local,40/42 (95%),Ferguson L.Midfielder,7,-,6.3,-,-,2,49
+hQSR9x0K,escocia,local,43/44 (98%),Hendry J.Centre back,-,-,6.3,-,-,1,46
+hQSR9x0K,escocia,local,20/23 (87%),Melgar C. A.Defender,8,0.08,6.3,0/1 (0%),2,-,35
+hQSR9x0K,escocia,local,30/33 (91%),MiguelitoStriker,6,0.07,6.3,2/3 (67%),2,-,50
+hQSR9x0K,escocia,local,7/10 (70%),Torrez M.Defender,3,0.04,6.3,-,1,-,16
+hQSR9x0K,escocia,local,7/8 (88%),Paniagua M.Winger,1,-,6.2,-,-,-,10
+hQSR9x0K,escocia,local,3/6 (50%),Stewart R.Forward,-,0.64,6.2,-,1,1,7
+hQSR9x0K,escocia,local,22/24 (92%),Zabala L.Defender,-,-,6.2,-,-,-,25
+hQSR9x0K,escocia,local,46/49 (94%),Robson MatheusMidfielder,10,0.03,6.1,-,2,-,65
+hQSR9x0K,escocia,local,6/8 (75%),Centella G.Midfielder,3,-,6.0,-,-,1,11
+hQSR9x0K,escocia,local,56/62 (90%),Morales E.Centre back,4,-,6.0,1/3 (33%),-,-,72
+hQSR9x0K,escocia,local,8/9 (89%),Ribera D.Winger,3,-,6.0,-,-,-,12
+hQSR9x0K,escocia,local,27/27 (100%),Rocha Y.Fullback,4,-,5.9,-,-,-,35
+hQSR9x0K,escocia,local,17/18 (94%),Macazaga L.Defender,7,-,5.8,1/2 (50%),-,-,25
+hQSR9x0K,escocia,local,38/41 (93%),Vaca Moreno E.Midfielder,3,-,5.8,-,-,-,46
+hQSR9x0K,escocia,local,17/21 (81%),Villamil G.Midfielder,5,-,5.8,1/1 (100%),-,-,27
+hQSR9x0K,escocia,local,21/25 (84%),Viscarra G.Goalkeeper,-,-,5.7,-,-,-,35
+hQSR9x0K,escocia,local,73/79 (92%),Haquin L.Centre back,4,-,5.0,-,-,-,84
+hQSR9x0K,escocia,local,7/7 (100%),Fletcher T.Midfielder,5,-,-,-,-,-,10
+hQSR9x0K,escocia,local,10/10 (100%),Hyam D.Defender,-,-,-,-,-,-,12
+hQSR9x0K,escocia,local,6/6 (100%),Lopez O.Midfielder,1,-,-,-,-,-,8
+hQSR9x0K,escocia,local,-,Nacif N.Forward,2,-,-,-,-,-,1
+hQSR9x0K,escocia,local,14/14 (100%),Souttar J.Defender,1,-,-,-,-,-,15
+hQSR9x0K,escocia,local,3/3 (100%),Viviani L.Forward,-,-,-,-,-,-,3
+GvuTpll2,escocia,local,23/29 (79%),Shankland L.Striker,5,0.51,9.2,1/1 (100%),6,8,39
+GvuTpll2,escocia,local,58/59 (98%),Robertson A.Fullback,2,0.08,8.6,-,2,2,78
+GvuTpll2,escocia,local,49/54 (91%),Christie R.Winger,11,0.85,8.4,0/1 (0%),3,8,75
+GvuTpll2,escocia,local,66/69 (96%),McLean K.Midfielder,7,0.03,8.4,0/1 (0%),1,1,83
+GvuTpll2,escocia,local,32/35 (91%),Curtis F.Midfielder,6,0.10,8.3,1/1 (100%),1,4,49
+GvuTpll2,escocia,local,8/10 (80%),Dykes L.Forward,-,0.13,7.8,-,2,3,15
+GvuTpll2,escocia,local,16/18 (89%),Chong T.Midfielder,17,0.28,7.1,4/7 (57%),2,1,39
+GvuTpll2,escocia,local,29/31 (94%),Hickey A.Fullback,8,-,7.1,1/2 (50%),-,1,49
+GvuTpll2,escocia,local,33/38 (87%),Fletcher T.Midfielder,4,-,7.0,-,-,-,42
+GvuTpll2,escocia,local,22/22 (100%),Hanley G.Defender,4,-,7.0,-,-,-,30
+GvuTpll2,escocia,local,24/24 (100%),Hyam D.Defender,6,-,6.9,-,-,-,30
+GvuTpll2,escocia,local,31/35 (89%),Obispo A.Centre back,5,-,6.9,1/1 (100%),-,1,46
+GvuTpll2,escocia,local,48/54 (89%),Souttar J.Centre back,4,-,6.9,-,-,-,58
+GvuTpll2,escocia,local,34/39 (87%),Gilmour B.Midfielder,4,-,6.8,0/1 (0%),-,-,44
+GvuTpll2,escocia,local,35/37 (95%),McKenna S.Centre back,6,-,6.8,-,-,-,42
+GvuTpll2,escocia,local,29/33 (88%),Patterson N.Defender,3,0.05,6.8,-,1,3,48
+GvuTpll2,escocia,local,16/21 (76%),Gannon-Doak B.Winger,8,-,6.7,3/5 (60%),-,3,38
+GvuTpll2,escocia,local,15/38 (39%),Room E.Goalkeeper,1,-,6.7,-,-,-,53
+GvuTpll2,escocia,local,18/21 (86%),Bazoer R.Centre back,2,-,6.6,-,-,-,28
+GvuTpll2,escocia,local,4/5 (80%),Hirst G.Striker,5,0.24,6.6,1/2 (50%),2,4,12
+GvuTpll2,escocia,local,3/3 (100%),Antonisse J.Forward,1,0.03,6.5,-,1,-,13
+GvuTpll2,escocia,local,11/13 (85%),Ralston A.Defender,2,-,6.5,-,-,-,16
+GvuTpll2,escocia,local,7/9 (78%),Kastaneer G.Forward,11,-,6.4,-,-,-,18
+GvuTpll2,escocia,local,2/5 (40%),Wilson J.Forward,1,-,6.4,-,-,2,8
+GvuTpll2,escocia,local,11/11 (100%),Gordon C.Goalkeeper,-,-,6.3,-,-,-,13
+GvuTpll2,escocia,local,1/1 (100%),Kelly L.Goalkeeper,-,-,6.3,-,-,-,3
+GvuTpll2,escocia,local,4/5 (80%),Noslin T.Defender,4,0.11,6.3,0/1 (0%),2,1,16
+GvuTpll2,escocia,local,4/5 (80%),Roemeratoe G.Midfielder,1,-,6.1,-,-,-,9
+GvuTpll2,escocia,local,19/23 (83%),Bacuna L.Midfielder,6,0.03,6.0,0/1 (0%),1,-,31
+GvuTpll2,escocia,local,12/15 (80%),Bacuna J.Midfielder,13,0.01,5.9,1/2 (50%),1,1,38
+GvuTpll2,escocia,local,21/23 (91%),Comenencia L.Midfielder,5,-,5.9,1/2 (50%),-,2,32
+GvuTpll2,escocia,local,28/32 (88%),Floranus S.Wingback,5,-,5.9,2/3 (67%),-,-,50
+GvuTpll2,escocia,local,15/20 (75%),Fonville D.Wingback,8,0.25,5.8,1/2 (50%),2,2,41
+GvuTpll2,escocia,local,37/43 (86%),Gaari J.Centre back,4,-,4.8,-,-,-,51
+GvuTpll2,escocia,local,6/10 (60%),Locadia J.Striker,3,-,3.9,-,-,3,12
+buW8sMn2,escocia,local,26/30 (87%),Tzolis C.Winger,7,0.52,8.6,1/1 (100%),7,7,47
+buW8sMn2,escocia,local,26/32 (81%),Bakasetas A.Attacking midfielder,8,0.11,7.9,1/1 (100%),1,2,50
+buW8sMn2,escocia,local,20/25 (80%),Gannon-Doak B.Winger,7,1.02,7.6,1/3 (33%),2,7,36
+buW8sMn2,escocia,local,19/24 (79%),Karetsas K.Winger,6,0.19,7.4,0/3 (0%),3,4,36
+buW8sMn2,escocia,local,15/16 (94%),McGinn J.Winger,14,-,7.4,1/4 (25%),-,5,41
+buW8sMn2,escocia,local,29/44 (66%),Vlachodimos O.Goalkeeper,1,-,7.4,-,-,-,53
+buW8sMn2,escocia,local,66/77 (86%),Retsos P.Centre back,5,0.09,7.2,-,1,1,94
+buW8sMn2,escocia,local,20/26 (77%),Christie R.Midfielder,10,0.16,7.1,3/4 (75%),1,5,46
+buW8sMn2,escocia,local,10/13 (77%),Pavlidis V.Striker,11,0.73,7.0,3/3 (100%),2,4,22
+buW8sMn2,escocia,local,5/10 (50%),Tetteh A.Forward,11,0.21,6.8,2/2 (100%),2,3,19
+buW8sMn2,escocia,local,19/26 (73%),Tsimikas K.Fullback,6,-,6.7,1/2 (50%),-,1,47
+buW8sMn2,escocia,local,49/60 (82%),Robertson A.Fullback,5,-,6.6,0/2 (0%),-,-,90
+buW8sMn2,escocia,local,28/33 (85%),Hickey A.Fullback,7,0.01,6.5,1/1 (100%),1,-,46
+buW8sMn2,escocia,local,12/13 (92%),McKenna S.Defender,2,-,6.5,-,-,3,17
+buW8sMn2,escocia,local,26/29 (90%),McTominay S.Attacking midfielder,9,0.27,6.5,1/2 (50%),3,4,40
+buW8sMn2,escocia,local,9/10 (90%),Ralston A.Defender,1,-,6.5,-,-,-,16
+buW8sMn2,escocia,local,41/46 (89%),Vagiannidis G.Fullback,11,-,6.5,1/2 (50%),-,1,69
+buW8sMn2,escocia,local,14/25 (56%),Gordon C.Goalkeeper,1,-,6.4,-,-,-,39
+buW8sMn2,escocia,local,5/5 (100%),Masouras G.Forward,4,-,6.4,-,-,-,8
+buW8sMn2,escocia,local,33/37 (89%),Mouzakitis C.Midfielder,4,0.04,6.3,-,1,-,47
+buW8sMn2,escocia,local,37/42 (88%),Kourbelis D.Midfielder,12,-,6.1,-,-,-,56
+buW8sMn2,escocia,local,48/54 (89%),Ferguson L.Midfielder,10,0.07,6.0,1/1 (100%),1,2,66
+buW8sMn2,escocia,local,52/56 (93%),Koulierakis K.Centre back,9,0.07,6.0,-,1,1,65
+buW8sMn2,escocia,local,57/66 (86%),Souttar J.Centre back,9,-,5.9,-,-,2,71
+buW8sMn2,escocia,local,10/12 (83%),Adams C.Striker,7,0.83,5.7,-,4,5,25
+buW8sMn2,escocia,local,66/71 (93%),Hanley G.Centre back,11,-,5.6,-,-,1,75
+buW8sMn2,escocia,local,3/5 (60%),Dykes L.Forward,1,-,-,-,-,-,6
+buW8sMn2,escocia,local,-,Hatzidiakos P.Defender,-,-,-,-,-,-,1
+buW8sMn2,escocia,local,-,Hirst G.Forward,1,-,-,-,-,2,2
+buW8sMn2,escocia,local,1/1 (100%),Kostoulas C.Forward,-,-,-,-,-,-,1
+buW8sMn2,escocia,local,2/3 (67%),Shankland L.Forward,-,-,-,-,-,-,3
+8AcLnHOs,escocia,local,47/56 (84%),Robertson A.Fullback,4,-,8.4,-,-,4,80
+8AcLnHOs,escocia,local,17/24 (71%),Gannon-Doak B.Winger,15,0.16,7.6,6/8 (75%),2,8,49
+8AcLnHOs,escocia,local,33/38 (87%),McTominay S.Attacking midfielder,9,0.13,7.6,0/2 (0%),2,8,59
+8AcLnHOs,escocia,local,42/48 (88%),Ralston A.Fullback,1,-,7.6,-,-,-,67
+8AcLnHOs,escocia,local,10/14 (71%),Adams C.Striker,7,0.59,7.4,2/3 (67%),3,6,21
+8AcLnHOs,escocia,local,41/45 (91%),Hendry J.Centre back,5,-,7.2,-,-,-,53
+8AcLnHOs,escocia,local,50/59 (85%),McKenna S.Centre back,12,-,7.0,-,-,-,75
+8AcLnHOs,escocia,local,30/35 (86%),Gromyko V.Attacking midfielder,8,0.10,6.9,0/1 (0%),3,2,49
+8AcLnHOs,escocia,local,50/55 (91%),Martynovich A.Centre back,7,0.07,6.8,-,2,2,66
+8AcLnHOs,escocia,local,32/39 (82%),Zabelin P.Fullback,11,0.08,6.8,1/1 (100%),3,4,62
+8AcLnHOs,escocia,local,22/28 (79%),Gunn A.Goalkeeper,-,-,6.7,-,-,-,39
+8AcLnHOs,escocia,local,24/26 (92%),McGinn J.Winger,11,0.14,6.7,2/4 (50%),1,4,47
+8AcLnHOs,escocia,local,21/28 (75%),Pechenin K.Winger,5,-,6.7,0/1 (0%),-,2,46
+8AcLnHOs,escocia,local,11/13 (85%),Melnichenko T.Forward,9,0.21,6.6,2/3 (67%),4,6,26
+8AcLnHOs,escocia,local,9/11 (82%),Tierney K.Defender,5,-,6.6,1/1 (100%),-,-,20
+8AcLnHOs,escocia,local,43/45 (96%),Ebong M.Midfielder,9,0.08,6.5,-,2,1,56
+8AcLnHOs,escocia,local,21/31 (68%),Lapoukhov F.Goalkeeper,2,-,6.5,-,-,-,43
+8AcLnHOs,escocia,local,43/47 (91%),McLean K.Midfielder,7,0.04,6.5,-,1,-,55
+8AcLnHOs,escocia,local,12/14 (86%),Souttar J.Defender,2,-,6.5,-,-,-,20
+8AcLnHOs,escocia,local,46/52 (88%),Gilmour B.Midfielder,7,0.04,6.3,0/1 (0%),2,1,65
+8AcLnHOs,escocia,local,20/28 (71%),Barkovskiy G.Striker,9,0.07,6.2,-,3,3,40
+8AcLnHOs,escocia,local,11/12 (92%),Malashevich E.Winger,8,0.02,6.1,1/2 (50%),1,1,31
+8AcLnHOs,escocia,local,14/17 (82%),Pigas V.Fullback,4,-,6.1,1/2 (50%),-,1,27
+8AcLnHOs,escocia,local,32/35 (91%),Parkhomenko E.Centre back,6,-,6.0,-,-,-,48
+8AcLnHOs,escocia,local,18/21 (86%),Yablonskiy E.Midfielder,8,0.09,6.0,-,2,2,34
+8AcLnHOs,escocia,local,-,Bowie K.Forward,2,0.13,-,-,1,1,2
+8AcLnHOs,escocia,local,4/4 (100%),Demchenko N.Midfielder,-,-,-,-,-,1,5
+8AcLnHOs,escocia,local,2/4 (50%),Dykes L.Forward,1,-,-,-,-,-,5
+8AcLnHOs,escocia,local,6/6 (100%),Karpovich S.Defender,1,0.03,-,-,1,1,9
+8AcLnHOs,escocia,local,8/9 (89%),Korzun N.Midfielder,2,-,-,-,-,1,11
+8AcLnHOs,escocia,local,5/5 (100%),Kuchko G.Midfielder,1,0.52,-,1/1 (100%),1,1,9
+8AcLnHOs,escocia,local,1/1 (100%),Miller L.Midfielder,2,-,-,-,-,-,2
+Gz1Tpegf,escocia,local,27/33 (82%),Tsimikas K.Fullback,8,0.14,7.4,1/2 (50%),2,2,54
+Gz1Tpegf,escocia,local,22/28 (79%),Ferguson L.Midfielder,14,0.40,7.3,0/1 (0%),2,4,46
+Gz1Tpegf,escocia,local,45/49 (92%),Bakasetas A.Attacking midfielder,5,0.13,7.2,1/2 (50%),3,3,59
+Gz1Tpegf,escocia,local,22/22 (100%),Christie R.Midfielder,7,0.10,7.1,2/2 (100%),1,1,29
+Gz1Tpegf,escocia,local,32/42 (76%),Robertson A.Fullback,6,-,7.1,-,-,-,59
+Gz1Tpegf,escocia,local,113/116 (97%),Mavropanos K.Centre back,6,0.05,7.0,-,1,1,128
+Gz1Tpegf,escocia,local,9/22 (41%),Gunn A.Goalkeeper,1,-,6.9,-,-,-,30
+Gz1Tpegf,escocia,local,7/8 (88%),Karetsas K.Midfielder,-,0.02,6.7,-,1,1,12
+Gz1Tpegf,escocia,local,94/103 (91%),Koulierakis K.Centre back,3,-,6.7,-,-,-,110
+Gz1Tpegf,escocia,local,66/74 (89%),Vagiannidis G.Fullback,8,-,6.7,2/3 (67%),-,2,96
+Gz1Tpegf,escocia,local,3/5 (60%),Konstantelias G.Midfielder,3,0.03,6.6,1/1 (100%),1,3,9
+Gz1Tpegf,escocia,local,4/5 (80%),Ralston A.Defender,1,-,6.6,-,-,-,12
+Gz1Tpegf,escocia,local,7/9 (78%),Gilmour B.Midfielder,3,-,6.5,-,-,-,14
+Gz1Tpegf,escocia,local,44/48 (92%),Hanley G.Centre back,7,0.02,6.5,-,1,3,60
+Gz1Tpegf,escocia,local,5/5 (100%),Ioannidis F.Forward,2,-,6.5,1/2 (50%),-,3,10
+Gz1Tpegf,escocia,local,32/35 (91%),Masouras G.Winger,7,0.06,6.5,-,1,3,46
+Gz1Tpegf,escocia,local,42/44 (95%),Souttar J.Centre back,4,-,6.5,-,-,1,51
+Gz1Tpegf,escocia,local,25/28 (89%),Tzolis C.Winger,10,0.03,6.5,1/2 (50%),1,3,40
+Gz1Tpegf,escocia,local,11/15 (73%),McGinn J.Winger,6,0.05,6.3,-,1,1,32
+Gz1Tpegf,escocia,local,9/10 (90%),Pavlidis V.Striker,7,1.19,6.3,-,4,5,18
+Gz1Tpegf,escocia,local,9/10 (90%),Gannon-Doak B.Winger,4,-,6.2,0/1 (0%),-,2,24
+Gz1Tpegf,escocia,local,22/23 (96%),Hickey A.Fullback,4,-,6.1,-,-,-,29
+Gz1Tpegf,escocia,local,42/47 (89%),Kourbelis D.Midfielder,6,-,6.0,-,-,-,52
+Gz1Tpegf,escocia,local,6/6 (100%),Adams C.Striker,9,0.06,5.9,1/2 (50%),2,1,17
+Gz1Tpegf,escocia,local,38/42 (90%),Zafeiris C.Midfielder,6,-,5.9,-,-,2,52
+Gz1Tpegf,escocia,local,12/14 (86%),McTominay S.Attacking midfielder,5,-,5.8,1/2 (50%),-,-,26
+Gz1Tpegf,escocia,local,33/36 (92%),Tzolakis K.Goalkeeper,-,-,4.5,-,-,-,39
+Gz1Tpegf,escocia,local,3/4 (75%),Dykes L.Forward,2,0.66,-,-,1,2,7
+Gz1Tpegf,escocia,local,6/8 (75%),Mantalos P.Midfielder,3,-,-,-,-,-,11
+Gz1Tpegf,escocia,local,-,McKenna S.Defender,-,-,-,-,-,-,-
+Gz1Tpegf,escocia,local,8/9 (89%),Mouzakitis C.Midfielder,-,0.01,-,-,1,-,10
+Gz1Tpegf,escocia,local,2/3 (67%),Tierney K.Defender,1,-,-,1/1 (100%),-,-,5
+pGhpsDhJ,escocia,local,128/138 (93%),Robertson A.Fullback,1,0.03,8.7,-,1,2,161
+pGhpsDhJ,escocia,local,14/16 (88%),Adams C.Striker,8,1.16,8.4,2/3 (67%),5,6,33
+pGhpsDhJ,escocia,local,35/41 (85%),McTominay S.Attacking midfielder,15,0.47,8.1,4/9 (44%),3,9,66
+pGhpsDhJ,escocia,local,12/29 (41%),Lapoukhov F.Goalkeeper,3,-,7.9,-,-,-,48
+pGhpsDhJ,escocia,local,93/103 (90%),Ferguson L.Midfielder,9,-,7.8,-,-,-,111
+pGhpsDhJ,escocia,local,71/83 (86%),Gilmour B.Midfielder,9,0.11,7.5,1/3 (33%),2,5,98
+pGhpsDhJ,escocia,local,23/29 (79%),Gunn A.Goalkeeper,-,-,7.5,-,-,-,38
+pGhpsDhJ,escocia,local,29/34 (85%),Johnston M.Fullback,1,-,7.4,0/2 (0%),-,1,49
+pGhpsDhJ,escocia,local,31/38 (82%),Zabelin P.Centre back,5,-,7.4,-,-,-,52
+pGhpsDhJ,escocia,local,83/90 (92%),McKenna S.Centre back,11,-,7.2,-,-,-,98
+pGhpsDhJ,escocia,local,98/108 (91%),Souttar J.Centre back,13,0.09,7.2,-,1,1,114
+pGhpsDhJ,escocia,local,25/27 (93%),Gannon-Doak B.Winger,11,0.03,6.9,3/4 (75%),1,8,48
+pGhpsDhJ,escocia,local,13/16 (81%),Demchenko N.Midfielder,6,-,6.7,-,-,-,22
+pGhpsDhJ,escocia,local,42/47 (89%),McGinn J.Winger,7,0.26,6.7,1/1 (100%),1,3,58
+pGhpsDhJ,escocia,local,36/42 (86%),Parkhomenko E.Centre back,9,-,6.6,-,-,1,57
+pGhpsDhJ,escocia,local,5/5 (100%),Hickey A.Defender,3,-,6.5,-,-,-,10
+pGhpsDhJ,escocia,local,3/5 (60%),Melnichenko T.Forward,6,0.07,6.5,1/1 (100%),2,1,16
+pGhpsDhJ,escocia,local,10/13 (77%),Pigas V.Defender,5,-,6.5,1/2 (50%),-,-,33
+pGhpsDhJ,escocia,local,9/16 (56%),Pechenin K.Wingback,4,0.09,6.4,1/1 (100%),1,1,36
+pGhpsDhJ,escocia,local,4/8 (50%),Gromyko V.Midfielder,4,-,6.3,1/1 (100%),-,-,13
+pGhpsDhJ,escocia,local,6/8 (75%),Malkevich V.Defender,-,-,6.3,-,-,-,9
+pGhpsDhJ,escocia,local,10/12 (83%),Christie R.Midfielder,6,-,6.2,0/2 (0%),-,-,19
+pGhpsDhJ,escocia,local,11/14 (79%),Kalinin V.Midfielder,12,0.02,6.2,-,1,-,29
+pGhpsDhJ,escocia,local,2/5 (40%),Karpovich S.Wingback,2,-,6.2,-,-,1,14
+pGhpsDhJ,escocia,local,6/9 (67%),Barkovskiy G.Striker,23,0.02,6.0,-,1,1,20
+pGhpsDhJ,escocia,local,9/15 (60%),Myakish M.Midfielder,4,-,5.9,-,-,1,23
+pGhpsDhJ,escocia,local,-,Malashevich E.Striker,7,-,5.8,0/1 (0%),-,1,9
+pGhpsDhJ,escocia,local,18/22 (82%),Ebong M.Midfielder,9,0.14,5.7,1/1 (100%),1,1,32
+pGhpsDhJ,escocia,local,17/22 (77%),Volkov Z.Centre back,1,-,5.4,-,-,-,28
+pGhpsDhJ,escocia,local,4/7 (57%),Dykes L.Forward,4,-,-,-,-,-,7
+pGhpsDhJ,escocia,local,9/9 (100%),McLean K.Midfielder,1,-,-,-,-,-,10
+pGhpsDhJ,escocia,local,4/5 (80%),Miller L.Midfielder,1,-,-,-,-,-,7
+8tjqDbmS,escocia,local,106/109 (97%),Andersen J.Centre back,12,0.06,8.5,1/1 (100%),1,2,127
+8tjqDbmS,escocia,local,49/62 (79%),Damsgaard M.Attacking midfielder,5,-,7.9,0/2 (0%),-,3,92
+8tjqDbmS,escocia,local,61/67 (91%),Kristensen R.Centre back,9,-,7.7,-,-,4,97
+8tjqDbmS,escocia,local,80/91 (88%),Hojbjerg P.Midfielder,8,0.38,7.5,1/1 (100%),5,4,108
+8tjqDbmS,escocia,local,78/81 (96%),Christensen A.Centre back,10,-,7.4,-,-,-,91
+8tjqDbmS,escocia,local,19/26 (73%),McGinn J.Winger,8,0.14,7.3,0/2 (0%),2,4,49
+8tjqDbmS,escocia,local,17/24 (71%),Robertson A.Fullback,4,-,7.3,1/2 (50%),-,2,55
+8tjqDbmS,escocia,local,6/7 (86%),Souttar J.Centre back,6,-,7.3,-,-,-,21
+8tjqDbmS,escocia,local,9/12 (75%),Hanley G.Centre back,8,-,7.1,-,-,1,27
+8tjqDbmS,escocia,local,62/66 (94%),Hjulmand M.Midfielder,10,0.34,7.1,-,2,2,84
+8tjqDbmS,escocia,local,12/30 (40%),Gunn A.Goalkeeper,3,-,7.0,-,-,-,42
+8tjqDbmS,escocia,local,15/17 (88%),McTominay S.Midfielder,15,0.09,6.7,6/7 (86%),2,5,41
+8tjqDbmS,escocia,local,18/21 (86%),Schmeichel K.Goalkeeper,1,-,6.7,-,-,-,28
+8tjqDbmS,escocia,local,22/25 (88%),Ferguson L.Midfielder,4,-,6.6,-,-,1,39
+8tjqDbmS,escocia,local,12/12 (100%),Froholdt V.Midfielder,2,-,6.6,-,-,1,16
+8tjqDbmS,escocia,local,3/4 (75%),Gronbaek A.Midfielder,3,0.07,6.5,0/1 (0%),2,3,13
+8tjqDbmS,escocia,local,12/17 (71%),Hickey A.Fullback,8,0.05,6.5,2/2 (100%),2,4,39
+8tjqDbmS,escocia,local,2/3 (67%),Hojlund R.Forward,5,0.03,6.5,-,1,2,7
+8tjqDbmS,escocia,local,35/41 (85%),Maehle J.Wingback,16,0.03,6.5,0/2 (0%),1,1,65
+8tjqDbmS,escocia,local,-,Johnston M.Defender,2,-,6.4,-,-,-,7
+8tjqDbmS,escocia,local,21/24 (88%),Dreyer A.Wingback,2,0.02,6.3,-,1,1,39
+8tjqDbmS,escocia,local,8/16 (50%),Dykes L.Striker,15,0.22,6.3,-,2,2,29
+8tjqDbmS,escocia,local,5/9 (56%),Biereth M.Striker,7,0.15,6.0,1/1 (100%),2,3,17
+8tjqDbmS,escocia,local,11/12 (92%),Dolberg K.Striker,8,0.12,6.0,-,1,2,21
+8tjqDbmS,escocia,local,7/10 (70%),Adams C.Attacking midfielder,12,-,5.7,-,-,2,22
+8tjqDbmS,escocia,local,17/24 (71%),Christie R.Winger,7,0.09,5.6,1/1 (100%),2,1,37
+8tjqDbmS,escocia,local,1/2 (50%),Gannon-Doak B.Forward,3,0.02,-,0/1 (0%),1,1,6
+8tjqDbmS,escocia,local,0/1 (0%),Hirst G.Forward,2,-,-,-,-,-,2
+8tjqDbmS,escocia,local,-,McLean K.Midfielder,1,-,-,-,-,-,5

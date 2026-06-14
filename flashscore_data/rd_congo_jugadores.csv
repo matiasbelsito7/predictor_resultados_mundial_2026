@@ -1,0 +1,265 @@
+match_id,seleccion,equipo,accurate_passesaccurate_passes,all,duelsduels,expected_goals_xgexpected_goals_xg,ratingrating,successful_dribblessuccessful_dribbles,total_shotstotal_shots,touches_in_opposition_boxtouches_in_opposition_box,touchestouches
+xlHCZ7lR,rd_congo,local,48/51 (94%),Kayembe J.Fullback,9,0.09,8.0,2/2 (100%),1,2,80
+xlHCZ7lR,rd_congo,local,5/7 (71%),Sepulveda M.Midfielder,3,0.04,7.5,2/2 (100%),1,-,15
+xlHCZ7lR,rd_congo,local,38/42 (90%),Mendez V.Midfielder,3,-,7.4,-,-,-,53
+xlHCZ7lR,rd_congo,local,19/22 (86%),Osorio D.Winger,11,0.04,7.2,0/2 (0%),2,-,39
+xlHCZ7lR,rd_congo,local,49/55 (89%),Sierralta F.Centre back,6,-,7.2,-,-,-,73
+xlHCZ7lR,rd_congo,local,27/33 (82%),Cepeda L.Attacking midfielder,4,0.01,6.7,-,1,-,46
+xlHCZ7lR,rd_congo,local,9/12 (75%),Faundez F.Fullback,8,-,6.7,1/1 (100%),-,-,28
+xlHCZ7lR,rd_congo,local,34/42 (81%),Pizarro V.Midfielder,6,0.01,6.7,1/1 (100%),1,1,51
+xlHCZ7lR,rd_congo,local,29/35 (83%),Suazo G.Fullback,9,-,6.7,1/2 (50%),-,1,51
+xlHCZ7lR,rd_congo,local,10/12 (83%),Cipenga B.Midfielder,7,0.13,6.6,1/4 (25%),2,2,23
+xlHCZ7lR,rd_congo,local,19/30 (63%),Vigouroux L.Goalkeeper,2,-,6.6,1/1 (100%),-,-,40
+xlHCZ7lR,rd_congo,local,35/38 (92%),Wan-Bissaka A.Fullback,9,-,6.6,1/2 (50%),-,-,58
+xlHCZ7lR,rd_congo,local,8/9 (89%),Gutierrez M.Forward,2,-,6.5,0/1 (0%),-,1,18
+xlHCZ7lR,rd_congo,local,7/11 (64%),Hormazabal F.Defender,7,-,6.5,-,-,1,23
+xlHCZ7lR,rd_congo,local,10/12 (83%),Ulloa D.Defender,3,-,6.5,1/1 (100%),-,1,19
+xlHCZ7lR,rd_congo,local,5/9 (56%),Bakambu C.Forward,1,0.04,6.4,-,1,1,14
+xlHCZ7lR,rd_congo,local,6/7 (86%),Echeverria R.Midfielder,2,-,6.4,-,-,-,12
+xlHCZ7lR,rd_congo,local,18/22 (82%),Kayembe E.Midfielder,3,-,6.4,-,-,-,25
+xlHCZ7lR,rd_congo,local,14/16 (88%),Loyola F.Midfielder,2,-,6.4,-,-,-,18
+xlHCZ7lR,rd_congo,local,28/36 (78%),Moutoussamy S.Midfielder,2,-,6.4,1/1 (100%),-,-,41
+xlHCZ7lR,rd_congo,local,13/14 (93%),Tapia G.Striker,14,0.18,6.4,-,1,4,26
+xlHCZ7lR,rd_congo,local,18/22 (82%),Tshibola A.Midfielder,5,-,6.4,-,-,-,26
+xlHCZ7lR,rd_congo,local,4/8 (50%),Bongonda T.Winger,9,0.02,6.3,0/2 (0%),1,2,21
+xlHCZ7lR,rd_congo,local,12/13 (92%),Millan L.Midfielder,3,-,6.3,1/2 (50%),-,-,17
+xlHCZ7lR,rd_congo,local,11/14 (79%),Mukau N.Midfielder,1,-,6.3,0/1 (0%),-,1,18
+xlHCZ7lR,rd_congo,local,17/18 (94%),Sadiki N.Midfielder,5,0.10,6.3,-,2,-,25
+xlHCZ7lR,rd_congo,local,16/20 (80%),Kakuta G.Midfielder,5,-,6.2,1/1 (100%),-,2,26
+xlHCZ7lR,rd_congo,local,10/13 (77%),Lichnovsky I.Defender,-,-,6.2,-,-,-,23
+xlHCZ7lR,rd_congo,local,3/5 (60%),Morales I.Forward,1,-,6.2,-,-,-,6
+xlHCZ7lR,rd_congo,local,2/3 (67%),Wissa Y.Striker,7,-,6.2,2/4 (50%),-,3,13
+xlHCZ7lR,rd_congo,local,31/33 (94%),Maripan G.Centre back,2,-,6.1,-,-,-,37
+xlHCZ7lR,rd_congo,local,21/23 (91%),Mbuku N.Winger,17,0.03,6.0,2/5 (40%),1,1,43
+xlHCZ7lR,rd_congo,local,51/58 (88%),Tuanzebe A.Centre back,5,0.09,6.0,-,2,2,70
+xlHCZ7lR,rd_congo,local,43/55 (78%),Mbemba Ch.Centre back,3,-,5.9,1/1 (100%),-,-,64
+xlHCZ7lR,rd_congo,local,9/14 (64%),Elia M.Forward,9,-,5.7,1/1 (100%),-,2,21
+xlHCZ7lR,rd_congo,local,20/25 (80%),Reichmuth N.Winger,9,-,5.5,1/2 (50%),-,4,40
+xlHCZ7lR,rd_congo,local,28/34 (82%),Mpasi-Nzau L.Goalkeeper,-,-,5.4,-,-,-,39
+K0OFPazG,rd_congo,local,16/19 (84%),Jorgensen F.Goalkeeper,-,-,7.8,-,-,-,32
+K0OFPazG,rd_congo,local,57/62 (92%),Jensen M.Midfielder,2,-,7.5,-,-,1,72
+K0OFPazG,rd_congo,local,23/33 (70%),Mpasi-Nzau L.Goalkeeper,1,-,7.4,-,-,-,45
+K0OFPazG,rd_congo,local,25/29 (86%),Wissa Y.Striker,14,0.01,7.3,5/9 (56%),1,3,55
+K0OFPazG,rd_congo,local,45/51 (88%),Eriksen C.Midfielder,4,0.02,7.1,-,1,3,58
+K0OFPazG,rd_congo,local,71/76 (93%),Kristensen R.Fullback,6,-,7.1,-,-,3,96
+K0OFPazG,rd_congo,local,59/63 (94%),Hojbjerg P.Midfielder,6,0.03,7.0,-,2,1,73
+K0OFPazG,rd_congo,local,75/82 (91%),Provstgaard O.Centre back,2,-,7.0,-,-,-,92
+K0OFPazG,rd_congo,local,58/59 (98%),Christensen A.Centre back,1,-,6.9,-,-,-,66
+K0OFPazG,rd_congo,local,28/34 (82%),Daghim A.Winger,15,0.41,6.9,2/4 (50%),3,8,57
+K0OFPazG,rd_congo,local,14/15 (93%),Kayembe J.Defender,3,0.07,6.9,1/2 (50%),1,2,29
+K0OFPazG,rd_congo,local,45/53 (85%),Maehle J.Fullback,9,0.04,6.9,-,1,-,77
+K0OFPazG,rd_congo,local,47/51 (92%),Kapuadi S.Centre back,5,-,6.8,0/1 (0%),-,-,64
+K0OFPazG,rd_congo,local,37/47 (79%),Mbemba Ch.Centre back,1,-,6.7,-,-,-,57
+K0OFPazG,rd_congo,local,48/57 (84%),Moutoussamy S.Midfielder,3,0.02,6.7,-,1,-,66
+K0OFPazG,rd_congo,local,25/30 (83%),Andersen J.Defender,1,-,6.6,-,-,-,32
+K0OFPazG,rd_congo,local,24/27 (89%),Kayembe E.Midfielder,4,-,6.6,-,-,-,35
+K0OFPazG,rd_congo,local,11/11 (100%),Sadiki N.Midfielder,6,0.04,6.6,0/2 (0%),1,-,19
+K0OFPazG,rd_congo,local,6/8 (75%),Gronbaek A.Midfielder,-,0.03,6.5,-,1,-,13
+K0OFPazG,rd_congo,local,34/38 (89%),Mukau N.Midfielder,5,-,6.5,2/2 (100%),-,-,45
+K0OFPazG,rd_congo,local,31/33 (94%),Tuanzebe A.Centre back,-,-,6.5,-,-,-,39
+K0OFPazG,rd_congo,local,9/12 (75%),Osula W.Forward,6,0.03,6.4,0/4 (0%),1,2,27
+K0OFPazG,rd_congo,local,5/9 (56%),Pickel C.Midfielder,2,-,6.4,1/1 (100%),-,1,13
+K0OFPazG,rd_congo,local,2/3 (67%),Banza S.Forward,-,0.15,6.3,-,2,3,5
+K0OFPazG,rd_congo,local,9/12 (75%),Dorgu P.Winger,2,0.13,6.3,-,1,2,20
+K0OFPazG,rd_congo,local,2/2 (100%),Hogh K.Forward,-,-,6.3,-,-,-,3
+K0OFPazG,rd_congo,local,6/9 (67%),Hojlund R.Striker,3,0.12,6.3,-,2,2,17
+K0OFPazG,rd_congo,local,5/10 (50%),Bakambu C.Striker,4,0.53,6.2,1/1 (100%),1,3,14
+K0OFPazG,rd_congo,local,11/13 (85%),Froholdt V.Midfielder,3,-,6.2,-,-,-,18
+K0OFPazG,rd_congo,local,25/32 (78%),Masuaku A.Wingback,7,0.01,6.2,2/2 (100%),1,-,48
+K0OFPazG,rd_congo,local,36/43 (84%),Kalulu G.Wingback,4,-,6.0,-,-,1,57
+K0OFPazG,rd_congo,local,15/16 (94%),Hogsberg L.Defender,-,-,-,-,-,-,17
+K0OFPazG,rd_congo,local,3/4 (75%),Mbuku N.Forward,1,-,-,-,-,-,8
+K0OFPazG,rd_congo,local,2/2 (100%),Wan-Bissaka A.Defender,-,-,-,-,-,-,5
+nHRhJvF8,rd_congo,local,59/70 (84%),Tuanzebe A.Centre back,5,0.29,8.1,-,1,1,81
+nHRhJvF8,rd_congo,local,44/54 (81%),Masuaku A.Fullback,10,0.01,7.6,0/2 (0%),1,2,81
+nHRhJvF8,rd_congo,local,43/58 (74%),Mbemba Ch.Centre back,9,0.03,7.6,-,2,1,75
+nHRhJvF8,rd_congo,local,16/22 (73%),Mbuku N.Winger,14,-,7.6,-,-,1,35
+nHRhJvF8,rd_congo,local,26/39 (67%),Mpasi-Nzau L.Goalkeeper,-,-,7.5,-,-,-,55
+nHRhJvF8,rd_congo,local,15/25 (60%),Webster R.Fullback,21,-,7.5,-,-,-,57
+nHRhJvF8,rd_congo,local,35/40 (88%),Wan-Bissaka A.Fullback,8,-,7.4,0/1 (0%),-,2,65
+nHRhJvF8,rd_congo,local,41/53 (77%),Moutoussamy S.Midfielder,7,-,7.2,-,-,1,64
+nHRhJvF8,rd_congo,local,70/83 (84%),Pinnock E.Centre back,2,0.02,7.2,-,1,1,102
+nHRhJvF8,rd_congo,local,25/30 (83%),Wissa Y.Attacking midfielder,14,0.09,7.2,3/8 (38%),3,8,50
+nHRhJvF8,rd_congo,local,7/10 (70%),Cipenga B.Midfielder,14,-,7.1,3/5 (60%),-,3,25
+nHRhJvF8,rd_congo,local,48/53 (91%),Palmer K.Midfielder,15,0.10,7.0,2/3 (67%),1,3,72
+nHRhJvF8,rd_congo,local,10/12 (83%),Bakambu C.Striker,5,0.19,6.9,-,5,8,29
+nHRhJvF8,rd_congo,local,19/23 (83%),Mukau N.Midfielder,10,-,6.9,2/2 (100%),-,-,31
+nHRhJvF8,rd_congo,local,46/55 (84%),Blake A.Goalkeeper,1,-,6.8,-,-,-,69
+nHRhJvF8,rd_congo,local,10/19 (53%),Elia M.Winger,13,0.11,6.8,1/4 (25%),2,6,38
+nHRhJvF8,rd_congo,local,4/5 (80%),Cephas R.Forward,10,-,6.6,3/4 (75%),-,2,19
+nHRhJvF8,rd_congo,local,22/24 (92%),Fray I.Defender,13,-,6.6,-,-,1,46
+nHRhJvF8,rd_congo,local,16/21 (76%),Kayembe E.Midfielder,7,0.67,6.6,2/2 (100%),3,1,39
+nHRhJvF8,rd_congo,local,60/84 (71%),King R.Centre back,2,-,6.6,-,-,1,99
+nHRhJvF8,rd_congo,local,10/15 (67%),Campbell T.Winger,6,-,6.5,2/3 (67%),-,-,26
+nHRhJvF8,rd_congo,local,3/4 (75%),Kayembe J.Defender,1,-,6.4,-,-,-,11
+nHRhJvF8,rd_congo,local,6/8 (75%),Campbell N.Forward,5,-,6.3,1/2 (50%),-,-,13
+nHRhJvF8,rd_congo,local,18/19 (95%),Hall T.Midfielder,4,-,6.3,0/1 (0%),-,1,25
+nHRhJvF8,rd_congo,local,7/10 (70%),Bell A.Defender,2,-,6.2,-,-,-,17
+nHRhJvF8,rd_congo,local,23/25 (92%),De Cordova-Reid B.Attacking midfielder,4,-,6.2,-,-,2,32
+nHRhJvF8,rd_congo,local,41/47 (87%),Hayden I.Midfielder,4,-,6.2,0/1 (0%),-,-,56
+nHRhJvF8,rd_congo,local,18/31 (58%),Bailey L.Winger,19,0.10,6.1,1/7 (14%),3,3,58
+nHRhJvF8,rd_congo,local,11/14 (79%),Bongonda T.Forward,7,0.07,6.1,1/4 (25%),2,2,26
+nHRhJvF8,rd_congo,local,2/4 (50%),Mason-Clark E.Forward,4,0.08,6.1,1/1 (100%),1,1,9
+nHRhJvF8,rd_congo,local,6/12 (50%),Cadamarteri B.Striker,9,-,5.9,0/1 (0%),-,2,20
+nHRhJvF8,rd_congo,local,23/30 (77%),Sadiki N.Midfielder,8,-,5.7,0/2 (0%),-,-,38
+nHRhJvF8,rd_congo,local,41/49 (84%),Latibeaudiere J.Fullback,12,-,5.6,-,-,-,70
+nHRhJvF8,rd_congo,local,-,Pickel C.Midfielder,1,-,-,-,-,-,1
+A5pTYVlJ,rd_congo,local,65/77 (84%),Bensebaini R.Centre back,19,-,8.0,0/1 (0%),-,-,99
+A5pTYVlJ,rd_congo,local,90/100 (90%),Mandi A.Centre back,5,-,7.4,-,-,1,112
+A5pTYVlJ,rd_congo,local,34/41 (83%),Boudaoui H.Midfielder,11,-,7.3,-,-,-,61
+A5pTYVlJ,rd_congo,local,37/45 (82%),Mpasi-Nzau L.Goalkeeper,1,-,7.3,0/1 (0%),-,-,61
+A5pTYVlJ,rd_congo,local,28/30 (93%),Zidane L.Goalkeeper,1,-,7.3,-,-,-,37
+A5pTYVlJ,rd_congo,local,33/37 (89%),Belaid Z.Defender,4,-,7.1,-,-,-,41
+A5pTYVlJ,rd_congo,local,38/44 (86%),Moutoussamy S.Midfielder,10,-,7.0,-,-,-,63
+A5pTYVlJ,rd_congo,local,31/36 (86%),Abdelli H.Midfielder,7,-,6.9,-,-,1,44
+A5pTYVlJ,rd_congo,local,29/31 (94%),Ait-Nouri R.Fullback,6,-,6.9,0/1 (0%),-,2,48
+A5pTYVlJ,rd_congo,local,20/27 (74%),Amoura M.Striker,9,0.15,6.9,1/1 (100%),2,4,43
+A5pTYVlJ,rd_congo,local,19/25 (76%),Chaibi F.Winger,8,0.14,6.9,0/1 (0%),2,5,47
+A5pTYVlJ,rd_congo,local,49/56 (88%),Mbemba Ch.Centre back,11,0.03,6.9,1/1 (100%),1,1,82
+A5pTYVlJ,rd_congo,local,31/37 (84%),Bennacer I.Midfielder,6,-,6.8,1/1 (100%),-,-,44
+A5pTYVlJ,rd_congo,local,19/22 (86%),Mahrez R.Winger,9,0.04,6.8,0/1 (0%),1,1,34
+A5pTYVlJ,rd_congo,local,56/64 (88%),Tuanzebe A.Centre back,5,0.02,6.8,-,1,1,75
+A5pTYVlJ,rd_congo,local,14/17 (82%),Hadj Moussa A.Forward,8,0.06,6.6,0/4 (0%),2,3,30
+A5pTYVlJ,rd_congo,local,38/43 (88%),Kayembe J.Fullback,5,-,6.6,-,-,-,74
+A5pTYVlJ,rd_congo,local,20/22 (91%),Sadiki N.Midfielder,3,-,6.6,-,-,-,29
+A5pTYVlJ,rd_congo,local,4/6 (67%),Balikwisha M.Forward,7,-,6.5,-,-,-,15
+A5pTYVlJ,rd_congo,local,13/16 (81%),Bongonda T.Winger,10,-,6.5,2/5 (40%),-,-,37
+A5pTYVlJ,rd_congo,local,25/31 (81%),Belghali R.Fullback,6,-,6.4,0/3 (0%),-,2,51
+A5pTYVlJ,rd_congo,local,10/14 (71%),Bounedjah B.Forward,7,0.10,6.4,1/1 (100%),2,3,22
+A5pTYVlJ,rd_congo,local,13/18 (72%),Maza I.Striker,7,0.15,6.4,0/1 (0%),2,2,29
+A5pTYVlJ,rd_congo,local,4/4 (100%),Pickel C.Midfielder,2,-,6.4,-,-,-,5
+A5pTYVlJ,rd_congo,local,23/32 (72%),Wan-Bissaka A.Fullback,15,-,6.4,1/4 (25%),-,1,72
+A5pTYVlJ,rd_congo,local,9/13 (69%),Mbuku N.Forward,5,0.02,6.2,2/3 (67%),1,-,25
+A5pTYVlJ,rd_congo,local,14/15 (93%),Kayembe E.Midfielder,7,0.01,6.1,-,1,-,20
+A5pTYVlJ,rd_congo,local,14/16 (88%),Mukau N.Midfielder,2,-,6.1,-,-,-,18
+A5pTYVlJ,rd_congo,local,3/4 (75%),Bakambu C.Striker,16,0.09,6.0,0/1 (0%),2,3,11
+A5pTYVlJ,rd_congo,local,9/13 (69%),Elia M.Winger,7,-,5.9,0/1 (0%),-,1,23
+A5pTYVlJ,rd_congo,local,4/5 (80%),Mayele F.Forward,5,-,5.8,-,-,-,7
+A5pTYVlJ,rd_congo,local,4/6 (67%),Kakuta G.Midfielder,3,-,5.7,-,-,-,11
+A5pTYVlJ,rd_congo,local,-,Boulbina A.Forward,-,0.06,-,-,1,1,1
+A5pTYVlJ,rd_congo,local,1/1 (100%),Zerrouki R.Midfielder,1,-,-,-,-,-,2
+WYRH0767,rd_congo,local,23/30 (77%),Kakuta G.Attacking midfielder,3,1.47,9.0,1/1 (100%),5,6,41
+WYRH0767,rd_congo,local,20/25 (80%),Mbuku N.Winger,4,0.19,8.6,1/1 (100%),2,5,37
+WYRH0767,rd_congo,local,65/70 (93%),Kayembe J.Fullback,12,-,8.0,3/3 (100%),-,5,93
+WYRH0767,rd_congo,local,7/8 (88%),Essende S.Forward,5,0.03,7.4,1/1 (100%),1,3,11
+WYRH0767,rd_congo,local,69/73 (95%),Mukau N.Midfielder,10,0.06,7.3,2/2 (100%),1,1,86
+WYRH0767,rd_congo,local,55/65 (85%),Kalulu G.Fullback,10,0.03,7.2,-,1,1,89
+WYRH0767,rd_congo,local,45/48 (94%),Pickel C.Midfielder,6,0.16,7.2,0/1 (0%),4,2,58
+WYRH0767,rd_congo,local,16/18 (89%),Bongonda T.Forward,5,0.78,7.1,1/2 (50%),5,6,30
+WYRH0767,rd_congo,local,17/21 (81%),Elia M.Winger,2,0.73,7.1,1/1 (100%),3,4,35
+WYRH0767,rd_congo,local,63/71 (89%),Gaolaolwe M.Centre back,7,-,7.0,1/1 (100%),-,-,89
+WYRH0767,rd_congo,local,40/41 (98%),Mbemba Ch.Centre back,2,-,7.0,-,-,-,46
+WYRH0767,rd_congo,local,24/26 (92%),Balikwisha M.Forward,1,0.11,6.9,-,2,6,32
+WYRH0767,rd_congo,local,24/27 (89%),Kopelang T.Midfielder,5,-,6.9,-,-,-,36
+WYRH0767,rd_congo,local,14/16 (88%),Mpasi-Nzau L.Goalkeeper,-,-,6.9,-,-,-,23
+WYRH0767,rd_congo,local,23/25 (92%),Sadiki N.Midfielder,2,0.03,6.8,-,1,-,29
+WYRH0767,rd_congo,local,51/52 (98%),Bushiri R.Centre back,6,-,6.7,-,-,1,56
+WYRH0767,rd_congo,local,12/15 (80%),Mayele F.Striker,9,0.44,6.7,1/2 (50%),3,6,24
+WYRH0767,rd_congo,local,16/16 (100%),Seakanyeng K.Winger,10,0.04,6.7,0/1 (0%),1,-,27
+WYRH0767,rd_congo,local,10/12 (83%),Orebonye T.Forward,6,0.07,6.5,0/1 (0%),3,1,20
+WYRH0767,rd_congo,local,25/30 (83%),Johnson M.Fullback,6,-,6.4,-,-,-,53
+WYRH0767,rd_congo,local,8/12 (67%),Modingwane G.Midfielder,4,-,6.4,-,-,-,14
+WYRH0767,rd_congo,local,13/18 (72%),Boy S.Attacking midfielder,4,-,6.3,0/1 (0%),-,-,28
+WYRH0767,rd_congo,local,9/12 (75%),Enosa M.Forward,4,-,6.3,-,-,-,16
+WYRH0767,rd_congo,local,5/6 (83%),Molefe C.Midfielder,1,-,6.3,-,-,-,9
+WYRH0767,rd_congo,local,26/29 (90%),Sesinyi T.Striker,13,-,6.3,-,-,3,42
+WYRH0767,rd_congo,local,60/65 (92%),Phoko G.Goalkeeper,-,-,6.2,-,-,-,73
+WYRH0767,rd_congo,local,23/24 (96%),Mohutsiwa G.Midfielder,3,-,6.1,-,-,-,31
+WYRH0767,rd_congo,local,30/34 (88%),Baruti G.Winger,2,0.07,6.0,-,1,-,41
+WYRH0767,rd_congo,local,25/30 (83%),Cooper M.Midfielder,9,-,6.0,0/3 (0%),-,2,44
+WYRH0767,rd_congo,local,27/36 (75%),Ditlhokwe T.Centre back,-,-,6.0,-,-,-,40
+WYRH0767,rd_congo,local,25/28 (89%),Leinanyane T.Fullback,4,0.09,5.4,-,1,1,39
+WYRH0767,rd_congo,local,1/1 (100%),Cipenga B.Midfielder,1,-,-,-,-,1,5
+KYWyABqL,rd_congo,local,29/41 (71%),Mane S.Winger,11,0.71,7.6,1/3 (33%),2,8,68
+KYWyABqL,rd_congo,local,18/22 (82%),Mbemba Ch.Centre back,11,0.06,7.3,0/1 (0%),1,1,39
+KYWyABqL,rd_congo,local,27/38 (71%),Tuanzebe A.Centre back,8,-,7.2,0/2 (0%),-,-,59
+KYWyABqL,rd_congo,local,7/9 (78%),Bongonda T.Winger,7,0.45,7.0,-,2,2,20
+KYWyABqL,rd_congo,local,20/22 (91%),Mukau N.Midfielder,4,-,7.0,1/1 (100%),-,-,31
+KYWyABqL,rd_congo,local,2/5 (40%),Bakambu C.Striker,9,0.39,6.9,-,1,1,14
+KYWyABqL,rd_congo,local,36/41 (88%),Diatta K.Fullback,5,-,6.9,-,-,-,70
+KYWyABqL,rd_congo,local,64/69 (93%),Gueye I.Midfielder,10,-,6.9,-,-,-,79
+KYWyABqL,rd_congo,local,64/75 (85%),Koulibaly K.Centre back,10,-,6.9,-,-,1,85
+KYWyABqL,rd_congo,local,43/49 (88%),Jakobs I.Fullback,4,-,6.8,-,-,1,70
+KYWyABqL,rd_congo,local,9/13 (69%),Kayembe J.Defender,5,-,6.8,0/1 (0%),-,-,25
+KYWyABqL,rd_congo,local,73/80 (91%),Niakhate M.Centre back,3,-,6.8,-,-,-,83
+KYWyABqL,rd_congo,local,13/14 (93%),Wan-Bissaka A.Fullback,2,-,6.8,0/1 (0%),-,1,29
+KYWyABqL,rd_congo,local,38/43 (88%),Gueye P.Midfielder,9,0.08,6.7,1/1 (100%),2,2,54
+KYWyABqL,rd_congo,local,24/26 (92%),Mendy E.Goalkeeper,-,-,6.7,-,-,-,32
+KYWyABqL,rd_congo,local,19/31 (61%),Mpasi-Nzau L.Goalkeeper,1,-,6.7,-,-,-,39
+KYWyABqL,rd_congo,local,15/18 (83%),Jackson N.Striker,14,0.19,6.6,3/4 (75%),3,7,38
+KYWyABqL,rd_congo,local,30/35 (86%),Masuaku A.Fullback,7,-,6.6,-,-,-,54
+KYWyABqL,rd_congo,local,32/41 (78%),Moutoussamy S.Midfielder,9,-,6.6,1/1 (100%),-,-,51
+KYWyABqL,rd_congo,local,25/29 (86%),Ndiaye I.Midfielder,6,-,6.6,0/2 (0%),-,2,39
+KYWyABqL,rd_congo,local,13/15 (87%),Elia M.Winger,9,-,6.5,2/4 (50%),-,1,32
+KYWyABqL,rd_congo,local,3/4 (75%),Mayele F.Forward,7,0.06,6.5,1/1 (100%),1,1,9
+KYWyABqL,rd_congo,local,15/19 (79%),Sadiki N.Midfielder,10,0.06,6.5,0/2 (0%),1,2,32
+KYWyABqL,rd_congo,local,12/15 (80%),Mbaye I.Forward,11,0.37,6.4,3/8 (38%),1,2,28
+KYWyABqL,rd_congo,local,9/11 (82%),Sarr I.Winger,6,0.88,6.4,1/4 (25%),3,4,24
+KYWyABqL,rd_congo,local,3/4 (75%),Kayembe E.Midfielder,-,-,6.3,-,-,-,9
+KYWyABqL,rd_congo,local,4/6 (67%),Mbuku N.Forward,5,0.05,6.0,-,1,-,13
+KYWyABqL,rd_congo,local,3/3 (100%),Balikwisha M.Forward,2,-,-,-,-,1,8
+KYWyABqL,rd_congo,local,5/6 (83%),Camara L.Midfielder,2,-,-,0/1 (0%),-,-,10
+KYWyABqL,rd_congo,local,1/2 (50%),Diallo H.Forward,3,-,-,-,-,-,2
+KYWyABqL,rd_congo,local,1/1 (100%),Sabaly C.Forward,2,-,-,-,-,-,4
+nLYTBXE8,rd_congo,local,11/15 (73%),Bongonda T.Winger,7,0.72,8.0,-,3,3,28
+nLYTBXE8,rd_congo,local,21/28 (75%),Mbemba Ch.Centre back,5,-,7.8,0/1 (0%),-,-,43
+nLYTBXE8,rd_congo,local,19/27 (70%),Masuaku A.Fullback,5,-,7.6,-,-,-,41
+nLYTBXE8,rd_congo,local,22/30 (73%),Wan-Bissaka A.Fullback,10,-,7.3,0/1 (0%),-,-,57
+nLYTBXE8,rd_congo,local,10/13 (77%),Mbuku N.Winger,12,0.04,7.2,2/2 (100%),1,2,36
+nLYTBXE8,rd_congo,local,7/8 (88%),Amoussou R.Midfielder,4,0.03,7.1,0/1 (0%),1,-,23
+nLYTBXE8,rd_congo,local,46/57 (81%),Imourane H.Midfielder,14,0.03,7.0,3/3 (100%),1,-,74
+nLYTBXE8,rd_congo,local,29/35 (83%),Moumini A.Fullback,16,0.04,6.9,5/6 (83%),1,-,61
+nLYTBXE8,rd_congo,local,11/20 (55%),Mpasi-Nzau L.Goalkeeper,-,-,6.9,-,-,-,28
+nLYTBXE8,rd_congo,local,16/18 (89%),Mukau N.Midfielder,7,0.02,6.8,1/2 (50%),1,-,28
+nLYTBXE8,rd_congo,local,31/45 (69%),Ouorou T.Fullback,7,0.10,6.8,-,3,-,76
+nLYTBXE8,rd_congo,local,15/18 (83%),Sadiki N.Midfielder,13,0.12,6.8,1/1 (100%),1,2,29
+nLYTBXE8,rd_congo,local,31/38 (82%),Moutoussamy S.Midfielder,4,0.03,6.7,-,1,-,45
+nLYTBXE8,rd_congo,local,18/22 (82%),Tuanzebe A.Centre back,4,0.05,6.7,-,1,3,33
+nLYTBXE8,rd_congo,local,23/27 (85%),Dodo D.Attacking midfielder,12,0.10,6.6,0/1 (0%),2,3,47
+nLYTBXE8,rd_congo,local,77/89 (87%),Verdon O.Centre back,5,-,6.6,-,-,-,98
+nLYTBXE8,rd_congo,local,17/17 (100%),Allagbe S.Goalkeeper,1,-,6.5,-,-,-,25
+nLYTBXE8,rd_congo,local,10/12 (83%),Elia M.Forward,6,-,6.5,1/4 (25%),-,1,20
+nLYTBXE8,rd_congo,local,11/13 (85%),Kayembe E.Midfielder,4,-,6.5,-,-,-,17
+nLYTBXE8,rd_congo,local,74/83 (89%),Roche Y.Centre back,12,-,6.5,-,-,-,94
+nLYTBXE8,rd_congo,local,9/14 (64%),Kayembe J.Defender,3,-,6.3,-,-,-,22
+nLYTBXE8,rd_congo,local,10/17 (59%),Aloko R.Winger,13,0.03,6.2,1/3 (33%),1,6,35
+nLYTBXE8,rd_congo,local,7/15 (47%),Bakambu C.Striker,15,0.51,6.2,-,2,5,28
+nLYTBXE8,rd_congo,local,12/14 (86%),Tosin A.Striker,3,0.16,6.2,0/1 (0%),3,3,27
+nLYTBXE8,rd_congo,local,35/40 (88%),D'Almeida S.Midfielder,8,-,6.1,-,-,-,53
+nLYTBXE8,rd_congo,local,9/11 (82%),Dossou J.Winger,10,-,5.9,0/3 (0%),-,1,30
+nLYTBXE8,rd_congo,local,9/10 (90%),Cipenga B.Midfielder,4,-,-,-,-,-,11
+nLYTBXE8,rd_congo,local,4/8 (50%),Mayele F.Forward,7,0.01,-,1/1 (100%),1,-,11
+nLYTBXE8,rd_congo,local,10/10 (100%),Samadou A.Midfielder,-,-,-,-,-,-,11
+nLYTBXE8,rd_congo,local,-,Tessilimi O.Forward,1,-,-,-,-,1,1
+Ymk3bJRr,rd_congo,local,11/13 (85%),Lamlioui O.Forward,7,0.62,8.1,1/1 (100%),3,3,24
+Ymk3bJRr,rd_congo,local,44/45 (98%),Hrimat M.Midfielder,6,0.79,7.8,1/2 (50%),1,1,53
+Ymk3bJRr,rd_congo,local,14/23 (61%),Belammari Y.Midfielder,3,-,7.5,0/1 (0%),-,1,39
+Ymk3bJRr,rd_congo,local,6/14 (43%),Kitambala J.Forward,16,0.41,7.5,-,5,6,31
+Ymk3bJRr,rd_congo,local,6/9 (67%),Baba K.Forward,4,0.14,7.4,1/2 (50%),1,3,20
+Ymk3bJRr,rd_congo,local,23/28 (82%),Amongo B.Midfielder,8,0.05,7.1,-,2,1,44
+Ymk3bJRr,rd_congo,local,20/26 (77%),Mehri Y.Forward,7,-,6.9,0/2 (0%),-,4,33
+Ymk3bJRr,rd_congo,local,37/45 (82%),Boulacsout M.Defender,7,-,6.8,1/1 (100%),-,2,70
+Ymk3bJRr,rd_congo,local,24/31 (77%),Louadni M.Defender,17,-,6.8,0/1 (0%),-,-,45
+Ymk3bJRr,rd_congo,local,24/39 (62%),Al Harrar E. M.Goalkeeper,1,-,6.7,-,-,-,51
+Ymk3bJRr,rd_congo,local,32/38 (84%),Bach A.Midfielder,3,-,6.6,-,-,-,44
+Ymk3bJRr,rd_congo,local,6/6 (100%),Moufid M.Defender,1,-,6.6,1/1 (100%),-,-,9
+Ymk3bJRr,rd_congo,local,16/25 (64%),Bougrine S.Midfielder,8,0.03,6.5,0/2 (0%),1,3,36
+Ymk3bJRr,rd_congo,local,26/35 (74%),Mansanga L.Defender,5,0.07,6.5,1/2 (50%),2,3,54
+Ymk3bJRr,rd_congo,local,40/48 (83%),Arrassi B.Defender,5,-,6.4,-,-,-,55
+Ymk3bJRr,rd_congo,local,8/11 (73%),Riahi I.Midfielder,5,-,6.4,0/1 (0%),-,2,18
+Ymk3bJRr,rd_congo,local,21/26 (81%),Mwimba Kapanga J.Defender,7,-,6.3,-,-,-,48
+Ymk3bJRr,rd_congo,local,1/1 (100%),Horso Mwaku M.Forward,3,-,6.2,-,-,-,1
+Ymk3bJRr,rd_congo,local,6/7 (86%),Nyembo Ntumba L.Forward,1,-,6.2,-,-,-,7
+Ymk3bJRr,rd_congo,local,8/9 (89%),Tukumbane J.Midfielder,2,0.01,6.2,-,1,2,13
+Ymk3bJRr,rd_congo,local,0/1 (0%),Baso K.Forward,1,-,6.1,-,-,-,4
+Ymk3bJRr,rd_congo,local,14/16 (88%),Kabwit O.Forward,3,0.04,6.0,0/1 (0%),2,5,27
+Ymk3bJRr,rd_congo,local,7/12 (58%),Matobo Mubalu I.Forward,7,0.04,6.0,1/1 (100%),1,1,21
+Ymk3bJRr,rd_congo,local,29/30 (97%),Mika M.Midfielder,3,-,6.0,-,-,-,34
+Ymk3bJRr,rd_congo,local,21/28 (75%),Kayembe H.Defender,7,0.13,5.8,-,1,1,36
+Ymk3bJRr,rd_congo,local,49/54 (91%),Ntambwe M.Defender,5,-,5.8,1/1 (100%),-,-,65
+Ymk3bJRr,rd_congo,local,40/55 (73%),Ndombele Lutaladio O.Defender,7,-,5.7,-,-,-,66
+Ymk3bJRr,rd_congo,local,22/27 (81%),Efonge B.Goalkeeper,-,-,5.5,-,-,-,31
+Ymk3bJRr,rd_congo,local,-,El Mahraoui A.Forward,1,-,-,-,-,-,-
+Ymk3bJRr,rd_congo,local,2/2 (100%),Khairi A.Midfielder,-,-,-,-,-,-,2
+Ymk3bJRr,rd_congo,local,1/1 (100%),Mchakhchekh M.Defender,1,-,-,-,-,-,1
+Ymk3bJRr,rd_congo,local,-,Talasi T.Forward,1,-,-,-,-,-,1

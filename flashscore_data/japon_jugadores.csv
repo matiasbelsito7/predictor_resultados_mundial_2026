@@ -1,0 +1,200 @@
+match_id,seleccion,equipo,accurate_passesaccurate_passes,all,duelsduels,expected_goals_xgexpected_goals_xg,ratingrating,successful_dribblessuccessful_dribbles,total_shotstotal_shots,touches_in_opposition_boxtouches_in_opposition_box,touchestouches
+r5MReUf2,japon,local,16/18 (89%),Sugawara Y.Defender,2,0.04,8.0,0/1 (0%),1,1,41
+r5MReUf2,japon,local,69/76 (91%),Tomiyasu T.Centre back,5,0.08,7.7,1/1 (100%),2,4,84
+r5MReUf2,japon,local,30/34 (88%),Kubo T.Attacking midfielder,8,0.13,7.6,1/5 (20%),2,8,53
+r5MReUf2,japon,local,46/51 (90%),Nakamura K.Wingback,7,0.22,7.5,0/2 (0%),4,4,64
+r5MReUf2,japon,local,3/5 (60%),Ogawa K.Forward,4,0.34,7.4,-,2,1,9
+r5MReUf2,japon,local,35/55 (64%),Valdimarsson H. R.Goalkeeper,-,-,7.4,-,-,-,69
+r5MReUf2,japon,local,73/76 (96%),Itakura K.Centre back,10,0.15,7.3,-,1,1,81
+r5MReUf2,japon,local,12/19 (63%),Suzuki Z.Goalkeeper,-,-,7.3,-,-,-,23
+r5MReUf2,japon,local,52/56 (93%),Tanaka A.Midfielder,3,0.02,7.2,0/1 (0%),1,-,63
+r5MReUf2,japon,local,58/62 (94%),Ito H.Defender,4,-,7.1,-,-,1,78
+r5MReUf2,japon,local,54/63 (86%),Thordarson S. T.Centre back,10,-,7.0,-,-,-,76
+r5MReUf2,japon,local,20/23 (87%),Seko A.Defender,2,-,6.9,-,-,-,28
+r5MReUf2,japon,local,22/25 (88%),Yoshida M.Centre back,3,-,6.8,-,-,-,29
+r5MReUf2,japon,local,9/14 (64%),Doan R.Wingback,7,-,6.6,-,-,-,23
+r5MReUf2,japon,local,18/20 (90%),Ito J.Attacking midfielder,6,0.03,6.6,1/2 (50%),1,1,31
+r5MReUf2,japon,local,37/44 (84%),Endo W.Midfielder,6,-,6.5,-,-,1,48
+r5MReUf2,japon,local,67/69 (97%),Magnusson H.Centre back,7,-,6.5,-,-,-,82
+r5MReUf2,japon,local,8/9 (89%),Nagatomo Y.Defender,2,0.04,6.5,0/1 (0%),1,2,20
+r5MReUf2,japon,local,9/11 (82%),Ueda A.Striker,2,-,6.5,-,-,-,13
+r5MReUf2,japon,local,2/4 (50%),Andresson B.Forward,3,-,6.4,-,-,-,5
+r5MReUf2,japon,local,33/36 (92%),Baldursson A. F.Midfielder,5,-,6.4,-,-,-,47
+r5MReUf2,japon,local,50/55 (91%),Gretarsson D. L.Centre back,3,-,6.4,-,-,-,65
+r5MReUf2,japon,local,13/15 (87%),Gunnarsson A.Midfielder,3,-,6.4,-,-,-,17
+r5MReUf2,japon,local,35/47 (74%),Tomasson L.Wingback,2,0.04,6.4,-,2,-,63
+r5MReUf2,japon,local,11/14 (79%),Watanabe T.Defender,5,-,6.4,-,-,-,16
+r5MReUf2,japon,local,3/6 (50%),Goto K.Forward,2,-,6.3,-,-,-,8
+r5MReUf2,japon,local,2/2 (100%),Shiogai K.Forward,2,-,6.3,-,-,-,4
+r5MReUf2,japon,local,9/12 (75%),Willumsson W. T.Midfielder,2,0.14,6.3,-,1,2,16
+r5MReUf2,japon,local,9/13 (69%),Thordarson G.Midfielder,6,-,6.0,0/1 (0%),-,-,19
+r5MReUf2,japon,local,33/40 (83%),Thorhallsson D.Wingback,4,0.08,6.0,0/1 (0%),2,-,55
+r5MReUf2,japon,local,22/25 (88%),Hlynsson K.Midfielder,8,-,5.8,2/3 (67%),-,1,37
+r5MReUf2,japon,local,9/14 (64%),Willumsson B.Striker,15,0.09,5.7,-,1,1,22
+r5MReUf2,japon,local,12/17 (71%),Ellertsson M. E.Midfielder,10,0.03,5.3,1/5 (20%),1,2,34
+r5MReUf2,japon,local,2/4 (50%),Hayakawa T.Goalkeeper,2,-,-,-,-,-,6
+r5MReUf2,japon,local,10/11 (91%),Hermannsson H.Defender,1,0.06,-,-,1,-,14
+r5MReUf2,japon,local,3/3 (100%),Sano K.Midfielder,1,-,-,-,-,-,4
+r5MReUf2,japon,local,1/1 (100%),Sigurdarson S. I.Forward,2,-,-,-,-,-,1
+r5MReUf2,japon,local,6/6 (100%),Taniguchi S.Defender,-,-,-,-,-,-,7
+r5MReUf2,japon,local,1/2 (50%),Thorvaldsson I.Forward,2,0.03,-,-,1,1,5
+OKGq0y0m,japon,local,3/4 (75%),Nakamura K.Forward,-,0.21,9.0,-,2,2,9
+OKGq0y0m,japon,local,22/26 (85%),Kamada D.Midfielder,8,0.08,8.2,2/3 (67%),1,1,38
+OKGq0y0m,japon,local,2/2 (100%),Machino S.Forward,-,0.32,7.7,-,1,1,3
+OKGq0y0m,japon,local,14/21 (67%),Kubo T.Forward,7,-,7.3,0/3 (0%),-,3,32
+OKGq0y0m,japon,local,12/18 (67%),Sugawara Y.Defender,7,-,7.2,-,-,2,30
+OKGq0y0m,japon,local,40/45 (89%),Taniguchi S.Defender,4,-,7.1,-,-,-,49
+OKGq0y0m,japon,local,40/44 (91%),Endo W.Midfielder,14,0.03,6.9,-,1,1,53
+OKGq0y0m,japon,local,41/46 (89%),Seko A.Defender,4,-,6.9,-,-,-,53
+OKGq0y0m,japon,local,4/4 (100%),Ueda A.Forward,3,-,6.9,-,-,1,7
+OKGq0y0m,japon,local,6/8 (75%),Doan R.Midfielder,4,-,6.8,-,-,-,12
+OKGq0y0m,japon,local,15/22 (68%),Minamino T.Forward,3,0.08,6.7,-,1,1,29
+OKGq0y0m,japon,local,23/26 (88%),Hayakawa T.Goalkeeper,-,-,6.6,-,-,-,27
+OKGq0y0m,japon,local,12/14 (86%),Maeda D.Forward,3,-,6.6,-,-,-,31
+OKGq0y0m,japon,local,23/24 (96%),Vaca Moreno E.Forward,4,-,6.6,2/2 (100%),-,-,27
+OKGq0y0m,japon,local,39/43 (91%),Itakura K.Defender,9,-,6.5,-,-,1,51
+OKGq0y0m,japon,local,14/16 (88%),Robson MatheusMidfielder,2,-,6.5,0/2 (0%),-,-,23
+OKGq0y0m,japon,local,16/18 (89%),MiguelitoMidfielder,8,0.10,6.4,1/2 (50%),3,2,28
+OKGq0y0m,japon,local,4/5 (80%),Fujita J.Midfielder,1,-,6.3,-,-,-,7
+OKGq0y0m,japon,local,31/35 (89%),Arroyo D.Defender,5,0.01,6.2,1/1 (100%),1,-,48
+OKGq0y0m,japon,local,7/14 (50%),Nava F.Forward,25,0.06,6.2,2/4 (50%),2,-,42
+OKGq0y0m,japon,local,22/23 (96%),Medina D.Defender,4,0.02,6.1,-,1,1,35
+OKGq0y0m,japon,local,41/48 (85%),Torrez M.Defender,4,0.04,6.1,-,2,-,58
+OKGq0y0m,japon,local,13/16 (81%),Villamil G.Midfielder,5,-,6.1,1/2 (50%),-,-,23
+OKGq0y0m,japon,local,3/4 (75%),Villarroel M.Midfielder,-,0.02,6.1,-,1,-,5
+OKGq0y0m,japon,local,22/25 (88%),Cuellar H.Defender,5,-,6.0,-,-,-,31
+OKGq0y0m,japon,local,6/9 (67%),Monteiro E.Forward,8,0.03,6.0,-,1,2,18
+OKGq0y0m,japon,local,28/34 (82%),Fernandez R.Midfielder,5,0.08,5.9,1/1 (100%),1,1,50
+OKGq0y0m,japon,local,8/11 (73%),Ogawa K.Forward,6,1.01,5.9,-,2,3,16
+OKGq0y0m,japon,local,19/34 (56%),Viscarra G.Goalkeeper,-,-,5.9,-,-,-,39
+OKGq0y0m,japon,local,0/1 (0%),Goto K.Forward,2,-,-,0/1 (0%),-,1,4
+88Gb5U1E,japon,local,33/36 (92%),Pulisic C.Forward,9,0.37,9.1,4/6 (67%),4,8,56
+88Gb5U1E,japon,local,34/38 (89%),Zendejas A.Midfielder,8,0.19,8.0,1/1 (100%),3,3,51
+88Gb5U1E,japon,local,29/31 (94%),Arfsten M.Forward,3,0.11,7.9,1/1 (100%),2,3,50
+88Gb5U1E,japon,local,20/28 (71%),Freese M.Goalkeeper,-,-,7.8,-,-,-,43
+88Gb5U1E,japon,local,25/36 (69%),Osako K.Goalkeeper,-,-,7.8,-,-,-,51
+88Gb5U1E,japon,local,10/10 (100%),de la Torre L.Midfielder,3,-,7.5,2/2 (100%),-,1,18
+88Gb5U1E,japon,local,61/67 (91%),Ream T.Defender,9,-,7.5,1/1 (100%),-,-,76
+88Gb5U1E,japon,local,17/19 (89%),Balogun F.Forward,4,0.68,7.3,1/1 (100%),4,9,30
+88Gb5U1E,japon,local,62/72 (86%),Richards C.Defender,11,0.06,7.2,-,1,1,82
+88Gb5U1E,japon,local,40/44 (91%),Adams T.Midfielder,6,-,7.1,-,-,-,49
+88Gb5U1E,japon,local,59/62 (95%),Blackmon T.Defender,5,-,7.1,-,-,-,74
+88Gb5U1E,japon,local,15/17 (88%),Luna D.Midfielder,2,-,7.1,-,-,2,19
+88Gb5U1E,japon,local,30/35 (86%),Kamada D.Midfielder,6,0.02,7.0,1/1 (100%),1,3,44
+88Gb5U1E,japon,local,12/12 (100%),Maeda D.Forward,10,-,6.9,2/2 (100%),-,1,26
+88Gb5U1E,japon,local,21/27 (78%),Nagatomo Y.Defender,4,-,6.8,-,-,-,37
+88Gb5U1E,japon,local,60/73 (82%),Roldan C.Midfielder,10,-,6.8,1/1 (100%),-,3,83
+88Gb5U1E,japon,local,10/12 (83%),Sugawara Y.Defender,4,-,6.8,0/1 (0%),-,-,20
+88Gb5U1E,japon,local,23/24 (96%),Suzuki Y.Forward,2,0.02,6.8,-,1,1,33
+88Gb5U1E,japon,local,25/33 (76%),Freeman A.Defender,14,-,6.7,0/3 (0%),-,1,56
+88Gb5U1E,japon,local,7/10 (70%),McGlynn J.Midfielder,3,0.24,6.7,0/1 (0%),3,3,16
+88Gb5U1E,japon,local,20/27 (74%),Seko A.Defender,8,-,6.7,0/1 (0%),-,2,48
+88Gb5U1E,japon,local,35/40 (88%),Sano K.Midfielder,8,0.09,6.6,1/1 (100%),1,-,56
+88Gb5U1E,japon,local,2/2 (100%),Machino S.Forward,1,0.07,6.4,-,1,1,4
+88Gb5U1E,japon,local,8/10 (80%),Minamino T.Forward,3,-,6.4,0/2 (0%),-,-,18
+88Gb5U1E,japon,local,14/15 (93%),Mitoma K.Forward,4,-,6.4,2/3 (67%),-,3,23
+88Gb5U1E,japon,local,10/12 (83%),Dest S.Defender,6,0.08,6.3,-,1,5,20
+88Gb5U1E,japon,local,17/23 (74%),Mochizuki H.Defender,10,0.06,6.3,0/1 (0%),1,4,41
+88Gb5U1E,japon,local,7/10 (70%),Ogawa K.Forward,7,0.24,6.3,-,3,3,15
+88Gb5U1E,japon,local,56/61 (92%),Araki H.Defender,10,0.10,6.2,-,1,1,70
+88Gb5U1E,japon,local,18/20 (90%),Ito J.Forward,10,0.46,6.2,3/3 (100%),1,7,47
+88Gb5U1E,japon,local,3/5 (60%),Downs D.Forward,2,0.26,6.1,-,1,2,6
+88Gb5U1E,japon,local,26/31 (84%),Fujita J.Midfielder,6,-,6.1,-,-,-,36
+88Gb5U1E,japon,local,45/50 (90%),Sekine H.Defender,2,0.02,6.0,-,1,-,54
+88Gb5U1E,japon,local,2/2 (100%),Harriel N.Defender,-,-,-,-,-,-,5
+tMKiW70U,japon,local,50/55 (91%),Araki H.Centre back,13,-,8.1,-,-,-,69
+tMKiW70U,japon,local,40/50 (80%),Koga T.Centre back,8,-,7.8,-,-,-,66
+tMKiW70U,japon,local,37/42 (88%),Ando T.Centre back,16,0.02,7.6,-,1,1,64
+tMKiW70U,japon,local,10/13 (77%),Soma Y.Wingback,5,-,7.6,2/2 (100%),-,-,36
+tMKiW70U,japon,local,13/19 (68%),Mochizuki H.Wingback,13,-,7.5,1/2 (50%),-,1,40
+tMKiW70U,japon,local,17/21 (81%),Germain R.Attacking midfielder,8,0.05,7.0,1/1 (100%),1,2,29
+tMKiW70U,japon,local,20/28 (71%),Lee Tae-SeokFullback,11,0.12,7.0,-,3,1,61
+tMKiW70U,japon,local,13/27 (48%),Osako K.Goalkeeper,-,-,7.0,-,-,-,31
+tMKiW70U,japon,local,63/73 (86%),Park Jin-SeobCentre back,6,-,7.0,-,-,-,82
+tMKiW70U,japon,local,33/37 (89%),Inagaki S.Midfielder,7,0.01,6.8,-,1,1,47
+tMKiW70U,japon,local,4/7 (57%),Oh Se-HunForward,6,-,6.8,-,-,2,8
+tMKiW70U,japon,local,28/37 (76%),Kawabe H.Midfielder,3,-,6.7,-,-,-,43
+tMKiW70U,japon,local,55/61 (90%),Seo Min-WooMidfielder,6,-,6.7,0/1 (0%),-,1,73
+tMKiW70U,japon,local,0/2 (0%),Hosoya M.Forward,5,0.09,6.6,-,1,1,9
+tMKiW70U,japon,local,19/23 (83%),Lee Dong-GyeongAttacking midfielder,8,0.34,6.6,0/1 (0%),2,2,39
+tMKiW70U,japon,local,12/20 (60%),Lee Ho-JaeForward,11,0.17,6.6,-,3,6,26
+tMKiW70U,japon,local,50/68 (74%),Park Seung-WookFullback,7,-,6.5,-,-,1,81
+tMKiW70U,japon,local,11/13 (85%),Sato R.Midfielder,3,-,6.5,0/1 (0%),-,-,21
+tMKiW70U,japon,local,6/8 (75%),Kang Sang-YoonMidfielder,2,-,6.4,0/1 (0%),-,1,10
+tMKiW70U,japon,local,33/43 (77%),Kim Jin-GyuMidfielder,2,-,6.4,-,-,2,54
+tMKiW70U,japon,local,46/50 (92%),Kim Ju-SungCentre back,6,-,6.4,-,-,1,58
+tMKiW70U,japon,local,5/6 (83%),Ueda N.Defender,-,-,6.4,-,-,-,7
+tMKiW70U,japon,local,1/1 (100%),Uno Z.Midfielder,1,-,6.4,-,-,-,5
+tMKiW70U,japon,local,1/3 (33%),Moon Seon-MinForward,6,-,6.3,0/2 (0%),-,-,13
+tMKiW70U,japon,local,7/9 (78%),Kakita Y.Striker,3,-,6.2,-,-,2,18
+tMKiW70U,japon,local,5/5 (100%),Joo Min-KyuStriker,13,-,6.1,-,-,1,10
+tMKiW70U,japon,local,2/8 (25%),Miyashiro T.Attacking midfielder,7,-,6.0,0/1 (0%),-,-,18
+tMKiW70U,japon,local,22/32 (69%),Kim Moon-HwanWinger,5,-,5.9,1/1 (100%),-,1,58
+tMKiW70U,japon,local,21/33 (64%),Jo Hyeon-WooGoalkeeper,-,-,5.8,-,-,-,36
+tMKiW70U,japon,local,8/9 (89%),Na Sang-HoWinger,7,0.04,5.4,0/3 (0%),1,1,22
+tMKiW70U,japon,local,4/5 (80%),Hara T.Forward,5,-,-,-,-,-,7
+tMKiW70U,japon,local,1/2 (50%),Jeong Seung-WonForward,1,-,-,-,-,-,2
+AHWJwY1t,japon,local,40/47 (85%),Mochizuki H.Fullback,8,0.18,8.2,2/2 (100%),2,2,78
+AHWJwY1t,japon,local,44/48 (92%),Tanaka S.Midfielder,5,0.04,8.0,1/1 (100%),1,-,56
+AHWJwY1t,japon,local,81/88 (92%),Tsunashima Y.Centre back,4,0.19,8.0,-,1,1,99
+AHWJwY1t,japon,local,11/12 (92%),Hayakawa T.Goalkeeper,-,-,7.8,-,-,-,20
+AHWJwY1t,japon,local,75/88 (85%),Uno Z.Midfielder,6,0.10,7.8,0/1 (0%),2,1,103
+AHWJwY1t,japon,local,20/25 (80%),Hosoya M.Striker,8,0.29,7.6,-,4,4,41
+AHWJwY1t,japon,local,71/79 (90%),Nagatomo Y.Fullback,6,-,7.6,-,-,-,94
+AHWJwY1t,japon,local,77/86 (90%),Ueda N.Centre back,9,0.02,7.3,-,1,1,94
+AHWJwY1t,japon,local,47/52 (90%),Inagaki S.Midfielder,2,0.20,7.1,-,2,1,58
+AHWJwY1t,japon,local,17/31 (55%),Yan JunlingGoalkeeper,-,-,7.0,-,-,-,41
+AHWJwY1t,japon,local,8/11 (73%),Soma Y.Forward,3,0.03,6.9,1/1 (100%),1,2,21
+AHWJwY1t,japon,local,16/18 (89%),Ozeki Y.Midfielder,3,0.13,6.8,0/2 (0%),1,3,27
+AHWJwY1t,japon,local,23/31 (74%),Sato R.Winger,5,0.17,6.8,-,2,2,52
+AHWJwY1t,japon,local,15/18 (83%),Tawaratsumida K.Winger,5,-,6.8,-,-,3,31
+AHWJwY1t,japon,local,39/45 (87%),Zhu ChenjieCentre back,5,-,6.8,0/1 (0%),-,-,66
+AHWJwY1t,japon,local,4/5 (80%),SerginhoForward,4,-,6.6,0/2 (0%),-,-,12
+AHWJwY1t,japon,local,13/19 (68%),Xu XinMidfielder,3,0.03,6.6,1/1 (100%),1,-,24
+AHWJwY1t,japon,local,9/11 (82%),Hara T.Striker,4,-,6.5,-,-,1,16
+AHWJwY1t,japon,local,18/21 (86%),Germain R.Forward,3,-,6.4,0/1 (0%),-,3,28
+AHWJwY1t,japon,local,24/27 (89%),Ba DunWinger,5,0.01,6.3,1/1 (100%),1,-,48
+AHWJwY1t,japon,local,4/6 (67%),Wang ZimingForward,1,-,6.2,-,-,-,7
+AHWJwY1t,japon,local,11/17 (65%),Xie WennengMidfielder,1,0.02,6.2,-,1,-,27
+AHWJwY1t,japon,local,14/17 (82%),Huang ZhengyuMidfielder,3,-,6.1,-,-,-,25
+AHWJwY1t,japon,local,4/4 (100%),Tao QianglongMidfielder,-,-,6.1,-,-,-,6
+AHWJwY1t,japon,local,9/13 (69%),Wang ShiqinFullback,3,-,5.9,-,-,1,22
+AHWJwY1t,japon,local,8/13 (62%),Zhang YuningStriker,12,0.31,5.9,-,1,1,32
+AHWJwY1t,japon,local,39/47 (83%),Jiang ShenglongCentre back,5,-,5.8,1/1 (100%),-,-,60
+AHWJwY1t,japon,local,34/39 (87%),Liu HaofanFullback,4,-,5.8,1/1 (100%),-,-,54
+AHWJwY1t,japon,local,30/41 (73%),Gao TianyiMidfielder,9,-,5.5,1/1 (100%),-,-,56
+AHWJwY1t,japon,local,6/10 (60%),Wei ShihaoStriker,8,0.22,5.5,0/1 (0%),2,2,18
+AHWJwY1t,japon,local,12/17 (71%),Wang Y.Winger,8,0.05,5.4,1/2 (50%),2,2,34
+AHWJwY1t,japon,local,1/1 (100%),Nakamura S.Forward,-,-,-,-,-,-,2
+6qQSyCWh,japon,local,14/17 (82%),Germain R.Attacking midfielder,6,0.86,9.7,0/1 (0%),4,6,26
+6qQSyCWh,japon,local,20/27 (74%),Soma Y.Wingback,3,0.06,8.5,-,2,3,61
+6qQSyCWh,japon,local,64/69 (93%),Ando T.Centre back,8,-,8.1,-,-,2,84
+6qQSyCWh,japon,local,56/64 (88%),Araki H.Centre back,10,0.14,7.8,-,2,2,74
+6qQSyCWh,japon,local,23/29 (79%),Kubo T.Wingback,8,0.04,7.7,1/4 (25%),1,2,52
+6qQSyCWh,japon,local,69/81 (85%),Koga T.Centre back,10,-,7.5,-,-,1,88
+6qQSyCWh,japon,local,9/14 (64%),Nakamura S.Forward,3,0.36,7.5,0/1 (0%),3,6,20
+6qQSyCWh,japon,local,33/37 (89%),Inagaki S.Midfielder,5,0.08,7.4,-,3,-,49
+6qQSyCWh,japon,local,32/36 (89%),Miyashiro T.Attacking midfielder,5,0.14,7.3,0/1 (0%),3,7,52
+6qQSyCWh,japon,local,6/8 (75%),Kakita Y.Striker,3,0.04,7.0,-,1,3,11
+6qQSyCWh,japon,local,13/17 (76%),Ozeki Y.Midfielder,2,0.22,7.0,1/1 (100%),2,4,25
+6qQSyCWh,japon,local,44/51 (86%),Kawabe H.Midfielder,5,-,6.8,1/1 (100%),-,-,56
+6qQSyCWh,japon,local,12/12 (100%),Sato R.Midfielder,2,-,6.7,-,-,3,13
+6qQSyCWh,japon,local,11/15 (73%),Orr M.Striker,9,0.05,6.6,0/1 (0%),1,1,20
+6qQSyCWh,japon,local,6/8 (75%),Udebuluzor M.Forward,14,-,6.5,1/2 (50%),-,-,17
+6qQSyCWh,japon,local,3/5 (60%),Yamada S.Forward,6,0.02,6.5,-,1,1,9
+6qQSyCWh,japon,local,6/10 (60%),Mochizuki H.Defender,1,-,6.4,-,-,-,13
+6qQSyCWh,japon,local,6/14 (43%),Wong W.Midfielder,4,-,6.4,-,-,-,19
+6qQSyCWh,japon,local,3/5 (60%),Ngan Cheuk-PanMidfielder,4,-,6.3,-,-,-,11
+6qQSyCWh,japon,local,16/25 (64%),Yue Tze-NamWingback,4,0.02,6.3,1/1 (100%),1,-,47
+6qQSyCWh,japon,local,3/4 (75%),Lau K.Forward,2,0.02,6.2,-,1,-,6
+6qQSyCWh,japon,local,14/14 (100%),Pisano A.Goalkeeper,1,-,6.2,-,-,-,21
+6qQSyCWh,japon,local,7/11 (64%),FernandoCentre back,6,-,6.1,-,-,-,19
+6qQSyCWh,japon,local,1/1 (100%),Mahama A.Forward,2,-,6.1,-,-,-,2
+6qQSyCWh,japon,local,15/27 (56%),Tan Chun-LokMidfielder,2,-,6.1,-,-,-,44
+6qQSyCWh,japon,local,10/17 (59%),Chan ShinichiWingback,10,0.01,6.0,-,1,-,44
+6qQSyCWh,japon,local,15/15 (100%),Gerbig O.Centre back,4,-,5.9,-,-,-,27
+6qQSyCWh,japon,local,6/10 (60%),Sun Ming-HimAttacking midfielder,6,0.02,5.9,-,1,1,24
+6qQSyCWh,japon,local,12/12 (100%),JuninhoAttacking midfielder,6,0.02,5.8,-,1,1,18
+6qQSyCWh,japon,local,17/26 (65%),Jones L.Centre back,5,-,5.6,0/1 (0%),-,1,36
+6qQSyCWh,japon,local,15/38 (39%),Yapp H.Goalkeeper,-,-,5.2,-,-,-,45
+6qQSyCWh,japon,local,3/3 (100%),StefanForward,-,0.03,-,-,1,1,4
